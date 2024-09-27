@@ -1,0 +1,3 @@
+#mpa_vJun23_CHOCOPhlAnSGB_202403
+#clade_name	relative_abundance
+UNCLASSIFIED	100.0
