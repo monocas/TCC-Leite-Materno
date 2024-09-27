@@ -1,0 +1,15 @@
+#mpa_vJun23_CHOCOPhlAnSGB_202403
+#clade_name	relative_abundance
+d__Bacteria	100.0
+d__Bacteria;p__Actinobacteriota	75.01385
+d__Bacteria;p__Firmicutes	24.98615
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia	75.01385
+d__Bacteria;p__Firmicutes;c__Bacilli	24.98615
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales	75.01385
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales	24.98615
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae	75.01385
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae	24.98615
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__Rothia	75.01385
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus	24.98615
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__Rothia;s__Rothia mucilaginosa	75.01385
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus sp001813295	24.98615
