@@ -1,0 +1,14 @@
+#clade_name	relative_abundance
+d__Bacteria	100.0
+d__Bacteria;p__Firmicutes	53.91577
+d__Bacteria;p__Actinobacteriota	46.08423
+d__Bacteria;p__Firmicutes;c__Bacilli	53.91577
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia	46.08423
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales	53.91577
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales	46.08423
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae	53.91577
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae	46.08423
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus	53.91577
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__Rothia	46.08423
+d__Bacteria;p__Firmicutes;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus mitis	53.91577
+d__Bacteria;p__Actinobacteriota;c__Actinomycetia;o__Actinomycetales;f__Micrococcaceae;g__Rothia;s__Rothia mucilaginosa	46.08423

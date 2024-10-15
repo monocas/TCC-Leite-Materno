@@ -1,0 +1,2 @@
+#clade_name	relative_abundance
+UNCLASSIFIED	100.0
