@@ -1,0 +1,2284 @@
+ORF	ORF_ID	Virulence_HMM_prediction	Virulence_classifier_prediction	Virulence_prediction	Signal_peptide	Virulence_confidence_level	group
+1_1	0000000001	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+2_1	0000000002	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+2_2	0000000003	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+3_1	0000000004	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+4_1	0000000005	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+5_1	0000000006	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+5_2	0000000007	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+6_1	0000000008	negative	negative	non_pathogenic	N	-	Colostrum
+6_2	0000000009	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+7_1	0000000010	negative	negative	non_pathogenic	N	-	Colostrum
+7_2	0000000011	negative	negative	non_pathogenic	N	-	Colostrum
+8_1	0000000012	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+9_1	0000000013	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+10_1	0000000014	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+11_1	0000000015	negative	negative	non_pathogenic	N	-	Colostrum
+12_1	0000000016	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+12_2	0000000017	negative	negative	non_pathogenic	N	-	Colostrum
+13_1	0000000018	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+14_1	0000000019	negative	negative	non_pathogenic	Y	-	Colostrum
+14_2	0000000020	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+15_1	0000000021	negative	negative	non_pathogenic	N	-	Colostrum
+16_1	0000000022	negative	negative	non_pathogenic	N	-	Colostrum
+17_1	0000000023	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+18_1	0000000024	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+19_1	0000000025	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+20_1	0000000026	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+21_1	0000000027	negative	negative	non_pathogenic	N	-	Colostrum
+22_1	0000000028	negative	negative	non_pathogenic	N	-	Colostrum
+22_2	0000000029	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+22_3	0000000030	negative	negative	non_pathogenic	N	-	Colostrum
+22_4	0000000031	negative	negative	non_pathogenic	N	-	Colostrum
+22_5	0000000032	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+23_1	0000000033	negative	negative	non_pathogenic	N	-	Colostrum
+24_1	0000000034	negative	negative	non_pathogenic	N	-	Colostrum
+25_1	0000000035	negative	negative	non_pathogenic	N	-	Colostrum
+25_2	0000000036	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+25_3	0000000037	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+25_4	0000000038	negative	negative	non_pathogenic	N	-	Colostrum
+25_5	0000000039	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+26_1	0000000040	negative	negative	non_pathogenic	N	-	Colostrum
+26_2	0000000041	negative	negative	non_pathogenic	N	-	Colostrum
+27_1	0000000042	negative	negative	non_pathogenic	N	-	Colostrum
+28_1	0000000043	negative	negative	non_pathogenic	N	-	Colostrum
+28_2	0000000044	negative	negative	non_pathogenic	N	-	Colostrum
+28_3	0000000045	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+28_4	0000000046	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+29_1	0000000047	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+29_2	0000000048	negative	negative	non_pathogenic	N	-	Colostrum
+31_1	0000000049	negative	negative	non_pathogenic	N	-	Colostrum
+32_1	0000000050	negative	negative	non_pathogenic	N	-	Colostrum
+33_1	0000000051	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+34_1	0000000052	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+35_1	0000000053	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+36_1	0000000054	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+37_1	0000000055	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+38_1	0000000056	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+39_1	0000000057	negative	negative	non_pathogenic	N	-	Colostrum
+39_2	0000000058	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+40_1	0000000059	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+41_1	0000000060	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+42_1	0000000061	negative	negative	non_pathogenic	N	-	Colostrum
+42_2	0000000062	negative	negative	non_pathogenic	N	-	Colostrum
+42_3	0000000063	negative	negative	non_pathogenic	N	-	Colostrum
+43_1	0000000064	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+43_2	0000000065	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+44_1	0000000066	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+45_1	0000000067	negative	negative	non_pathogenic	N	-	Colostrum
+46_1	0000000068	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+48_1	0000000069	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+49_1	0000000070	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+50_1	0000000071	negative	negative	non_pathogenic	N	-	Colostrum
+51_1	0000000072	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+52_1	0000000073	negative	negative	non_pathogenic	N	-	Colostrum
+52_2	0000000074	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+53_1	0000000075	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+54_1	0000000076	negative	negative	non_pathogenic	N	-	Colostrum
+54_2	0000000077	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+54_3	0000000078	negative	negative	non_pathogenic	N	-	Colostrum
+55_1	0000000079	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+56_1	0000000080	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+57_1	0000000081	negative	negative	non_pathogenic	N	-	Colostrum
+58_1	0000000082	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+59_1	0000000083	negative	negative	non_pathogenic	N	-	Colostrum
+60_1	0000000084	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+61_1	0000000085	negative	negative	non_pathogenic	N	-	Colostrum
+62_1	0000000086	negative	negative	non_pathogenic	N	-	Colostrum
+62_2	0000000087	negative	negative	non_pathogenic	N	-	Colostrum
+63_1	0000000088	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+64_1	0000000089	negative	negative	non_pathogenic	N	-	Colostrum
+64_2	0000000090	negative	negative	non_pathogenic	N	-	Colostrum
+64_3	0000000091	negative	negative	non_pathogenic	N	-	Colostrum
+64_4	0000000092	negative	negative	non_pathogenic	N	-	Colostrum
+65_1	0000000093	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+65_2	0000000094	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+66_1	0000000095	negative	negative	non_pathogenic	N	-	Colostrum
+67_1	0000000096	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+67_2	0000000097	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+67_3	0000000098	negative	negative	non_pathogenic	N	-	Colostrum
+68_1	0000000099	negative	negative	non_pathogenic	N	-	Colostrum
+69_1	0000000100	negative	negative	non_pathogenic	Y	-	Colostrum
+69_2	0000000101	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+70_1	0000000102	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+71_1	0000000103	negative	negative	non_pathogenic	N	-	Colostrum
+72_1	0000000104	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+73_1	0000000105	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+74_1	0000000106	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+74_2	0000000107	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+75_1	0000000108	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+75_2	0000000109	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+75_3	0000000110	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+76_1	0000000111	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+76_2	0000000112	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+76_3	0000000113	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+77_1	0000000114	negative	negative	non_pathogenic	N	-	Colostrum
+78_1	0000000115	negative	negative	non_pathogenic	N	-	Colostrum
+79_1	0000000116	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+80_1	0000000117	negative	negative	non_pathogenic	N	-	Colostrum
+81_1	0000000118	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+82_1	0000000119	negative	negative	non_pathogenic	N	-	Colostrum
+83_1	0000000120	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+84_1	0000000121	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+85_1	0000000122	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+85_2	0000000123	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+86_1	0000000124	negative	negative	non_pathogenic	N	-	Colostrum
+86_2	0000000125	negative	negative	non_pathogenic	N	-	Colostrum
+87_1	0000000126	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+88_1	0000000127	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+91_1	0000000128	negative	negative	non_pathogenic	N	-	Colostrum
+92_1	0000000129	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+93_1	0000000130	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+94_1	0000000131	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+94_2	0000000132	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+95_1	0000000133	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+96_1	0000000134	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+96_2	0000000135	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+96_3	0000000136	negative	negative	non_pathogenic	N	-	Colostrum
+96_4	0000000137	negative	negative	non_pathogenic	N	-	Colostrum
+96_5	0000000138	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+97_1	0000000139	negative	negative	non_pathogenic	N	-	Colostrum
+97_2	0000000140	negative	negative	non_pathogenic	N	-	Colostrum
+98_1	0000000141	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+99_1	0000000142	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+100_1	0000000143	negative	negative	non_pathogenic	N	-	Colostrum
+100_2	0000000144	negative	negative	non_pathogenic	N	-	Colostrum
+101_1	0000000145	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+102_1	0000000146	negative	negative	non_pathogenic	N	-	Colostrum
+103_1	0000000147	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+104_1	0000000148	negative	negative	non_pathogenic	N	-	Colostrum
+104_2	0000000149	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+105_1	0000000150	negative	negative	non_pathogenic	N	-	Colostrum
+106_1	0000000151	negative	negative	non_pathogenic	N	-	Colostrum
+107_1	0000000152	negative	negative	non_pathogenic	N	-	Colostrum
+107_2	0000000153	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+108_1	0000000154	negative	negative	non_pathogenic	N	-	Colostrum
+109_1	0000000155	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+111_1	0000000156	negative	negative	non_pathogenic	N	-	Colostrum
+112_1	0000000157	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+113_1	0000000158	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+113_2	0000000159	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+114_1	0000000160	negative	negative	non_pathogenic	N	-	Colostrum
+115_1	0000000161	negative	negative	non_pathogenic	N	-	Colostrum
+116_1	0000000162	negative	negative	non_pathogenic	N	-	Colostrum
+117_1	0000000163	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+118_1	0000000164	negative	negative	non_pathogenic	N	-	Colostrum
+119_1	0000000165	negative	negative	non_pathogenic	N	-	Colostrum
+120_1	0000000166	negative	negative	non_pathogenic	N	-	Colostrum
+120_2	0000000167	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+121_1	0000000168	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+121_2	0000000169	negative	negative	non_pathogenic	N	-	Colostrum
+122_1	0000000170	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+123_1	0000000171	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+124_1	0000000172	negative	negative	non_pathogenic	N	-	Colostrum
+124_2	0000000173	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+125_1	0000000174	negative	negative	non_pathogenic	N	-	Colostrum
+126_1	0000000175	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+127_1	0000000176	negative	negative	non_pathogenic	N	-	Colostrum
+127_2	0000000177	negative	negative	non_pathogenic	N	-	Colostrum
+127_3	0000000178	negative	negative	non_pathogenic	N	-	Colostrum
+127_4	0000000179	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+128_1	0000000180	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+128_2	0000000181	negative	negative	non_pathogenic	N	-	Colostrum
+129_1	0000000182	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+129_2	0000000183	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+130_1	0000000184	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+131_1	0000000185	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+132_1	0000000186	negative	negative	non_pathogenic	N	-	Colostrum
+132_2	0000000187	negative	negative	non_pathogenic	N	-	Colostrum
+132_3	0000000188	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+133_1	0000000189	negative	negative	non_pathogenic	N	-	Colostrum
+133_2	0000000190	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+134_1	0000000191	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+134_2	0000000192	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+137_1	0000000193	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+138_1	0000000194	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+139_1	0000000195	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+140_1	0000000196	negative	negative	non_pathogenic	N	-	Colostrum
+141_1	0000000197	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+142_1	0000000198	negative	negative	non_pathogenic	N	-	Colostrum
+143_1	0000000199	negative	negative	non_pathogenic	N	-	Colostrum
+144_1	0000000200	negative	negative	non_pathogenic	N	-	Colostrum
+144_2	0000000201	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+145_1	0000000202	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+146_1	0000000203	negative	negative	non_pathogenic	N	-	Colostrum
+146_2	0000000204	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+147_1	0000000205	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+148_1	0000000206	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+149_1	0000000207	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+150_1	0000000208	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+151_1	0000000209	negative	negative	non_pathogenic	N	-	Colostrum
+152_1	0000000210	negative	negative	non_pathogenic	N	-	Colostrum
+153_1	0000000211	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+154_1	0000000212	negative	negative	non_pathogenic	N	-	Colostrum
+155_1	0000000213	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+156_1	0000000214	negative	negative	non_pathogenic	N	-	Colostrum
+156_2	0000000215	negative	negative	non_pathogenic	N	-	Colostrum
+156_3	0000000216	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+156_4	0000000217	negative	negative	non_pathogenic	N	-	Colostrum
+157_1	0000000218	negative	negative	non_pathogenic	N	-	Colostrum
+157_2	0000000219	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+158_1	0000000220	negative	negative	non_pathogenic	N	-	Colostrum
+158_2	0000000221	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+159_1	0000000222	negative	negative	non_pathogenic	N	-	Colostrum
+159_2	0000000223	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+160_1	0000000224	negative	negative	non_pathogenic	N	-	Colostrum
+160_2	0000000225	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+161_1	0000000226	negative	negative	non_pathogenic	N	-	Colostrum
+162_1	0000000227	negative	negative	non_pathogenic	N	-	Colostrum
+162_2	0000000228	negative	negative	non_pathogenic	N	-	Colostrum
+163_1	0000000229	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+164_1	0000000230	negative	negative	non_pathogenic	N	-	Colostrum
+165_1	0000000231	negative	negative	non_pathogenic	N	-	Colostrum
+165_2	0000000232	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+166_1	0000000233	negative	negative	non_pathogenic	N	-	Colostrum
+166_2	0000000234	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+167_1	0000000235	negative	negative	non_pathogenic	N	-	Colostrum
+168_1	0000000236	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+168_2	0000000237	negative	negative	non_pathogenic	N	-	Colostrum
+169_1	0000000238	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+170_1	0000000239	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+170_2	0000000240	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+170_3	0000000241	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+171_1	0000000242	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+172_1	0000000243	negative	negative	non_pathogenic	N	-	Colostrum
+173_1	0000000244	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+174_1	0000000245	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+174_2	0000000246	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+174_3	0000000247	negative	negative	non_pathogenic	N	-	Colostrum
+175_1	0000000248	negative	negative	non_pathogenic	N	-	Colostrum
+175_2	0000000249	negative	negative	non_pathogenic	N	-	Colostrum
+175_3	0000000250	negative	negative	non_pathogenic	N	-	Colostrum
+176_1	0000000251	negative	negative	non_pathogenic	N	-	Colostrum
+177_1	0000000252	negative	negative	non_pathogenic	N	-	Colostrum
+178_1	0000000253	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+179_1	0000000254	negative	negative	non_pathogenic	N	-	Colostrum
+179_2	0000000255	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+180_1	0000000256	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+181_1	0000000257	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+182_1	0000000258	negative	negative	non_pathogenic	N	-	Colostrum
+182_2	0000000259	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+184_1	0000000260	negative	negative	non_pathogenic	N	-	Colostrum
+184_2	0000000261	negative	negative	non_pathogenic	N	-	Colostrum
+184_3	0000000262	negative	negative	non_pathogenic	N	-	Colostrum
+184_4	0000000263	negative	negative	non_pathogenic	N	-	Colostrum
+185_1	0000000264	negative	negative	non_pathogenic	N	-	Colostrum
+185_2	0000000265	negative	negative	non_pathogenic	N	-	Colostrum
+186_1	0000000266	negative	negative	non_pathogenic	N	-	Colostrum
+186_2	0000000267	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+187_1	0000000268	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+188_1	0000000269	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+189_1	0000000270	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+190_1	0000000271	negative	negative	non_pathogenic	N	-	Colostrum
+191_1	0000000272	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+191_2	0000000273	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+192_1	0000000274	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+193_1	0000000275	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+194_1	0000000276	negative	negative	non_pathogenic	N	-	Colostrum
+195_1	0000000277	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+196_1	0000000278	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+197_1	0000000279	negative	negative	non_pathogenic	N	-	Colostrum
+197_2	0000000280	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+197_3	0000000281	negative	negative	non_pathogenic	N	-	Colostrum
+198_1	0000000282	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+199_1	0000000283	negative	negative	non_pathogenic	N	-	Colostrum
+199_2	0000000284	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+199_3	0000000285	negative	negative	non_pathogenic	N	-	Colostrum
+199_4	0000000286	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+200_1	0000000287	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+201_1	0000000288	negative	negative	non_pathogenic	N	-	Colostrum
+201_2	0000000289	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+201_3	0000000290	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+201_4	0000000291	negative	negative	non_pathogenic	N	-	Colostrum
+202_1	0000000292	negative	negative	non_pathogenic	N	-	Colostrum
+203_1	0000000293	negative	negative	non_pathogenic	N	-	Colostrum
+204_1	0000000294	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+204_2	0000000295	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+204_3	0000000296	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+205_1	0000000297	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+206_1	0000000298	negative	negative	non_pathogenic	N	-	Colostrum
+206_2	0000000299	negative	negative	non_pathogenic	N	-	Colostrum
+207_1	0000000300	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+208_1	0000000301	negative	negative	non_pathogenic	N	-	Colostrum
+209_1	0000000302	negative	negative	non_pathogenic	N	-	Colostrum
+209_2	0000000303	negative	negative	non_pathogenic	N	-	Colostrum
+210_1	0000000304	negative	negative	non_pathogenic	N	-	Colostrum
+210_2	0000000305	negative	negative	non_pathogenic	N	-	Colostrum
+212_1	0000000306	negative	negative	non_pathogenic	N	-	Colostrum
+212_2	0000000307	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+213_1	0000000308	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+214_1	0000000309	negative	negative	non_pathogenic	N	-	Colostrum
+215_1	0000000310	negative	negative	non_pathogenic	N	-	Colostrum
+215_2	0000000311	negative	negative	non_pathogenic	N	-	Colostrum
+215_3	0000000312	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+216_1	0000000313	negative	negative	non_pathogenic	N	-	Colostrum
+217_1	0000000314	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+218_1	0000000315	negative	negative	non_pathogenic	N	-	Colostrum
+218_2	0000000316	negative	negative	non_pathogenic	N	-	Colostrum
+219_1	0000000317	negative	negative	non_pathogenic	N	-	Colostrum
+220_1	0000000318	negative	negative	non_pathogenic	N	-	Colostrum
+220_2	0000000319	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+221_1	0000000320	negative	negative	non_pathogenic	N	-	Colostrum
+222_1	0000000321	negative	negative	non_pathogenic	N	-	Colostrum
+222_2	0000000322	negative	negative	non_pathogenic	N	-	Colostrum
+223_1	0000000323	negative	negative	non_pathogenic	N	-	Colostrum
+224_1	0000000324	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+225_1	0000000325	negative	negative	non_pathogenic	N	-	Colostrum
+225_2	0000000326	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+226_1	0000000327	negative	negative	non_pathogenic	N	-	Colostrum
+226_2	0000000328	negative	negative	non_pathogenic	N	-	Colostrum
+227_1	0000000329	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+228_1	0000000330	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+228_2	0000000331	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+228_3	0000000332	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+229_1	0000000333	negative	negative	non_pathogenic	N	-	Colostrum
+229_2	0000000334	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+230_1	0000000335	negative	negative	non_pathogenic	N	-	Colostrum
+230_2	0000000336	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+231_1	0000000337	negative	negative	non_pathogenic	N	-	Colostrum
+232_1	0000000338	negative	negative	non_pathogenic	N	-	Colostrum
+234_1	0000000339	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+235_1	0000000340	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+235_2	0000000341	negative	negative	non_pathogenic	N	-	Colostrum
+236_1	0000000342	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+237_1	0000000343	negative	negative	non_pathogenic	N	-	Colostrum
+237_2	0000000344	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+237_3	0000000345	negative	negative	non_pathogenic	N	-	Colostrum
+238_1	0000000346	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+239_1	0000000347	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+239_2	0000000348	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+239_3	0000000349	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+240_1	0000000350	negative	negative	non_pathogenic	N	-	Colostrum
+240_2	0000000351	negative	negative	non_pathogenic	N	-	Colostrum
+241_1	0000000352	negative	negative	non_pathogenic	N	-	Colostrum
+241_2	0000000353	negative	negative	non_pathogenic	N	-	Colostrum
+241_3	0000000354	negative	negative	non_pathogenic	N	-	Colostrum
+242_1	0000000355	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+243_1	0000000356	negative	negative	non_pathogenic	N	-	Colostrum
+243_2	0000000357	negative	negative	non_pathogenic	N	-	Colostrum
+243_3	0000000358	negative	negative	non_pathogenic	N	-	Colostrum
+244_1	0000000359	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+244_2	0000000360	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+245_1	0000000361	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+246_1	0000000362	negative	negative	non_pathogenic	N	-	Colostrum
+246_2	0000000363	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+247_1	0000000364	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+247_2	0000000365	negative	negative	non_pathogenic	N	-	Colostrum
+248_1	0000000366	negative	negative	non_pathogenic	N	-	Colostrum
+249_1	0000000367	negative	negative	non_pathogenic	N	-	Colostrum
+249_2	0000000368	negative	negative	non_pathogenic	N	-	Colostrum
+250_1	0000000369	negative	negative	non_pathogenic	N	-	Colostrum
+250_2	0000000370	negative	negative	non_pathogenic	N	-	Colostrum
+251_1	0000000371	negative	negative	non_pathogenic	N	-	Colostrum
+252_1	0000000372	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+253_1	0000000373	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+254_1	0000000374	negative	negative	non_pathogenic	N	-	Colostrum
+254_2	0000000375	negative	negative	non_pathogenic	N	-	Colostrum
+254_3	0000000376	negative	negative	non_pathogenic	N	-	Colostrum
+255_1	0000000377	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+256_1	0000000378	negative	negative	non_pathogenic	N	-	Colostrum
+256_2	0000000379	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+256_3	0000000380	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+256_4	0000000381	negative	negative	non_pathogenic	N	-	Colostrum
+257_1	0000000382	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+258_1	0000000383	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+259_1	0000000384	negative	negative	non_pathogenic	Y	-	Colostrum
+260_1	0000000385	negative	negative	non_pathogenic	N	-	Colostrum
+261_1	0000000386	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+262_1	0000000387	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+263_1	0000000388	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+264_1	0000000389	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+265_1	0000000390	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+266_1	0000000391	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+267_1	0000000392	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+267_2	0000000393	negative	negative	non_pathogenic	N	-	Colostrum
+268_1	0000000394	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+269_1	0000000395	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+270_1	0000000396	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+271_1	0000000397	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+271_2	0000000398	negative	negative	non_pathogenic	N	-	Colostrum
+272_1	0000000399	negative	negative	non_pathogenic	N	-	Colostrum
+273_1	0000000400	negative	negative	non_pathogenic	N	-	Colostrum
+273_2	0000000401	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+274_1	0000000402	negative	negative	non_pathogenic	N	-	Colostrum
+275_1	0000000403	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+276_1	0000000404	negative	negative	non_pathogenic	N	-	Colostrum
+277_1	0000000405	negative	negative	non_pathogenic	N	-	Colostrum
+278_1	0000000406	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+278_2	0000000407	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+278_3	0000000408	negative	negative	non_pathogenic	N	-	Colostrum
+279_1	0000000409	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+280_1	0000000410	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+281_1	0000000411	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+281_2	0000000412	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+282_1	0000000413	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+283_1	0000000414	negative	negative	non_pathogenic	N	-	Colostrum
+284_1	0000000415	negative	negative	non_pathogenic	N	-	Colostrum
+284_2	0000000416	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+284_3	0000000417	negative	negative	non_pathogenic	N	-	Colostrum
+286_1	0000000418	negative	negative	non_pathogenic	N	-	Colostrum
+287_1	0000000419	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+288_1	0000000420	negative	negative	non_pathogenic	N	-	Colostrum
+289_1	0000000421	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+290_1	0000000422	negative	negative	non_pathogenic	N	-	Colostrum
+290_2	0000000423	negative	negative	non_pathogenic	N	-	Colostrum
+290_3	0000000424	negative	negative	non_pathogenic	N	-	Colostrum
+291_1	0000000425	negative	negative	non_pathogenic	N	-	Colostrum
+292_1	0000000426	negative	negative	non_pathogenic	N	-	Colostrum
+293_1	0000000427	negative	negative	non_pathogenic	N	-	Colostrum
+293_2	0000000428	negative	negative	non_pathogenic	N	-	Colostrum
+293_3	0000000429	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+293_4	0000000430	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+293_5	0000000431	negative	negative	non_pathogenic	N	-	Colostrum
+294_1	0000000432	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+295_1	0000000433	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+296_1	0000000434	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+297_1	0000000435	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+298_1	0000000436	negative	negative	non_pathogenic	N	-	Colostrum
+299_1	0000000437	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+300_1	0000000438	negative	negative	non_pathogenic	N	-	Colostrum
+300_2	0000000439	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+301_1	0000000440	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+302_1	0000000441	negative	negative	non_pathogenic	N	-	Colostrum
+302_2	0000000442	negative	negative	non_pathogenic	N	-	Colostrum
+303_1	0000000443	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+303_2	0000000444	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+304_1	0000000445	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+304_2	0000000446	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+304_3	0000000447	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+305_1	0000000448	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+306_1	0000000449	negative	negative	non_pathogenic	N	-	Colostrum
+306_2	0000000450	negative	negative	non_pathogenic	N	-	Colostrum
+307_1	0000000451	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+307_2	0000000452	negative	negative	non_pathogenic	N	-	Colostrum
+307_3	0000000453	negative	negative	non_pathogenic	N	-	Colostrum
+308_1	0000000454	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+309_1	0000000455	negative	negative	non_pathogenic	N	-	Colostrum
+309_2	0000000456	negative	negative	non_pathogenic	N	-	Colostrum
+309_3	0000000457	negative	negative	non_pathogenic	N	-	Colostrum
+310_1	0000000458	negative	negative	non_pathogenic	N	-	Colostrum
+310_2	0000000459	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+311_1	0000000460	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+312_1	0000000461	negative	negative	non_pathogenic	N	-	Colostrum
+313_1	0000000462	negative	negative	non_pathogenic	N	-	Colostrum
+313_2	0000000463	negative	negative	non_pathogenic	N	-	Colostrum
+313_3	0000000464	negative	negative	non_pathogenic	N	-	Colostrum
+314_1	0000000465	negative	negative	non_pathogenic	N	-	Colostrum
+316_1	0000000466	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+317_1	0000000467	negative	negative	non_pathogenic	N	-	Colostrum
+318_1	0000000468	negative	negative	non_pathogenic	N	-	Colostrum
+319_1	0000000469	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+320_1	0000000470	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+321_1	0000000471	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+322_1	0000000472	negative	negative	non_pathogenic	N	-	Colostrum
+323_1	0000000473	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+324_1	0000000474	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+325_1	0000000475	negative	negative	non_pathogenic	N	-	Colostrum
+326_1	0000000476	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+326_2	0000000477	negative	negative	non_pathogenic	N	-	Colostrum
+327_1	0000000478	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+328_1	0000000479	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+328_2	0000000480	negative	negative	non_pathogenic	N	-	Colostrum
+329_1	0000000481	negative	negative	non_pathogenic	N	-	Colostrum
+329_2	0000000482	negative	negative	non_pathogenic	N	-	Colostrum
+330_1	0000000483	negative	negative	non_pathogenic	N	-	Colostrum
+330_2	0000000484	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+330_3	0000000485	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+331_1	0000000486	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+331_2	0000000487	negative	negative	non_pathogenic	N	-	Colostrum
+331_3	0000000488	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+332_1	0000000489	negative	negative	non_pathogenic	N	-	Colostrum
+332_2	0000000490	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+332_3	0000000491	negative	negative	non_pathogenic	Y	-	Colostrum
+333_1	0000000492	negative	negative	non_pathogenic	N	-	Colostrum
+334_1	0000000493	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+335_1	0000000494	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+335_2	0000000495	negative	negative	non_pathogenic	N	-	Colostrum
+335_3	0000000496	negative	negative	non_pathogenic	N	-	Colostrum
+336_1	0000000497	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+337_1	0000000498	negative	negative	non_pathogenic	N	-	Colostrum
+337_2	0000000499	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+337_3	0000000500	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+338_1	0000000501	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+339_1	0000000502	negative	negative	non_pathogenic	N	-	Colostrum
+340_1	0000000503	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+341_1	0000000504	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+341_2	0000000505	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+342_1	0000000506	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+343_1	0000000507	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+343_2	0000000508	negative	negative	non_pathogenic	N	-	Colostrum
+344_1	0000000509	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+345_1	0000000510	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+346_1	0000000511	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+346_2	0000000512	negative	negative	non_pathogenic	N	-	Colostrum
+346_3	0000000513	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+347_1	0000000514	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+347_2	0000000515	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+348_1	0000000516	negative	negative	non_pathogenic	N	-	Colostrum
+349_1	0000000517	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+349_2	0000000518	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+350_1	0000000519	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+350_2	0000000520	negative	negative	non_pathogenic	N	-	Colostrum
+351_1	0000000521	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+351_2	0000000522	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+352_1	0000000523	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+353_1	0000000524	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+355_1	0000000525	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+356_1	0000000526	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+357_1	0000000527	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+357_2	0000000528	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+358_1	0000000529	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+359_1	0000000530	negative	negative	non_pathogenic	N	-	Colostrum
+360_1	0000000531	negative	negative	non_pathogenic	N	-	Colostrum
+361_1	0000000532	negative	negative	non_pathogenic	N	-	Colostrum
+361_2	0000000533	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+362_1	0000000534	negative	negative	non_pathogenic	N	-	Colostrum
+362_2	0000000535	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+362_3	0000000536	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+364_1	0000000537	negative	negative	non_pathogenic	N	-	Colostrum
+365_1	0000000538	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+366_1	0000000539	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+367_1	0000000540	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+368_1	0000000541	negative	negative	non_pathogenic	N	-	Colostrum
+368_2	0000000542	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+369_1	0000000543	negative	negative	non_pathogenic	N	-	Colostrum
+369_2	0000000544	negative	negative	non_pathogenic	N	-	Colostrum
+369_3	0000000545	negative	negative	non_pathogenic	N	-	Colostrum
+369_4	0000000546	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+370_1	0000000547	negative	negative	non_pathogenic	Y	-	Colostrum
+371_1	0000000548	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+371_2	0000000549	negative	negative	non_pathogenic	N	-	Colostrum
+372_1	0000000550	negative	negative	non_pathogenic	N	-	Colostrum
+373_1	0000000551	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+374_1	0000000552	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+375_1	0000000553	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+375_2	0000000554	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+376_1	0000000555	negative	negative	non_pathogenic	N	-	Colostrum
+376_2	0000000556	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+377_1	0000000557	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+377_2	0000000558	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+378_1	0000000559	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+378_2	0000000560	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+379_1	0000000561	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+379_2	0000000562	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+380_1	0000000563	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+381_1	0000000564	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+382_1	0000000565	negative	negative	non_pathogenic	N	-	Colostrum
+383_1	0000000566	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+384_1	0000000567	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+384_2	0000000568	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+384_3	0000000569	negative	negative	non_pathogenic	N	-	Colostrum
+385_1	0000000570	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+386_1	0000000571	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+388_1	0000000572	negative	negative	non_pathogenic	N	-	Colostrum
+388_2	0000000573	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+389_1	0000000574	negative	negative	non_pathogenic	N	-	Colostrum
+390_1	0000000575	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+390_2	0000000576	negative	negative	non_pathogenic	N	-	Colostrum
+390_3	0000000577	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+390_4	0000000578	negative	negative	non_pathogenic	N	-	Colostrum
+391_1	0000000579	negative	negative	non_pathogenic	N	-	Colostrum
+392_1	0000000580	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+393_1	0000000581	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+394_1	0000000582	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+394_2	0000000583	negative	negative	non_pathogenic	N	-	Colostrum
+396_1	0000000584	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+396_2	0000000585	negative	negative	non_pathogenic	N	-	Colostrum
+397_1	0000000586	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+398_1	0000000587	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+399_1	0000000588	negative	negative	non_pathogenic	N	-	Colostrum
+399_2	0000000589	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+400_1	0000000590	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+400_2	0000000591	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+400_3	0000000592	negative	negative	non_pathogenic	N	-	Colostrum
+401_1	0000000593	negative	negative	non_pathogenic	N	-	Colostrum
+402_1	0000000594	negative	negative	non_pathogenic	N	-	Colostrum
+402_2	0000000595	negative	negative	non_pathogenic	N	-	Colostrum
+402_3	0000000596	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+402_4	0000000597	negative	negative	non_pathogenic	N	-	Colostrum
+402_5	0000000598	negative	negative	non_pathogenic	N	-	Colostrum
+402_6	0000000599	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+403_1	0000000600	negative	negative	non_pathogenic	N	-	Colostrum
+403_2	0000000601	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+403_3	0000000602	negative	negative	non_pathogenic	N	-	Colostrum
+404_1	0000000603	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+404_2	0000000604	negative	negative	non_pathogenic	N	-	Colostrum
+405_1	0000000605	negative	negative	non_pathogenic	N	-	Colostrum
+406_1	0000000606	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+407_1	0000000607	negative	negative	non_pathogenic	N	-	Colostrum
+408_1	0000000608	negative	negative	non_pathogenic	N	-	Colostrum
+408_2	0000000609	negative	negative	non_pathogenic	N	-	Colostrum
+409_1	0000000610	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+410_1	0000000611	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+411_1	0000000612	negative	negative	non_pathogenic	N	-	Colostrum
+412_1	0000000613	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+412_2	0000000614	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+413_1	0000000615	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+413_2	0000000616	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+414_1	0000000617	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+415_1	0000000618	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+415_2	0000000619	negative	negative	non_pathogenic	N	-	Colostrum
+416_1	0000000620	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+417_1	0000000621	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+417_2	0000000622	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+418_1	0000000623	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+419_1	0000000624	negative	negative	non_pathogenic	N	-	Colostrum
+420_1	0000000625	negative	negative	non_pathogenic	N	-	Colostrum
+420_2	0000000626	negative	negative	non_pathogenic	N	-	Colostrum
+420_3	0000000627	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+421_1	0000000628	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+422_1	0000000629	negative	negative	non_pathogenic	N	-	Colostrum
+422_2	0000000630	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+423_1	0000000631	negative	negative	non_pathogenic	N	-	Colostrum
+425_1	0000000632	negative	negative	non_pathogenic	N	-	Colostrum
+426_1	0000000633	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+427_1	0000000634	negative	negative	non_pathogenic	N	-	Colostrum
+427_2	0000000635	negative	negative	non_pathogenic	N	-	Colostrum
+427_3	0000000636	negative	negative	non_pathogenic	N	-	Colostrum
+427_4	0000000637	negative	negative	non_pathogenic	N	-	Colostrum
+428_1	0000000638	negative	negative	non_pathogenic	N	-	Colostrum
+430_1	0000000639	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+431_1	0000000640	negative	negative	non_pathogenic	N	-	Colostrum
+432_1	0000000641	negative	negative	non_pathogenic	N	-	Colostrum
+433_1	0000000642	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+433_2	0000000643	negative	negative	non_pathogenic	N	-	Colostrum
+433_3	0000000644	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+434_1	0000000645	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+435_1	0000000646	negative	negative	non_pathogenic	N	-	Colostrum
+435_2	0000000647	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+436_1	0000000648	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+437_1	0000000649	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+437_2	0000000650	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+438_1	0000000651	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+439_1	0000000652	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+439_2	0000000653	negative	negative	non_pathogenic	N	-	Colostrum
+439_3	0000000654	negative	negative	non_pathogenic	N	-	Colostrum
+440_1	0000000655	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+441_1	0000000656	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+442_1	0000000657	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+443_1	0000000658	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+443_2	0000000659	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+444_1	0000000660	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+445_1	0000000661	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+446_1	0000000662	negative	negative	non_pathogenic	N	-	Colostrum
+446_2	0000000663	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+446_3	0000000664	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+447_1	0000000665	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+448_1	0000000666	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+448_2	0000000667	negative	negative	non_pathogenic	N	-	Colostrum
+448_3	0000000668	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+449_1	0000000669	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+449_2	0000000670	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+450_1	0000000671	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+450_2	0000000672	negative	negative	non_pathogenic	N	-	Colostrum
+451_1	0000000673	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+452_1	0000000674	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+453_1	0000000675	negative	negative	non_pathogenic	N	-	Colostrum
+454_1	0000000676	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+455_1	0000000677	negative	negative	non_pathogenic	N	-	Colostrum
+455_2	0000000678	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+455_3	0000000679	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+455_4	0000000680	negative	negative	non_pathogenic	N	-	Colostrum
+456_1	0000000681	negative	negative	non_pathogenic	N	-	Colostrum
+457_1	0000000682	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+458_1	0000000683	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+458_2	0000000684	negative	negative	non_pathogenic	N	-	Colostrum
+459_1	0000000685	negative	negative	non_pathogenic	N	-	Colostrum
+460_1	0000000686	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+461_1	0000000687	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+462_1	0000000688	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+463_1	0000000689	negative	negative	non_pathogenic	N	-	Colostrum
+463_2	0000000690	negative	negative	non_pathogenic	N	-	Colostrum
+463_3	0000000691	negative	negative	non_pathogenic	N	-	Colostrum
+464_1	0000000692	negative	negative	non_pathogenic	N	-	Colostrum
+465_1	0000000693	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+466_1	0000000694	negative	negative	non_pathogenic	N	-	Colostrum
+466_2	0000000695	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+467_1	0000000696	negative	negative	non_pathogenic	N	-	Colostrum
+467_2	0000000697	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+467_3	0000000698	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+468_1	0000000699	negative	negative	non_pathogenic	N	-	Colostrum
+469_1	0000000700	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+469_2	0000000701	negative	negative	non_pathogenic	N	-	Colostrum
+470_1	0000000702	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+471_1	0000000703	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+472_1	0000000704	negative	negative	non_pathogenic	N	-	Colostrum
+473_1	0000000705	negative	negative	non_pathogenic	N	-	Colostrum
+473_2	0000000706	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+474_1	0000000707	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+474_2	0000000708	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+475_1	0000000709	negative	negative	non_pathogenic	N	-	Colostrum
+476_1	0000000710	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+477_1	0000000711	negative	negative	non_pathogenic	N	-	Colostrum
+477_2	0000000712	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+477_3	0000000713	negative	negative	non_pathogenic	N	-	Colostrum
+478_1	0000000714	negative	negative	non_pathogenic	N	-	Colostrum
+479_1	0000000715	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+479_2	0000000716	negative	negative	non_pathogenic	N	-	Colostrum
+480_1	0000000717	negative	negative	non_pathogenic	N	-	Colostrum
+480_2	0000000718	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+480_3	0000000719	negative	negative	non_pathogenic	N	-	Colostrum
+481_1	0000000720	negative	negative	non_pathogenic	N	-	Colostrum
+482_1	0000000721	negative	negative	non_pathogenic	N	-	Colostrum
+482_2	0000000722	negative	negative	non_pathogenic	N	-	Colostrum
+482_3	0000000723	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+482_4	0000000724	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+482_5	0000000725	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+483_1	0000000726	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+483_2	0000000727	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+484_1	0000000728	negative	negative	non_pathogenic	N	-	Colostrum
+485_1	0000000729	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+486_1	0000000730	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+487_1	0000000731	negative	negative	non_pathogenic	N	-	Colostrum
+488_1	0000000732	negative	negative	non_pathogenic	N	-	Colostrum
+489_1	0000000733	negative	negative	non_pathogenic	N	-	Colostrum
+490_1	0000000734	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+490_2	0000000735	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+491_1	0000000736	negative	negative	non_pathogenic	N	-	Colostrum
+491_2	0000000737	negative	negative	non_pathogenic	N	-	Colostrum
+491_3	0000000738	negative	negative	non_pathogenic	N	-	Colostrum
+491_4	0000000739	negative	negative	non_pathogenic	N	-	Colostrum
+492_1	0000000740	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+493_1	0000000741	negative	negative	non_pathogenic	N	-	Colostrum
+494_1	0000000742	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+494_2	0000000743	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+495_1	0000000744	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+496_1	0000000745	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+497_1	0000000746	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+498_1	0000000747	negative	negative	non_pathogenic	N	-	Colostrum
+498_2	0000000748	negative	negative	non_pathogenic	N	-	Colostrum
+498_3	0000000749	negative	negative	non_pathogenic	N	-	Colostrum
+499_1	0000000750	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+500_1	0000000751	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+501_1	0000000752	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+502_1	0000000753	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+503_1	0000000754	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+503_2	0000000755	negative	negative	non_pathogenic	N	-	Colostrum
+504_1	0000000756	negative	negative	non_pathogenic	N	-	Colostrum
+505_1	0000000757	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+506_1	0000000758	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+507_1	0000000759	negative	negative	non_pathogenic	N	-	Colostrum
+507_2	0000000760	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+508_1	0000000761	negative	negative	non_pathogenic	N	-	Colostrum
+509_1	0000000762	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+510_1	0000000763	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+511_1	0000000764	negative	negative	non_pathogenic	N	-	Colostrum
+511_2	0000000765	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+512_1	0000000766	negative	negative	non_pathogenic	N	-	Colostrum
+513_1	0000000767	negative	negative	non_pathogenic	Y	-	Colostrum
+514_1	0000000768	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+515_1	0000000769	negative	negative	non_pathogenic	N	-	Colostrum
+515_2	0000000770	negative	negative	non_pathogenic	N	-	Colostrum
+516_1	0000000771	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+517_1	0000000772	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+518_1	0000000773	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+519_1	0000000774	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+520_1	0000000775	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+521_1	0000000776	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+522_1	0000000777	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+523_1	0000000778	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+523_2	0000000779	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+523_3	0000000780	negative	negative	non_pathogenic	N	-	Colostrum
+523_4	0000000781	negative	negative	non_pathogenic	N	-	Colostrum
+524_1	0000000782	negative	negative	non_pathogenic	N	-	Colostrum
+525_1	0000000783	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+525_2	0000000784	negative	negative	non_pathogenic	N	-	Colostrum
+526_1	0000000785	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+527_1	0000000786	negative	negative	non_pathogenic	N	-	Colostrum
+527_2	0000000787	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+528_1	0000000788	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+529_1	0000000789	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+530_1	0000000790	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+530_2	0000000791	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+530_3	0000000792	negative	negative	non_pathogenic	N	-	Colostrum
+530_4	0000000793	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+530_5	0000000794	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+531_1	0000000795	negative	negative	non_pathogenic	N	-	Colostrum
+531_2	0000000796	negative	negative	non_pathogenic	N	-	Colostrum
+532_1	0000000797	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+532_2	0000000798	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+532_3	0000000799	negative	negative	non_pathogenic	N	-	Colostrum
+533_1	0000000800	negative	negative	non_pathogenic	N	-	Colostrum
+533_2	0000000801	negative	negative	non_pathogenic	N	-	Colostrum
+534_1	0000000802	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+535_1	0000000803	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+536_1	0000000804	negative	negative	non_pathogenic	N	-	Colostrum
+536_2	0000000805	negative	negative	non_pathogenic	N	-	Colostrum
+537_1	0000000806	negative	negative	non_pathogenic	N	-	Colostrum
+537_2	0000000807	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+537_3	0000000808	negative	negative	non_pathogenic	N	-	Colostrum
+538_1	0000000809	negative	negative	non_pathogenic	N	-	Colostrum
+538_2	0000000810	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+539_1	0000000811	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+540_1	0000000812	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+541_1	0000000813	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+541_2	0000000814	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+542_1	0000000815	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+542_2	0000000816	negative	negative	non_pathogenic	N	-	Colostrum
+544_1	0000000817	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+544_2	0000000818	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+545_1	0000000819	negative	negative	non_pathogenic	N	-	Colostrum
+546_1	0000000820	negative	negative	non_pathogenic	N	-	Colostrum
+546_2	0000000821	negative	negative	non_pathogenic	N	-	Colostrum
+546_3	0000000822	negative	negative	non_pathogenic	N	-	Colostrum
+546_4	0000000823	negative	negative	non_pathogenic	N	-	Colostrum
+547_1	0000000824	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+547_2	0000000825	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+548_1	0000000826	negative	negative	non_pathogenic	N	-	Colostrum
+548_2	0000000827	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+548_3	0000000828	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+549_1	0000000829	negative	negative	non_pathogenic	N	-	Colostrum
+549_2	0000000830	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+549_3	0000000831	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+550_1	0000000832	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+550_2	0000000833	negative	negative	non_pathogenic	N	-	Colostrum
+551_1	0000000834	negative	negative	non_pathogenic	N	-	Colostrum
+552_1	0000000835	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+552_2	0000000836	negative	negative	non_pathogenic	N	-	Colostrum
+553_1	0000000837	negative	negative	non_pathogenic	N	-	Colostrum
+553_2	0000000838	negative	negative	non_pathogenic	N	-	Colostrum
+553_3	0000000839	negative	negative	non_pathogenic	N	-	Colostrum
+554_1	0000000840	negative	negative	non_pathogenic	N	-	Colostrum
+555_1	0000000841	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+555_2	0000000842	negative	negative	non_pathogenic	N	-	Colostrum
+556_1	0000000843	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+557_1	0000000844	negative	negative	non_pathogenic	N	-	Colostrum
+557_2	0000000845	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+557_3	0000000846	negative	negative	non_pathogenic	N	-	Colostrum
+558_1	0000000847	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+558_2	0000000848	negative	negative	non_pathogenic	N	-	Colostrum
+559_1	0000000849	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+559_2	0000000850	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+560_1	0000000851	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+561_1	0000000852	negative	negative	non_pathogenic	N	-	Colostrum
+562_1	0000000853	negative	negative	non_pathogenic	N	-	Colostrum
+563_1	0000000854	negative	negative	non_pathogenic	N	-	Colostrum
+564_1	0000000855	negative	negative	non_pathogenic	N	-	Colostrum
+565_1	0000000856	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+566_1	0000000857	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+567_1	0000000858	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+567_2	0000000859	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+567_3	0000000860	negative	negative	non_pathogenic	N	-	Colostrum
+569_1	0000000861	negative	negative	non_pathogenic	N	-	Colostrum
+570_1	0000000862	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+571_1	0000000863	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+571_2	0000000864	negative	negative	non_pathogenic	N	-	Colostrum
+572_1	0000000865	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+573_1	0000000866	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+574_1	0000000867	negative	negative	non_pathogenic	N	-	Colostrum
+575_1	0000000868	negative	negative	non_pathogenic	N	-	Colostrum
+575_2	0000000869	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+575_3	0000000870	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+576_1	0000000871	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+577_1	0000000872	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+577_2	0000000873	negative	negative	non_pathogenic	N	-	Colostrum
+577_3	0000000874	negative	negative	non_pathogenic	N	-	Colostrum
+578_1	0000000875	negative	negative	non_pathogenic	N	-	Colostrum
+579_1	0000000876	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+580_1	0000000877	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+581_1	0000000878	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+582_1	0000000879	negative	negative	non_pathogenic	N	-	Colostrum
+582_2	0000000880	negative	negative	non_pathogenic	N	-	Colostrum
+583_1	0000000881	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+583_2	0000000882	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+584_1	0000000883	negative	negative	non_pathogenic	N	-	Colostrum
+584_2	0000000884	negative	negative	non_pathogenic	N	-	Colostrum
+585_1	0000000885	negative	negative	non_pathogenic	N	-	Colostrum
+585_2	0000000886	negative	negative	non_pathogenic	N	-	Colostrum
+585_3	0000000887	negative	negative	non_pathogenic	N	-	Colostrum
+586_1	0000000888	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+587_1	0000000889	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+587_2	0000000890	negative	negative	non_pathogenic	N	-	Colostrum
+587_3	0000000891	negative	negative	non_pathogenic	N	-	Colostrum
+587_4	0000000892	negative	negative	non_pathogenic	N	-	Colostrum
+588_1	0000000893	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+589_1	0000000894	negative	negative	non_pathogenic	N	-	Colostrum
+590_1	0000000895	negative	negative	non_pathogenic	N	-	Colostrum
+590_2	0000000896	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+590_3	0000000897	negative	negative	non_pathogenic	N	-	Colostrum
+591_1	0000000898	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+592_1	0000000899	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+593_1	0000000900	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+594_1	0000000901	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+594_2	0000000902	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+595_1	0000000903	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+595_2	0000000904	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+596_1	0000000905	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+597_1	0000000906	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+597_2	0000000907	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+597_3	0000000908	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+598_1	0000000909	negative	negative	non_pathogenic	N	-	Colostrum
+598_2	0000000910	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+599_1	0000000911	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+600_1	0000000912	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+601_1	0000000913	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+602_1	0000000914	negative	negative	non_pathogenic	N	-	Colostrum
+603_1	0000000915	negative	negative	non_pathogenic	N	-	Colostrum
+603_2	0000000916	negative	negative	non_pathogenic	N	-	Colostrum
+604_1	0000000917	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+605_1	0000000918	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+605_2	0000000919	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+606_1	0000000920	negative	negative	non_pathogenic	N	-	Colostrum
+607_1	0000000921	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+608_1	0000000922	negative	negative	non_pathogenic	N	-	Colostrum
+609_1	0000000923	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+609_2	0000000924	negative	negative	non_pathogenic	N	-	Colostrum
+610_1	0000000925	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+610_2	0000000926	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+610_3	0000000927	negative	negative	non_pathogenic	N	-	Colostrum
+611_1	0000000928	negative	negative	non_pathogenic	N	-	Colostrum
+612_1	0000000929	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+613_1	0000000930	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+614_1	0000000931	negative	negative	non_pathogenic	N	-	Colostrum
+615_1	0000000932	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+616_1	0000000933	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+617_1	0000000934	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+618_1	0000000935	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+619_1	0000000936	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+620_1	0000000937	negative	negative	non_pathogenic	N	-	Colostrum
+621_1	0000000938	negative	negative	non_pathogenic	N	-	Colostrum
+621_2	0000000939	negative	negative	non_pathogenic	N	-	Colostrum
+621_3	0000000940	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+621_4	0000000941	negative	negative	non_pathogenic	N	-	Colostrum
+621_5	0000000942	negative	negative	non_pathogenic	N	-	Colostrum
+621_6	0000000943	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+622_1	0000000944	negative	negative	non_pathogenic	N	-	Colostrum
+623_1	0000000945	negative	negative	non_pathogenic	N	-	Colostrum
+624_1	0000000946	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+625_1	0000000947	negative	negative	non_pathogenic	N	-	Colostrum
+626_1	0000000948	negative	negative	non_pathogenic	N	-	Colostrum
+627_1	0000000949	negative	negative	non_pathogenic	N	-	Colostrum
+627_2	0000000950	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+628_1	0000000951	negative	negative	non_pathogenic	N	-	Colostrum
+629_1	0000000952	negative	negative	non_pathogenic	N	-	Colostrum
+631_1	0000000953	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+632_1	0000000954	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+632_2	0000000955	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+633_1	0000000956	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+634_1	0000000957	negative	negative	non_pathogenic	N	-	Colostrum
+635_1	0000000958	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+636_1	0000000959	negative	negative	non_pathogenic	Y	-	Colostrum
+637_1	0000000960	negative	negative	non_pathogenic	N	-	Colostrum
+637_2	0000000961	negative	negative	non_pathogenic	N	-	Colostrum
+638_1	0000000962	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+639_1	0000000963	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+640_1	0000000964	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+640_2	0000000965	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+641_1	0000000966	negative	negative	non_pathogenic	N	-	Colostrum
+642_1	0000000967	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+643_1	0000000968	negative	negative	non_pathogenic	N	-	Colostrum
+643_2	0000000969	negative	negative	non_pathogenic	N	-	Colostrum
+644_1	0000000970	negative	negative	non_pathogenic	N	-	Colostrum
+644_2	0000000971	negative	negative	non_pathogenic	N	-	Colostrum
+644_3	0000000972	negative	negative	non_pathogenic	N	-	Colostrum
+645_1	0000000973	negative	negative	non_pathogenic	N	-	Colostrum
+645_2	0000000974	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+645_3	0000000975	negative	negative	non_pathogenic	N	-	Colostrum
+646_1	0000000976	negative	negative	non_pathogenic	N	-	Colostrum
+647_1	0000000977	negative	negative	non_pathogenic	N	-	Colostrum
+648_1	0000000978	negative	negative	non_pathogenic	N	-	Colostrum
+649_1	0000000979	negative	negative	non_pathogenic	N	-	Colostrum
+650_1	0000000980	negative	negative	non_pathogenic	N	-	Colostrum
+650_2	0000000981	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+650_3	0000000982	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+650_4	0000000983	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+651_1	0000000984	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+653_1	0000000985	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+654_1	0000000986	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+655_1	0000000987	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+656_1	0000000988	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+657_1	0000000989	negative	negative	non_pathogenic	N	-	Colostrum
+657_2	0000000990	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+658_1	0000000991	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+659_1	0000000992	negative	negative	non_pathogenic	N	-	Colostrum
+660_1	0000000993	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+660_2	0000000994	negative	negative	non_pathogenic	N	-	Colostrum
+660_3	0000000995	negative	negative	non_pathogenic	N	-	Colostrum
+660_4	0000000996	negative	negative	non_pathogenic	N	-	Colostrum
+661_1	0000000997	negative	negative	non_pathogenic	N	-	Colostrum
+661_2	0000000998	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+662_1	0000000999	negative	negative	non_pathogenic	N	-	Colostrum
+662_2	0000001000	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+662_3	0000001001	negative	negative	non_pathogenic	N	-	Colostrum
+663_1	0000001002	negative	negative	non_pathogenic	N	-	Colostrum
+663_2	0000001003	negative	negative	non_pathogenic	N	-	Colostrum
+663_3	0000001004	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+663_4	0000001005	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+664_1	0000001006	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+665_1	0000001007	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+666_1	0000001008	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+667_1	0000001009	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+668_1	0000001010	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+669_1	0000001011	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+670_1	0000001012	negative	negative	non_pathogenic	N	-	Colostrum
+671_1	0000001013	negative	negative	non_pathogenic	N	-	Colostrum
+672_1	0000001014	negative	negative	non_pathogenic	N	-	Colostrum
+673_1	0000001015	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+674_1	0000001016	negative	negative	non_pathogenic	N	-	Colostrum
+674_2	0000001017	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+675_1	0000001018	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+675_2	0000001019	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+676_1	0000001020	negative	negative	non_pathogenic	N	-	Colostrum
+677_1	0000001021	negative	negative	non_pathogenic	N	-	Colostrum
+678_1	0000001022	negative	negative	non_pathogenic	N	-	Colostrum
+678_2	0000001023	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+679_1	0000001024	negative	negative	non_pathogenic	N	-	Colostrum
+679_2	0000001025	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+680_1	0000001026	negative	negative	non_pathogenic	N	-	Colostrum
+680_2	0000001027	negative	negative	non_pathogenic	N	-	Colostrum
+681_1	0000001028	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+682_1	0000001029	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+682_2	0000001030	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+683_1	0000001031	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+684_1	0000001032	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+685_1	0000001033	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+685_2	0000001034	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+686_1	0000001035	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+687_1	0000001036	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+688_1	0000001037	negative	negative	non_pathogenic	N	-	Colostrum
+688_2	0000001038	negative	negative	non_pathogenic	N	-	Colostrum
+689_1	0000001039	negative	negative	non_pathogenic	N	-	Colostrum
+690_1	0000001040	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+691_1	0000001041	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+692_1	0000001042	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+693_1	0000001043	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+694_1	0000001044	negative	negative	non_pathogenic	N	-	Colostrum
+694_2	0000001045	negative	negative	non_pathogenic	N	-	Colostrum
+694_3	0000001046	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+696_1	0000001047	negative	negative	non_pathogenic	N	-	Colostrum
+697_1	0000001048	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+698_1	0000001049	negative	negative	non_pathogenic	N	-	Colostrum
+699_1	0000001050	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+700_1	0000001051	negative	negative	non_pathogenic	N	-	Colostrum
+701_1	0000001052	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+701_2	0000001053	negative	negative	non_pathogenic	N	-	Colostrum
+702_1	0000001054	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+703_1	0000001055	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+704_1	0000001056	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+705_1	0000001057	negative	negative	non_pathogenic	N	-	Colostrum
+706_1	0000001058	negative	negative	non_pathogenic	N	-	Colostrum
+707_1	0000001059	negative	negative	non_pathogenic	N	-	Colostrum
+708_1	0000001060	negative	negative	non_pathogenic	N	-	Colostrum
+709_1	0000001061	negative	negative	non_pathogenic	N	-	Colostrum
+710_1	0000001062	negative	negative	non_pathogenic	N	-	Colostrum
+711_1	0000001063	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+712_1	0000001064	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+713_1	0000001065	negative	negative	non_pathogenic	N	-	Colostrum
+714_1	0000001066	negative	negative	non_pathogenic	N	-	Colostrum
+715_1	0000001067	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+716_1	0000001068	negative	negative	non_pathogenic	N	-	Colostrum
+717_1	0000001069	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+718_1	0000001070	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+718_2	0000001071	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+719_1	0000001072	negative	negative	non_pathogenic	N	-	Colostrum
+719_2	0000001073	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+719_3	0000001074	negative	negative	non_pathogenic	N	-	Colostrum
+720_1	0000001075	negative	negative	non_pathogenic	N	-	Colostrum
+721_1	0000001076	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+721_2	0000001077	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+722_1	0000001078	negative	negative	non_pathogenic	N	-	Colostrum
+722_2	0000001079	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+723_1	0000001080	negative	negative	non_pathogenic	N	-	Colostrum
+723_2	0000001081	negative	negative	non_pathogenic	N	-	Colostrum
+723_3	0000001082	negative	negative	non_pathogenic	N	-	Colostrum
+723_4	0000001083	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+724_1	0000001084	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+725_1	0000001085	negative	negative	non_pathogenic	N	-	Colostrum
+726_1	0000001086	negative	negative	non_pathogenic	N	-	Colostrum
+726_2	0000001087	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+726_3	0000001088	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+727_1	0000001089	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+728_1	0000001090	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+730_1	0000001091	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+731_1	0000001092	negative	negative	non_pathogenic	N	-	Colostrum
+731_2	0000001093	negative	negative	non_pathogenic	N	-	Colostrum
+732_1	0000001094	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+732_2	0000001095	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+732_3	0000001096	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+733_1	0000001097	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+734_1	0000001098	negative	negative	non_pathogenic	N	-	Colostrum
+735_1	0000001099	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+735_2	0000001100	negative	negative	non_pathogenic	N	-	Colostrum
+736_1	0000001101	negative	negative	non_pathogenic	N	-	Colostrum
+736_2	0000001102	negative	negative	non_pathogenic	N	-	Colostrum
+737_1	0000001103	negative	negative	non_pathogenic	N	-	Colostrum
+738_1	0000001104	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+738_2	0000001105	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+739_1	0000001106	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+740_1	0000001107	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+740_2	0000001108	negative	negative	non_pathogenic	N	-	Colostrum
+741_1	0000001109	negative	negative	non_pathogenic	N	-	Colostrum
+742_1	0000001110	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+743_1	0000001111	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+744_1	0000001112	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+745_1	0000001113	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+746_1	0000001114	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+747_1	0000001115	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+747_2	0000001116	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+748_1	0000001117	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+749_1	0000001118	negative	negative	non_pathogenic	N	-	Colostrum
+749_2	0000001119	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+750_1	0000001120	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+750_2	0000001121	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+751_1	0000001122	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+752_1	0000001123	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+752_2	0000001124	negative	negative	non_pathogenic	N	-	Colostrum
+753_1	0000001125	negative	negative	non_pathogenic	N	-	Colostrum
+753_2	0000001126	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+753_3	0000001127	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+754_1	0000001128	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+755_1	0000001129	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+755_2	0000001130	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+755_3	0000001131	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+756_1	0000001132	negative	negative	non_pathogenic	N	-	Colostrum
+756_2	0000001133	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+757_1	0000001134	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+758_1	0000001135	negative	negative	non_pathogenic	N	-	Colostrum
+758_2	0000001136	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+759_1	0000001137	negative	negative	non_pathogenic	N	-	Colostrum
+759_2	0000001138	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+759_3	0000001139	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+760_1	0000001140	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+761_1	0000001141	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+761_2	0000001142	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+762_1	0000001143	negative	negative	non_pathogenic	N	-	Colostrum
+763_1	0000001144	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+764_1	0000001145	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+764_2	0000001146	negative	negative	non_pathogenic	N	-	Colostrum
+764_3	0000001147	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+766_1	0000001148	negative	negative	non_pathogenic	N	-	Colostrum
+766_2	0000001149	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+766_3	0000001150	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+767_1	0000001151	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+768_1	0000001152	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+769_1	0000001153	negative	negative	non_pathogenic	N	-	Colostrum
+770_1	0000001154	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+771_1	0000001155	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+771_2	0000001156	negative	negative	non_pathogenic	N	-	Colostrum
+772_1	0000001157	negative	negative	non_pathogenic	N	-	Colostrum
+773_1	0000001158	negative	negative	non_pathogenic	N	-	Colostrum
+774_1	0000001159	negative	negative	non_pathogenic	N	-	Colostrum
+774_2	0000001160	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+774_3	0000001161	negative	negative	non_pathogenic	N	-	Colostrum
+775_1	0000001162	negative	negative	non_pathogenic	N	-	Colostrum
+776_1	0000001163	negative	negative	non_pathogenic	N	-	Colostrum
+777_1	0000001164	negative	negative	non_pathogenic	N	-	Colostrum
+778_1	0000001165	negative	negative	non_pathogenic	N	-	Colostrum
+779_1	0000001166	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+780_1	0000001167	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+781_1	0000001168	negative	negative	non_pathogenic	N	-	Colostrum
+782_1	0000001169	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+783_1	0000001170	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+783_2	0000001171	negative	negative	non_pathogenic	N	-	Colostrum
+783_3	0000001172	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+784_1	0000001173	negative	negative	non_pathogenic	N	-	Colostrum
+785_1	0000001174	negative	negative	non_pathogenic	N	-	Colostrum
+786_1	0000001175	negative	negative	non_pathogenic	N	-	Colostrum
+787_1	0000001176	negative	negative	non_pathogenic	N	-	Colostrum
+788_1	0000001177	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+789_1	0000001178	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+790_1	0000001179	negative	negative	non_pathogenic	N	-	Colostrum
+791_1	0000001180	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+792_1	0000001181	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+793_1	0000001182	negative	negative	non_pathogenic	N	-	Colostrum
+794_1	0000001183	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+795_1	0000001184	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+796_1	0000001185	negative	negative	non_pathogenic	N	-	Colostrum
+797_1	0000001186	negative	negative	non_pathogenic	N	-	Colostrum
+798_1	0000001187	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+799_1	0000001188	negative	negative	non_pathogenic	N	-	Colostrum
+800_1	0000001189	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+801_1	0000001190	negative	negative	non_pathogenic	N	-	Colostrum
+802_1	0000001191	negative	negative	non_pathogenic	N	-	Colostrum
+802_2	0000001192	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+802_3	0000001193	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+803_1	0000001194	negative	negative	non_pathogenic	N	-	Colostrum
+804_1	0000001195	negative	negative	non_pathogenic	N	-	Colostrum
+805_1	0000001196	negative	negative	non_pathogenic	N	-	Colostrum
+806_1	0000001197	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+806_2	0000001198	negative	negative	non_pathogenic	N	-	Colostrum
+807_1	0000001199	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+808_1	0000001200	negative	negative	non_pathogenic	N	-	Colostrum
+808_2	0000001201	negative	negative	non_pathogenic	N	-	Colostrum
+808_3	0000001202	negative	negative	non_pathogenic	N	-	Colostrum
+809_1	0000001203	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+810_1	0000001204	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+811_1	0000001205	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+812_1	0000001206	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+812_2	0000001207	negative	negative	non_pathogenic	N	-	Colostrum
+813_1	0000001208	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+814_1	0000001209	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+814_2	0000001210	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+814_3	0000001211	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+815_1	0000001212	negative	negative	non_pathogenic	N	-	Colostrum
+816_1	0000001213	negative	negative	non_pathogenic	N	-	Colostrum
+817_1	0000001214	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+818_1	0000001215	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+819_1	0000001216	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+820_1	0000001217	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+821_1	0000001218	negative	negative	non_pathogenic	N	-	Colostrum
+821_2	0000001219	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+821_3	0000001220	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+822_1	0000001221	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+822_2	0000001222	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+822_3	0000001223	negative	negative	non_pathogenic	N	-	Colostrum
+822_4	0000001224	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+822_5	0000001225	negative	negative	non_pathogenic	N	-	Colostrum
+823_1	0000001226	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+823_2	0000001227	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+823_3	0000001228	negative	negative	non_pathogenic	N	-	Colostrum
+824_1	0000001229	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+824_2	0000001230	negative	negative	non_pathogenic	N	-	Colostrum
+825_1	0000001231	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+825_2	0000001232	negative	negative	non_pathogenic	N	-	Colostrum
+826_1	0000001233	negative	negative	non_pathogenic	N	-	Colostrum
+827_1	0000001234	negative	negative	non_pathogenic	N	-	Colostrum
+827_2	0000001235	negative	negative	non_pathogenic	N	-	Colostrum
+828_1	0000001236	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+829_1	0000001237	negative	negative	non_pathogenic	N	-	Colostrum
+829_2	0000001238	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+830_1	0000001239	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+830_2	0000001240	negative	negative	non_pathogenic	N	-	Colostrum
+831_1	0000001241	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+831_2	0000001242	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+832_1	0000001243	negative	negative	non_pathogenic	N	-	Colostrum
+833_1	0000001244	negative	negative	non_pathogenic	N	-	Colostrum
+834_1	0000001245	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+836_1	0000001246	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+836_2	0000001247	negative	negative	non_pathogenic	N	-	Colostrum
+837_1	0000001248	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+837_2	0000001249	negative	negative	non_pathogenic	N	-	Colostrum
+838_1	0000001250	negative	negative	non_pathogenic	N	-	Colostrum
+838_2	0000001251	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+838_3	0000001252	negative	negative	non_pathogenic	N	-	Colostrum
+838_4	0000001253	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+838_5	0000001254	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+839_1	0000001255	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+840_1	0000001256	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+841_1	0000001257	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+842_1	0000001258	negative	negative	non_pathogenic	N	-	Colostrum
+842_2	0000001259	negative	negative	non_pathogenic	N	-	Colostrum
+843_1	0000001260	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+844_1	0000001261	negative	negative	non_pathogenic	N	-	Colostrum
+845_1	0000001262	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+846_1	0000001263	negative	negative	non_pathogenic	N	-	Colostrum
+846_2	0000001264	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+846_3	0000001265	negative	negative	non_pathogenic	N	-	Colostrum
+847_1	0000001266	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+848_1	0000001267	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+848_2	0000001268	negative	negative	non_pathogenic	N	-	Colostrum
+848_3	0000001269	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+849_1	0000001270	negative	negative	non_pathogenic	N	-	Colostrum
+849_2	0000001271	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+849_3	0000001272	negative	negative	non_pathogenic	N	-	Colostrum
+850_1	0000001273	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+851_1	0000001274	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+852_1	0000001275	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+853_1	0000001276	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+854_1	0000001277	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+855_1	0000001278	negative	negative	non_pathogenic	N	-	Colostrum
+855_2	0000001279	negative	negative	non_pathogenic	N	-	Colostrum
+855_3	0000001280	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+856_1	0000001281	negative	negative	non_pathogenic	N	-	Colostrum
+857_1	0000001282	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+858_1	0000001283	negative	negative	non_pathogenic	N	-	Colostrum
+858_2	0000001284	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+858_3	0000001285	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+859_1	0000001286	negative	negative	non_pathogenic	N	-	Colostrum
+859_2	0000001287	negative	negative	non_pathogenic	N	-	Colostrum
+860_1	0000001288	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+861_1	0000001289	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+862_1	0000001290	negative	negative	non_pathogenic	N	-	Colostrum
+862_2	0000001291	negative	negative	non_pathogenic	N	-	Colostrum
+863_1	0000001292	negative	negative	non_pathogenic	N	-	Colostrum
+864_1	0000001293	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+865_1	0000001294	negative	negative	non_pathogenic	N	-	Colostrum
+865_2	0000001295	negative	negative	non_pathogenic	N	-	Colostrum
+866_1	0000001296	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+867_1	0000001297	negative	negative	non_pathogenic	N	-	Colostrum
+867_2	0000001298	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+868_1	0000001299	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+869_1	0000001300	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+870_1	0000001301	negative	negative	non_pathogenic	N	-	Colostrum
+870_2	0000001302	negative	negative	non_pathogenic	N	-	Colostrum
+871_1	0000001303	negative	negative	non_pathogenic	N	-	Colostrum
+872_1	0000001304	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+873_1	0000001305	negative	negative	non_pathogenic	N	-	Colostrum
+873_2	0000001306	negative	negative	non_pathogenic	N	-	Colostrum
+874_1	0000001307	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+874_2	0000001308	negative	negative	non_pathogenic	N	-	Colostrum
+875_1	0000001309	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+876_1	0000001310	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+877_1	0000001311	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+877_2	0000001312	negative	negative	non_pathogenic	N	-	Colostrum
+878_1	0000001313	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+878_2	0000001314	negative	negative	non_pathogenic	N	-	Colostrum
+878_3	0000001315	negative	negative	non_pathogenic	N	-	Colostrum
+879_1	0000001316	negative	negative	non_pathogenic	N	-	Colostrum
+880_1	0000001317	negative	negative	non_pathogenic	N	-	Colostrum
+880_2	0000001318	negative	negative	non_pathogenic	N	-	Colostrum
+881_1	0000001319	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+881_2	0000001320	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+882_1	0000001321	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+883_1	0000001322	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+884_1	0000001323	negative	negative	non_pathogenic	N	-	Colostrum
+884_2	0000001324	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+885_1	0000001325	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+885_2	0000001326	negative	negative	non_pathogenic	N	-	Colostrum
+885_3	0000001327	negative	negative	non_pathogenic	N	-	Colostrum
+886_1	0000001328	negative	negative	non_pathogenic	N	-	Colostrum
+886_2	0000001329	negative	negative	non_pathogenic	N	-	Colostrum
+887_1	0000001330	negative	negative	non_pathogenic	N	-	Colostrum
+887_2	0000001331	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+888_1	0000001332	negative	negative	non_pathogenic	N	-	Colostrum
+889_1	0000001333	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+889_2	0000001334	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+889_3	0000001335	negative	negative	non_pathogenic	N	-	Colostrum
+890_1	0000001336	negative	negative	non_pathogenic	N	-	Colostrum
+890_2	0000001337	negative	negative	non_pathogenic	N	-	Colostrum
+890_3	0000001338	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+890_4	0000001339	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+890_5	0000001340	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+891_1	0000001341	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+891_2	0000001342	negative	negative	non_pathogenic	N	-	Colostrum
+891_3	0000001343	negative	negative	non_pathogenic	N	-	Colostrum
+892_1	0000001344	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+893_1	0000001345	negative	negative	non_pathogenic	N	-	Colostrum
+893_2	0000001346	negative	negative	non_pathogenic	N	-	Colostrum
+893_3	0000001347	negative	negative	non_pathogenic	N	-	Colostrum
+893_4	0000001348	negative	negative	non_pathogenic	N	-	Colostrum
+894_1	0000001349	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+895_1	0000001350	negative	negative	non_pathogenic	N	-	Colostrum
+895_2	0000001351	negative	negative	non_pathogenic	N	-	Colostrum
+895_3	0000001352	negative	negative	non_pathogenic	N	-	Colostrum
+895_4	0000001353	negative	negative	non_pathogenic	N	-	Colostrum
+896_1	0000001354	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+897_1	0000001355	negative	negative	non_pathogenic	N	-	Colostrum
+897_2	0000001356	negative	negative	non_pathogenic	N	-	Colostrum
+898_1	0000001357	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+898_2	0000001358	negative	negative	non_pathogenic	N	-	Colostrum
+900_1	0000001359	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+901_1	0000001360	negative	negative	non_pathogenic	N	-	Colostrum
+901_2	0000001361	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+901_3	0000001362	negative	negative	non_pathogenic	N	-	Colostrum
+902_1	0000001363	negative	negative	non_pathogenic	N	-	Colostrum
+903_1	0000001364	negative	negative	non_pathogenic	N	-	Colostrum
+903_2	0000001365	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+903_3	0000001366	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+904_1	0000001367	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+905_1	0000001368	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+905_2	0000001369	negative	negative	non_pathogenic	N	-	Colostrum
+905_3	0000001370	negative	negative	non_pathogenic	N	-	Colostrum
+906_1	0000001371	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+907_1	0000001372	negative	negative	non_pathogenic	N	-	Colostrum
+907_2	0000001373	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+908_1	0000001374	negative	negative	non_pathogenic	N	-	Colostrum
+909_1	0000001375	negative	negative	non_pathogenic	N	-	Colostrum
+910_1	0000001376	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+911_1	0000001377	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+912_1	0000001378	negative	negative	non_pathogenic	N	-	Colostrum
+913_1	0000001379	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+914_1	0000001380	negative	negative	non_pathogenic	N	-	Colostrum
+915_1	0000001381	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+916_1	0000001382	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+917_1	0000001383	negative	negative	non_pathogenic	N	-	Colostrum
+917_2	0000001384	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+918_1	0000001385	negative	negative	non_pathogenic	N	-	Colostrum
+919_1	0000001386	negative	negative	non_pathogenic	N	-	Colostrum
+919_2	0000001387	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+920_1	0000001388	negative	negative	non_pathogenic	N	-	Colostrum
+921_1	0000001389	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+921_2	0000001390	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+922_1	0000001391	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+923_1	0000001392	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+924_1	0000001393	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+925_1	0000001394	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+926_1	0000001395	negative	negative	non_pathogenic	N	-	Colostrum
+927_1	0000001396	negative	negative	non_pathogenic	N	-	Colostrum
+927_2	0000001397	negative	negative	non_pathogenic	N	-	Colostrum
+928_1	0000001398	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+929_1	0000001399	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+930_1	0000001400	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+931_1	0000001401	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+932_1	0000001402	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+933_1	0000001403	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+933_2	0000001404	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+934_1	0000001405	negative	negative	non_pathogenic	N	-	Colostrum
+935_1	0000001406	negative	negative	non_pathogenic	N	-	Colostrum
+935_2	0000001407	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+936_1	0000001408	negative	negative	non_pathogenic	N	-	Colostrum
+936_2	0000001409	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+937_1	0000001410	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+938_1	0000001411	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+938_2	0000001412	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+939_1	0000001413	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+939_2	0000001414	negative	negative	non_pathogenic	N	-	Colostrum
+939_3	0000001415	negative	negative	non_pathogenic	N	-	Colostrum
+940_1	0000001416	negative	negative	non_pathogenic	N	-	Colostrum
+940_2	0000001417	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+941_1	0000001418	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+942_1	0000001419	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+943_1	0000001420	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+944_1	0000001421	negative	negative	non_pathogenic	Y	-	Colostrum
+945_1	0000001422	negative	negative	non_pathogenic	N	-	Colostrum
+946_1	0000001423	negative	negative	non_pathogenic	N	-	Colostrum
+947_1	0000001424	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+948_1	0000001425	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+949_1	0000001426	negative	negative	non_pathogenic	N	-	Colostrum
+950_1	0000001427	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+951_1	0000001428	negative	negative	non_pathogenic	N	-	Colostrum
+951_2	0000001429	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+952_1	0000001430	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+953_1	0000001431	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+954_1	0000001432	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+955_1	0000001433	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+956_1	0000001434	negative	negative	non_pathogenic	N	-	Colostrum
+957_1	0000001435	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+958_1	0000001436	negative	negative	non_pathogenic	N	-	Colostrum
+959_1	0000001437	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+960_1	0000001438	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+961_1	0000001439	negative	negative	non_pathogenic	N	-	Colostrum
+961_2	0000001440	negative	negative	non_pathogenic	N	-	Colostrum
+962_1	0000001441	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+963_1	0000001442	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+964_1	0000001443	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+965_1	0000001444	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+966_1	0000001445	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+966_2	0000001446	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+967_1	0000001447	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+968_1	0000001448	negative	negative	non_pathogenic	N	-	Colostrum
+968_2	0000001449	negative	negative	non_pathogenic	N	-	Colostrum
+969_1	0000001450	negative	negative	non_pathogenic	N	-	Colostrum
+970_1	0000001451	negative	negative	non_pathogenic	N	-	Colostrum
+971_1	0000001452	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+971_2	0000001453	negative	negative	non_pathogenic	N	-	Colostrum
+972_1	0000001454	negative	negative	non_pathogenic	N	-	Colostrum
+972_2	0000001455	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+973_1	0000001456	negative	negative	non_pathogenic	N	-	Colostrum
+973_2	0000001457	negative	negative	non_pathogenic	N	-	Colostrum
+973_3	0000001458	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+974_1	0000001459	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+975_1	0000001460	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+975_2	0000001461	negative	negative	non_pathogenic	N	-	Colostrum
+975_3	0000001462	negative	negative	non_pathogenic	N	-	Colostrum
+976_1	0000001463	negative	negative	non_pathogenic	N	-	Colostrum
+976_2	0000001464	negative	negative	non_pathogenic	N	-	Colostrum
+977_1	0000001465	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+978_1	0000001466	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+979_1	0000001467	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+980_1	0000001468	negative	negative	non_pathogenic	N	-	Colostrum
+980_2	0000001469	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+981_1	0000001470	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+982_1	0000001471	negative	negative	non_pathogenic	N	-	Colostrum
+983_1	0000001472	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+984_1	0000001473	negative	negative	non_pathogenic	N	-	Colostrum
+985_1	0000001474	negative	negative	non_pathogenic	N	-	Colostrum
+986_1	0000001475	negative	negative	non_pathogenic	N	-	Colostrum
+987_1	0000001476	negative	negative	non_pathogenic	N	-	Colostrum
+988_1	0000001477	negative	negative	non_pathogenic	N	-	Colostrum
+988_2	0000001478	negative	negative	non_pathogenic	N	-	Colostrum
+989_1	0000001479	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+989_2	0000001480	negative	negative	non_pathogenic	N	-	Colostrum
+989_3	0000001481	negative	negative	non_pathogenic	N	-	Colostrum
+990_1	0000001482	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+991_1	0000001483	negative	negative	non_pathogenic	N	-	Colostrum
+991_2	0000001484	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+991_3	0000001485	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+992_1	0000001486	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+993_1	0000001487	negative	negative	non_pathogenic	N	-	Colostrum
+994_1	0000001488	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+994_2	0000001489	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+994_3	0000001490	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+994_4	0000001491	negative	negative	non_pathogenic	N	-	Colostrum
+995_1	0000001492	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+996_1	0000001493	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+997_1	0000001494	negative	negative	non_pathogenic	N	-	Colostrum
+998_1	0000001495	negative	negative	non_pathogenic	N	-	Colostrum
+999_1	0000001496	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1000_1	0000001497	negative	negative	non_pathogenic	N	-	Colostrum
+1001_1	0000001498	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1002_1	0000001499	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1003_1	0000001500	negative	negative	non_pathogenic	N	-	Colostrum
+1004_1	0000001501	negative	negative	non_pathogenic	N	-	Colostrum
+1004_2	0000001502	negative	negative	non_pathogenic	N	-	Colostrum
+1005_1	0000001503	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1005_2	0000001504	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1006_1	0000001505	negative	negative	non_pathogenic	N	-	Colostrum
+1006_2	0000001506	negative	negative	non_pathogenic	N	-	Colostrum
+1006_3	0000001507	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1007_1	0000001508	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1007_2	0000001509	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1008_1	0000001510	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1009_1	0000001511	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1010_1	0000001512	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1010_2	0000001513	negative	negative	non_pathogenic	N	-	Colostrum
+1011_1	0000001514	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1012_1	0000001515	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1013_1	0000001516	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1013_2	0000001517	negative	negative	non_pathogenic	N	-	Colostrum
+1014_1	0000001518	negative	negative	non_pathogenic	N	-	Colostrum
+1015_1	0000001519	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1016_1	0000001520	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1017_1	0000001521	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1017_2	0000001522	negative	negative	non_pathogenic	N	-	Colostrum
+1018_1	0000001523	negative	negative	non_pathogenic	N	-	Colostrum
+1018_2	0000001524	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1018_3	0000001525	negative	negative	non_pathogenic	N	-	Colostrum
+1019_1	0000001526	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1020_1	0000001527	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1020_2	0000001528	negative	negative	non_pathogenic	N	-	Colostrum
+1021_1	0000001529	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1021_2	0000001530	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1021_3	0000001531	negative	negative	non_pathogenic	N	-	Colostrum
+1022_1	0000001532	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1022_2	0000001533	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1022_3	0000001534	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1023_1	0000001535	negative	negative	non_pathogenic	N	-	Colostrum
+1023_2	0000001536	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1023_3	0000001537	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1024_1	0000001538	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1024_2	0000001539	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1024_3	0000001540	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1025_1	0000001541	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1026_1	0000001542	negative	negative	non_pathogenic	N	-	Colostrum
+1026_2	0000001543	negative	negative	non_pathogenic	N	-	Colostrum
+1026_3	0000001544	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1027_1	0000001545	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1027_2	0000001546	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1027_3	0000001547	negative	negative	non_pathogenic	N	-	Colostrum
+1028_1	0000001548	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1029_1	0000001549	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1030_1	0000001550	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1031_1	0000001551	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1032_1	0000001552	negative	negative	non_pathogenic	N	-	Colostrum
+1033_1	0000001553	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1034_1	0000001554	negative	negative	non_pathogenic	N	-	Colostrum
+1035_1	0000001555	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1036_1	0000001556	negative	negative	non_pathogenic	N	-	Colostrum
+1037_1	0000001557	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1038_1	0000001558	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1039_1	0000001559	negative	negative	non_pathogenic	N	-	Colostrum
+1039_2	0000001560	negative	negative	non_pathogenic	N	-	Colostrum
+1040_1	0000001561	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1041_1	0000001562	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1042_1	0000001563	negative	negative	non_pathogenic	N	-	Colostrum
+1043_1	0000001564	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1044_1	0000001565	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1045_1	0000001566	negative	negative	non_pathogenic	N	-	Colostrum
+1046_1	0000001567	negative	negative	non_pathogenic	N	-	Colostrum
+1047_1	0000001568	negative	negative	non_pathogenic	N	-	Colostrum
+1047_2	0000001569	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1048_1	0000001570	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1049_1	0000001571	negative	negative	non_pathogenic	N	-	Colostrum
+1050_1	0000001572	negative	negative	non_pathogenic	N	-	Colostrum
+1050_2	0000001573	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1050_3	0000001574	negative	negative	non_pathogenic	N	-	Colostrum
+1051_1	0000001575	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1052_1	0000001576	negative	negative	non_pathogenic	N	-	Colostrum
+1053_1	0000001577	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1054_1	0000001578	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1055_1	0000001579	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1056_1	0000001580	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1057_1	0000001581	negative	negative	non_pathogenic	N	-	Colostrum
+1057_2	0000001582	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1057_3	0000001583	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1057_4	0000001584	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1058_1	0000001585	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1059_1	0000001586	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1060_1	0000001587	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1061_1	0000001588	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1062_1	0000001589	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1063_1	0000001590	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1064_1	0000001591	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1065_1	0000001592	negative	negative	non_pathogenic	N	-	Colostrum
+1065_2	0000001593	negative	negative	non_pathogenic	N	-	Colostrum
+1065_3	0000001594	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1065_4	0000001595	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1066_1	0000001596	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1066_2	0000001597	negative	negative	non_pathogenic	N	-	Colostrum
+1067_1	0000001598	negative	negative	non_pathogenic	N	-	Colostrum
+1068_1	0000001599	negative	negative	non_pathogenic	N	-	Colostrum
+1068_2	0000001600	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1069_1	0000001601	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1070_1	0000001602	negative	negative	non_pathogenic	N	-	Colostrum
+1071_1	0000001603	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1072_1	0000001604	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1072_2	0000001605	negative	negative	non_pathogenic	N	-	Colostrum
+1073_1	0000001606	negative	negative	non_pathogenic	N	-	Colostrum
+1073_2	0000001607	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1073_3	0000001608	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1074_1	0000001609	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1075_1	0000001610	negative	negative	non_pathogenic	N	-	Colostrum
+1075_2	0000001611	negative	negative	non_pathogenic	N	-	Colostrum
+1076_1	0000001612	negative	negative	non_pathogenic	N	-	Colostrum
+1077_1	0000001613	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1078_1	0000001614	negative	negative	non_pathogenic	N	-	Colostrum
+1078_2	0000001615	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1079_1	0000001616	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1080_1	0000001617	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1081_1	0000001618	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1082_1	0000001619	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1082_2	0000001620	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1083_1	0000001621	negative	negative	non_pathogenic	N	-	Colostrum
+1084_1	0000001622	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1085_1	0000001623	negative	negative	non_pathogenic	N	-	Colostrum
+1085_2	0000001624	negative	negative	non_pathogenic	N	-	Colostrum
+1085_3	0000001625	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1086_1	0000001626	negative	negative	non_pathogenic	N	-	Colostrum
+1086_2	0000001627	negative	negative	non_pathogenic	N	-	Colostrum
+1087_1	0000001628	negative	negative	non_pathogenic	N	-	Colostrum
+1087_2	0000001629	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1088_1	0000001630	negative	negative	non_pathogenic	N	-	Colostrum
+1089_1	0000001631	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1090_1	0000001632	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1091_1	0000001633	negative	negative	non_pathogenic	N	-	Colostrum
+1092_1	0000001634	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1093_1	0000001635	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1094_1	0000001636	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1095_1	0000001637	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1095_2	0000001638	negative	negative	non_pathogenic	N	-	Colostrum
+1096_1	0000001639	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1097_1	0000001640	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1098_1	0000001641	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1099_1	0000001642	negative	negative	non_pathogenic	N	-	Colostrum
+1100_1	0000001643	negative	negative	non_pathogenic	N	-	Colostrum
+1101_1	0000001644	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1102_1	0000001645	negative	negative	non_pathogenic	N	-	Colostrum
+1102_2	0000001646	negative	negative	non_pathogenic	N	-	Colostrum
+1102_3	0000001647	negative	negative	non_pathogenic	N	-	Colostrum
+1102_4	0000001648	negative	negative	non_pathogenic	N	-	Colostrum
+1103_1	0000001649	negative	negative	non_pathogenic	N	-	Colostrum
+1104_1	0000001650	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1104_2	0000001651	negative	negative	non_pathogenic	N	-	Colostrum
+1104_3	0000001652	negative	negative	non_pathogenic	N	-	Colostrum
+1104_4	0000001653	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1104_5	0000001654	negative	negative	non_pathogenic	N	-	Colostrum
+1105_1	0000001655	negative	negative	non_pathogenic	N	-	Colostrum
+1105_2	0000001656	negative	negative	non_pathogenic	N	-	Colostrum
+1105_3	0000001657	negative	negative	non_pathogenic	N	-	Colostrum
+1106_1	0000001658	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1107_1	0000001659	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1108_1	0000001660	negative	negative	non_pathogenic	Y	-	Colostrum
+1109_1	0000001661	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1110_1	0000001662	negative	negative	non_pathogenic	N	-	Colostrum
+1111_1	0000001663	negative	negative	non_pathogenic	N	-	Colostrum
+1112_1	0000001664	negative	negative	non_pathogenic	N	-	Colostrum
+1112_2	0000001665	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1113_1	0000001666	negative	negative	non_pathogenic	N	-	Colostrum
+1114_1	0000001667	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1115_1	0000001668	negative	negative	non_pathogenic	N	-	Colostrum
+1115_2	0000001669	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1116_1	0000001670	negative	negative	non_pathogenic	N	-	Colostrum
+1116_2	0000001671	negative	negative	non_pathogenic	N	-	Colostrum
+1116_3	0000001672	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1117_1	0000001673	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1119_1	0000001674	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1120_1	0000001675	negative	negative	non_pathogenic	N	-	Colostrum
+1120_2	0000001676	negative	negative	non_pathogenic	N	-	Colostrum
+1121_1	0000001677	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1121_2	0000001678	negative	negative	non_pathogenic	N	-	Colostrum
+1122_1	0000001679	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1122_2	0000001680	negative	negative	non_pathogenic	N	-	Colostrum
+1123_1	0000001681	negative	negative	non_pathogenic	N	-	Colostrum
+1124_1	0000001682	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1125_1	0000001683	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1126_1	0000001684	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1126_2	0000001685	negative	negative	non_pathogenic	N	-	Colostrum
+1127_1	0000001686	negative	negative	non_pathogenic	N	-	Colostrum
+1128_1	0000001687	negative	negative	non_pathogenic	N	-	Colostrum
+1129_1	0000001688	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1129_2	0000001689	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1129_3	0000001690	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1129_4	0000001691	negative	negative	non_pathogenic	N	-	Colostrum
+1130_1	0000001692	negative	negative	non_pathogenic	N	-	Colostrum
+1131_1	0000001693	negative	negative	non_pathogenic	N	-	Colostrum
+1132_1	0000001694	negative	negative	non_pathogenic	N	-	Colostrum
+1132_2	0000001695	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1132_3	0000001696	negative	negative	non_pathogenic	N	-	Colostrum
+1133_1	0000001697	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1134_1	0000001698	negative	negative	non_pathogenic	N	-	Colostrum
+1134_2	0000001699	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1135_1	0000001700	negative	negative	non_pathogenic	N	-	Colostrum
+1136_1	0000001701	negative	negative	non_pathogenic	N	-	Colostrum
+1137_1	0000001702	negative	negative	non_pathogenic	N	-	Colostrum
+1138_1	0000001703	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1138_2	0000001704	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1139_1	0000001705	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1140_1	0000001706	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1141_1	0000001707	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1141_2	0000001708	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1141_3	0000001709	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1142_1	0000001710	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1144_1	0000001711	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1144_2	0000001712	negative	negative	non_pathogenic	N	-	Colostrum
+1145_1	0000001713	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1145_2	0000001714	negative	negative	non_pathogenic	N	-	Colostrum
+1146_1	0000001715	negative	negative	non_pathogenic	N	-	Colostrum
+1147_1	0000001716	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1148_1	0000001717	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1149_1	0000001718	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1149_2	0000001719	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1149_3	0000001720	negative	negative	non_pathogenic	N	-	Colostrum
+1149_4	0000001721	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1151_1	0000001722	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1152_1	0000001723	negative	negative	non_pathogenic	N	-	Colostrum
+1152_2	0000001724	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1153_1	0000001725	negative	negative	non_pathogenic	N	-	Colostrum
+1153_2	0000001726	negative	negative	non_pathogenic	N	-	Colostrum
+1154_1	0000001727	negative	negative	non_pathogenic	N	-	Colostrum
+1155_1	0000001728	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1156_1	0000001729	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1157_1	0000001730	negative	negative	non_pathogenic	N	-	Colostrum
+1158_1	0000001731	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1159_1	0000001732	negative	negative	non_pathogenic	N	-	Colostrum
+1159_2	0000001733	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1160_1	0000001734	negative	negative	non_pathogenic	N	-	Colostrum
+1160_2	0000001735	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1161_1	0000001736	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1162_1	0000001737	negative	negative	non_pathogenic	N	-	Colostrum
+1163_1	0000001738	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1164_1	0000001739	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1164_2	0000001740	negative	negative	non_pathogenic	N	-	Colostrum
+1164_3	0000001741	negative	negative	non_pathogenic	N	-	Colostrum
+1164_4	0000001742	negative	negative	non_pathogenic	N	-	Colostrum
+1164_5	0000001743	negative	negative	non_pathogenic	N	-	Colostrum
+1165_1	0000001744	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1165_2	0000001745	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1166_1	0000001746	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1166_2	0000001747	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1167_1	0000001748	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1167_2	0000001749	negative	negative	non_pathogenic	N	-	Colostrum
+1168_1	0000001750	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1168_2	0000001751	negative	negative	non_pathogenic	N	-	Colostrum
+1169_1	0000001752	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1169_2	0000001753	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1170_1	0000001754	negative	negative	non_pathogenic	N	-	Colostrum
+1170_2	0000001755	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1171_1	0000001756	negative	negative	non_pathogenic	N	-	Colostrum
+1171_2	0000001757	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1171_3	0000001758	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1172_1	0000001759	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1172_2	0000001760	negative	negative	non_pathogenic	N	-	Colostrum
+1173_1	0000001761	negative	negative	non_pathogenic	N	-	Colostrum
+1173_2	0000001762	negative	negative	non_pathogenic	N	-	Colostrum
+1174_1	0000001763	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1175_1	0000001764	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1175_2	0000001765	negative	negative	non_pathogenic	N	-	Colostrum
+1176_1	0000001766	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1177_1	0000001767	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1177_2	0000001768	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1177_3	0000001769	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1177_4	0000001770	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1178_1	0000001771	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1179_1	0000001772	negative	negative	non_pathogenic	N	-	Colostrum
+1180_1	0000001773	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1181_1	0000001774	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1182_1	0000001775	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1182_2	0000001776	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1183_1	0000001777	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1185_1	0000001778	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1186_1	0000001779	negative	negative	non_pathogenic	N	-	Colostrum
+1187_1	0000001780	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+1188_1	0000001781	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1188_2	0000001782	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1189_1	0000001783	negative	negative	non_pathogenic	N	-	Colostrum
+1189_2	0000001784	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1190_1	0000001785	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1191_1	0000001786	negative	negative	non_pathogenic	N	-	Colostrum
+1191_2	0000001787	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1192_1	0000001788	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1192_2	0000001789	negative	negative	non_pathogenic	N	-	Colostrum
+1193_1	0000001790	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1194_1	0000001791	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1195_1	0000001792	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1196_1	0000001793	negative	negative	non_pathogenic	N	-	Colostrum
+1196_2	0000001794	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1196_3	0000001795	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1197_1	0000001796	negative	negative	non_pathogenic	N	-	Colostrum
+1197_2	0000001797	negative	negative	non_pathogenic	N	-	Colostrum
+1198_1	0000001798	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1199_1	0000001799	negative	negative	non_pathogenic	N	-	Colostrum
+1199_2	0000001800	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1200_1	0000001801	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1201_1	0000001802	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1202_1	0000001803	negative	negative	non_pathogenic	N	-	Colostrum
+1203_1	0000001804	negative	negative	non_pathogenic	N	-	Colostrum
+1204_1	0000001805	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1205_1	0000001806	negative	negative	non_pathogenic	N	-	Colostrum
+1206_1	0000001807	negative	negative	non_pathogenic	N	-	Colostrum
+1206_2	0000001808	negative	negative	non_pathogenic	N	-	Colostrum
+1207_1	0000001809	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1207_2	0000001810	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1208_1	0000001811	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1208_2	0000001812	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1208_3	0000001813	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1209_1	0000001814	negative	negative	non_pathogenic	N	-	Colostrum
+1209_2	0000001815	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1210_1	0000001816	negative	negative	non_pathogenic	N	-	Colostrum
+1210_2	0000001817	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1211_1	0000001818	negative	negative	non_pathogenic	N	-	Colostrum
+1211_2	0000001819	negative	negative	non_pathogenic	N	-	Colostrum
+1212_1	0000001820	negative	negative	non_pathogenic	N	-	Colostrum
+1212_2	0000001821	negative	negative	non_pathogenic	N	-	Colostrum
+1213_1	0000001822	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1214_1	0000001823	negative	negative	non_pathogenic	N	-	Colostrum
+1214_2	0000001824	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1215_1	0000001825	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1216_1	0000001826	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1216_2	0000001827	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1217_1	0000001828	negative	negative	non_pathogenic	N	-	Colostrum
+1218_1	0000001829	negative	negative	non_pathogenic	N	-	Colostrum
+1218_2	0000001830	negative	negative	non_pathogenic	N	-	Colostrum
+1219_1	0000001831	negative	negative	non_pathogenic	N	-	Colostrum
+1220_1	0000001832	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1221_1	0000001833	negative	negative	non_pathogenic	N	-	Colostrum
+1222_1	0000001834	negative	negative	non_pathogenic	N	-	Colostrum
+1222_2	0000001835	negative	negative	non_pathogenic	N	-	Colostrum
+1222_3	0000001836	negative	negative	non_pathogenic	N	-	Colostrum
+1222_4	0000001837	negative	negative	non_pathogenic	N	-	Colostrum
+1222_5	0000001838	negative	negative	non_pathogenic	N	-	Colostrum
+1222_6	0000001839	negative	negative	non_pathogenic	N	-	Colostrum
+1223_1	0000001840	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1223_2	0000001841	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1224_1	0000001842	negative	negative	non_pathogenic	N	-	Colostrum
+1224_2	0000001843	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1224_3	0000001844	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1225_1	0000001845	negative	negative	non_pathogenic	N	-	Colostrum
+1226_1	0000001846	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1226_2	0000001847	negative	negative	non_pathogenic	N	-	Colostrum
+1227_1	0000001848	negative	negative	non_pathogenic	N	-	Colostrum
+1227_2	0000001849	negative	negative	non_pathogenic	N	-	Colostrum
+1228_1	0000001850	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1229_1	0000001851	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1231_1	0000001852	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1231_2	0000001853	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1232_1	0000001854	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1233_1	0000001855	negative	negative	non_pathogenic	N	-	Colostrum
+1234_1	0000001856	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1235_1	0000001857	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1237_1	0000001858	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1237_2	0000001859	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1238_1	0000001860	negative	negative	non_pathogenic	N	-	Colostrum
+1239_1	0000001861	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1240_1	0000001862	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1241_1	0000001863	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+1242_1	0000001864	negative	negative	non_pathogenic	N	-	Colostrum
+1243_1	0000001865	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1244_1	0000001866	negative	negative	non_pathogenic	N	-	Colostrum
+1244_2	0000001867	negative	negative	non_pathogenic	N	-	Colostrum
+1245_1	0000001868	negative	negative	non_pathogenic	N	-	Colostrum
+1245_2	0000001869	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1246_1	0000001870	negative	negative	non_pathogenic	N	-	Colostrum
+1246_2	0000001871	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1246_3	0000001872	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1246_4	0000001873	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1247_1	0000001874	negative	negative	non_pathogenic	N	-	Colostrum
+1247_2	0000001875	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1247_3	0000001876	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1247_4	0000001877	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1247_5	0000001878	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1248_1	0000001879	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1250_1	0000001880	negative	negative	non_pathogenic	N	-	Colostrum
+1250_2	0000001881	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1250_3	0000001882	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1251_1	0000001883	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1252_1	0000001884	negative	negative	non_pathogenic	N	-	Colostrum
+1252_2	0000001885	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1252_3	0000001886	negative	negative	non_pathogenic	N	-	Colostrum
+1253_1	0000001887	negative	negative	non_pathogenic	N	-	Colostrum
+1254_1	0000001888	negative	negative	non_pathogenic	N	-	Colostrum
+1255_1	0000001889	negative	negative	non_pathogenic	N	-	Colostrum
+1255_2	0000001890	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1256_1	0000001891	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1256_2	0000001892	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+1257_1	0000001893	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1258_1	0000001894	negative	negative	non_pathogenic	N	-	Colostrum
+1258_2	0000001895	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1259_1	0000001896	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1260_1	0000001897	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1261_1	0000001898	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1262_1	0000001899	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1263_1	0000001900	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1264_1	0000001901	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1264_2	0000001902	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1264_3	0000001903	negative	negative	non_pathogenic	N	-	Colostrum
+1265_1	0000001904	negative	negative	non_pathogenic	N	-	Colostrum
+1266_1	0000001905	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1267_1	0000001906	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1267_2	0000001907	negative	negative	non_pathogenic	N	-	Colostrum
+1268_1	0000001908	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1269_1	0000001909	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1269_2	0000001910	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1270_1	0000001911	negative	negative	non_pathogenic	N	-	Colostrum
+1270_2	0000001912	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1270_3	0000001913	negative	negative	non_pathogenic	N	-	Colostrum
+1271_1	0000001914	negative	negative	non_pathogenic	N	-	Colostrum
+1272_1	0000001915	negative	negative	non_pathogenic	N	-	Colostrum
+1273_1	0000001916	negative	negative	non_pathogenic	N	-	Colostrum
+1273_2	0000001917	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1273_3	0000001918	negative	negative	non_pathogenic	N	-	Colostrum
+1274_1	0000001919	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1274_2	0000001920	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1275_1	0000001921	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1276_1	0000001922	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1277_1	0000001923	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1278_1	0000001924	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1278_2	0000001925	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1279_1	0000001926	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1279_2	0000001927	negative	negative	non_pathogenic	N	-	Colostrum
+1279_3	0000001928	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1280_1	0000001929	negative	negative	non_pathogenic	N	-	Colostrum
+1280_2	0000001930	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1281_1	0000001931	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1281_2	0000001932	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1282_1	0000001933	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1283_1	0000001934	negative	negative	non_pathogenic	N	-	Colostrum
+1283_2	0000001935	negative	negative	non_pathogenic	N	-	Colostrum
+1284_1	0000001936	negative	negative	non_pathogenic	N	-	Colostrum
+1285_1	0000001937	negative	negative	non_pathogenic	Y	-	Colostrum
+1286_1	0000001938	negative	negative	non_pathogenic	N	-	Colostrum
+1287_1	0000001939	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1288_1	0000001940	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1288_2	0000001941	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1289_1	0000001942	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1290_1	0000001943	negative	negative	non_pathogenic	N	-	Colostrum
+1291_1	0000001944	negative	negative	non_pathogenic	N	-	Colostrum
+1291_2	0000001945	negative	negative	non_pathogenic	N	-	Colostrum
+1291_3	0000001946	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1291_4	0000001947	negative	negative	non_pathogenic	N	-	Colostrum
+1293_1	0000001948	negative	negative	non_pathogenic	N	-	Colostrum
+1294_1	0000001949	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1295_1	0000001950	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1295_2	0000001951	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1296_1	0000001952	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1297_1	0000001953	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1298_1	0000001954	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1299_1	0000001955	negative	negative	non_pathogenic	N	-	Colostrum
+1299_2	0000001956	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1300_1	0000001957	negative	negative	non_pathogenic	N	-	Colostrum
+1301_1	0000001958	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1302_1	0000001959	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1303_1	0000001960	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1304_1	0000001961	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1305_1	0000001962	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1306_1	0000001963	negative	negative	non_pathogenic	N	-	Colostrum
+1307_1	0000001964	negative	negative	non_pathogenic	N	-	Colostrum
+1308_1	0000001965	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1309_1	0000001966	negative	negative	non_pathogenic	N	-	Colostrum
+1310_1	0000001967	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1311_1	0000001968	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1312_1	0000001969	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1313_1	0000001970	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1314_1	0000001971	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1315_1	0000001972	negative	negative	non_pathogenic	N	-	Colostrum
+1316_1	0000001973	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1317_1	0000001974	negative	negative	non_pathogenic	N	-	Colostrum
+1318_1	0000001975	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+1319_1	0000001976	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1320_1	0000001977	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1321_1	0000001978	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1322_1	0000001979	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1323_1	0000001980	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1324_1	0000001981	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1325_1	0000001982	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1326_1	0000001983	negative	negative	non_pathogenic	N	-	Colostrum
+1326_2	0000001984	negative	negative	non_pathogenic	N	-	Colostrum
+1327_1	0000001985	negative	negative	non_pathogenic	N	-	Colostrum
+1327_2	0000001986	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1328_1	0000001987	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1329_1	0000001988	negative	negative	non_pathogenic	N	-	Colostrum
+1330_1	0000001989	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1330_2	0000001990	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1330_3	0000001991	negative	negative	non_pathogenic	N	-	Colostrum
+1331_1	0000001992	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1332_1	0000001993	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1333_1	0000001994	negative	negative	non_pathogenic	N	-	Colostrum
+1334_1	0000001995	negative	negative	non_pathogenic	N	-	Colostrum
+1334_2	0000001996	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1335_1	0000001997	negative	negative	non_pathogenic	N	-	Colostrum
+1336_1	0000001998	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1337_1	0000001999	negative	negative	non_pathogenic	N	-	Colostrum
+1337_2	0000002000	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1337_3	0000002001	negative	negative	non_pathogenic	N	-	Colostrum
+1337_4	0000002002	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1338_1	0000002003	negative	negative	non_pathogenic	N	-	Colostrum
+1339_1	0000002004	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1339_2	0000002005	negative	negative	non_pathogenic	N	-	Colostrum
+1340_1	0000002006	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+1341_1	0000002007	negative	negative	non_pathogenic	N	-	Colostrum
+1342_1	0000002008	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1343_1	0000002009	negative	negative	non_pathogenic	N	-	Colostrum
+1344_1	0000002010	negative	negative	non_pathogenic	N	-	Colostrum
+1345_1	0000002011	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1345_2	0000002012	negative	negative	non_pathogenic	N	-	Colostrum
+1345_3	0000002013	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1345_4	0000002014	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1346_1	0000002015	negative	negative	non_pathogenic	N	-	Colostrum
+1347_1	0000002016	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1348_1	0000002017	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1348_2	0000002018	negative	negative	non_pathogenic	N	-	Colostrum
+1348_3	0000002019	negative	negative	non_pathogenic	N	-	Colostrum
+1348_4	0000002020	negative	negative	non_pathogenic	N	-	Colostrum
+1349_1	0000002021	negative	negative	non_pathogenic	N	-	Colostrum
+1349_2	0000002022	negative	negative	non_pathogenic	N	-	Colostrum
+1349_3	0000002023	negative	negative	non_pathogenic	N	-	Colostrum
+1349_4	0000002024	negative	negative	non_pathogenic	N	-	Colostrum
+1350_1	0000002025	negative	negative	non_pathogenic	N	-	Colostrum
+1351_1	0000002026	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1351_2	0000002027	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1352_1	0000002028	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1352_2	0000002029	negative	negative	non_pathogenic	N	-	Colostrum
+1353_1	0000002030	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1353_2	0000002031	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1354_1	0000002032	negative	negative	non_pathogenic	N	-	Colostrum
+1354_2	0000002033	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1355_1	0000002034	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1356_1	0000002035	negative	negative	non_pathogenic	N	-	Colostrum
+1356_2	0000002036	negative	negative	non_pathogenic	N	-	Colostrum
+1357_1	0000002037	negative	negative	non_pathogenic	N	-	Colostrum
+1357_2	0000002038	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1358_1	0000002039	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1359_1	0000002040	negative	negative	non_pathogenic	N	-	Colostrum
+1359_2	0000002041	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1360_1	0000002042	negative	negative	non_pathogenic	N	-	Colostrum
+1361_1	0000002043	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1362_1	0000002044	negative	negative	non_pathogenic	N	-	Colostrum
+1363_1	0000002045	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1364_1	0000002046	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1365_1	0000002047	negative	negative	non_pathogenic	N	-	Colostrum
+1365_2	0000002048	negative	negative	non_pathogenic	N	-	Colostrum
+1366_1	0000002049	negative	negative	non_pathogenic	N	-	Colostrum
+1366_2	0000002050	negative	negative	non_pathogenic	N	-	Colostrum
+1366_3	0000002051	negative	negative	non_pathogenic	Y	-	Colostrum
+1367_1	0000002052	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1370_1	0000002053	negative	negative	non_pathogenic	N	-	Colostrum
+1370_2	0000002054	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1371_1	0000002055	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1372_1	0000002056	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1373_1	0000002057	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1373_2	0000002058	negative	negative	non_pathogenic	N	-	Colostrum
+1373_3	0000002059	negative	negative	non_pathogenic	N	-	Colostrum
+1374_1	0000002060	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1375_1	0000002061	negative	negative	non_pathogenic	N	-	Colostrum
+1375_2	0000002062	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1376_1	0000002063	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1377_1	0000002064	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1378_1	0000002065	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1379_1	0000002066	negative	negative	non_pathogenic	N	-	Colostrum
+1379_2	0000002067	negative	negative	non_pathogenic	N	-	Colostrum
+1380_1	0000002068	negative	negative	non_pathogenic	N	-	Colostrum
+1381_1	0000002069	negative	negative	non_pathogenic	N	-	Colostrum
+1382_1	0000002070	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1383_1	0000002071	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+1383_2	0000002072	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1384_1	0000002073	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1385_1	0000002074	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1386_1	0000002075	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1387_1	0000002076	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1388_1	0000002077	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1389_1	0000002078	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1390_1	0000002079	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1391_1	0000002080	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1392_1	0000002081	negative	negative	non_pathogenic	N	-	Colostrum
+1393_1	0000002082	negative	negative	non_pathogenic	N	-	Colostrum
+1393_2	0000002083	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1393_3	0000002084	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1394_1	0000002085	negative	negative	non_pathogenic	N	-	Colostrum
+1394_2	0000002086	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1395_1	0000002087	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1396_1	0000002088	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1397_1	0000002089	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1398_1	0000002090	negative	negative	non_pathogenic	N	-	Colostrum
+1398_2	0000002091	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1399_1	0000002092	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1399_2	0000002093	negative	negative	non_pathogenic	N	-	Colostrum
+1399_3	0000002094	negative	negative	non_pathogenic	N	-	Colostrum
+1399_4	0000002095	negative	negative	non_pathogenic	N	-	Colostrum
+1400_1	0000002096	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1401_1	0000002097	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1402_1	0000002098	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1402_2	0000002099	negative	negative	non_pathogenic	N	-	Colostrum
+1403_1	0000002100	negative	negative	non_pathogenic	N	-	Colostrum
+1403_2	0000002101	negative	negative	non_pathogenic	N	-	Colostrum
+1403_3	0000002102	negative	negative	non_pathogenic	N	-	Colostrum
+1404_1	0000002103	negative	negative	non_pathogenic	N	-	Colostrum
+1405_1	0000002104	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1405_2	0000002105	negative	negative	non_pathogenic	N	-	Colostrum
+1406_1	0000002106	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1406_2	0000002107	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1408_1	0000002108	negative	negative	non_pathogenic	N	-	Colostrum
+1408_2	0000002109	negative	negative	non_pathogenic	N	-	Colostrum
+1408_3	0000002110	negative	negative	non_pathogenic	N	-	Colostrum
+1410_1	0000002111	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1410_2	0000002112	negative	negative	non_pathogenic	N	-	Colostrum
+1411_1	0000002113	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1412_1	0000002114	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1413_1	0000002115	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1414_1	0000002116	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1415_1	0000002117	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1416_1	0000002118	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1417_1	0000002119	negative	negative	non_pathogenic	N	-	Colostrum
+1417_2	0000002120	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1418_1	0000002121	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1419_1	0000002122	negative	negative	non_pathogenic	N	-	Colostrum
+1420_1	0000002123	negative	negative	non_pathogenic	N	-	Colostrum
+1420_2	0000002124	negative	negative	non_pathogenic	N	-	Colostrum
+1421_1	0000002125	negative	negative	non_pathogenic	N	-	Colostrum
+1421_2	0000002126	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1422_1	0000002127	negative	negative	non_pathogenic	N	-	Colostrum
+1423_1	0000002128	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1423_2	0000002129	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1423_3	0000002130	negative	negative	non_pathogenic	N	-	Colostrum
+1423_4	0000002131	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1424_1	0000002132	negative	negative	non_pathogenic	N	-	Colostrum
+1425_1	0000002133	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1425_2	0000002134	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1426_1	0000002135	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1427_1	0000002136	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1428_1	0000002137	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1429_1	0000002138	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1429_2	0000002139	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1430_1	0000002140	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1431_1	0000002141	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1432_1	0000002142	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1433_1	0000002143	negative	negative	non_pathogenic	N	-	Colostrum
+1433_2	0000002144	negative	negative	non_pathogenic	N	-	Colostrum
+1434_1	0000002145	negative	negative	non_pathogenic	N	-	Colostrum
+1434_2	0000002146	negative	negative	non_pathogenic	N	-	Colostrum
+1435_1	0000002147	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1436_1	0000002148	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1437_1	0000002149	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1438_1	0000002150	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1438_2	0000002151	negative	negative	non_pathogenic	N	-	Colostrum
+1440_1	0000002152	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1440_2	0000002153	negative	negative	non_pathogenic	N	-	Colostrum
+1441_1	0000002154	negative	negative	non_pathogenic	N	-	Colostrum
+1442_1	0000002155	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1444_1	0000002156	negative	negative	non_pathogenic	N	-	Colostrum
+1444_2	0000002157	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1444_3	0000002158	negative	negative	non_pathogenic	N	-	Colostrum
+1445_1	0000002159	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1447_1	0000002160	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+1448_1	0000002161	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1448_2	0000002162	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1448_3	0000002163	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1449_1	0000002164	negative	negative	non_pathogenic	N	-	Colostrum
+1449_2	0000002165	negative	negative	non_pathogenic	N	-	Colostrum
+1450_1	0000002166	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1450_2	0000002167	negative	negative	non_pathogenic	N	-	Colostrum
+1451_1	0000002168	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1452_1	0000002169	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1453_1	0000002170	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1454_1	0000002171	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1455_1	0000002172	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1455_2	0000002173	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1455_3	0000002174	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1455_4	0000002175	negative	negative	non_pathogenic	N	-	Colostrum
+1455_5	0000002176	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1456_1	0000002177	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1456_2	0000002178	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1457_1	0000002179	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1458_1	0000002180	negative	negative	non_pathogenic	N	-	Colostrum
+1459_1	0000002181	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1459_2	0000002182	negative	negative	non_pathogenic	N	-	Colostrum
+1459_3	0000002183	negative	negative	non_pathogenic	N	-	Colostrum
+1459_4	0000002184	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1459_5	0000002185	negative	negative	non_pathogenic	N	-	Colostrum
+1460_1	0000002186	negative	negative	non_pathogenic	N	-	Colostrum
+1460_2	0000002187	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1461_1	0000002188	negative	negative	non_pathogenic	N	-	Colostrum
+1462_1	0000002189	negative	negative	non_pathogenic	N	-	Colostrum
+1463_1	0000002190	negative	negative	non_pathogenic	N	-	Colostrum
+1463_2	0000002191	negative	negative	non_pathogenic	N	-	Colostrum
+1463_3	0000002192	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1464_1	0000002193	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1465_1	0000002194	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1466_1	0000002195	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1467_1	0000002196	negative	negative	non_pathogenic	N	-	Colostrum
+1467_2	0000002197	negative	negative	non_pathogenic	N	-	Colostrum
+1467_3	0000002198	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1467_4	0000002199	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1468_1	0000002200	negative	negative	non_pathogenic	N	-	Colostrum
+1469_1	0000002201	negative	negative	non_pathogenic	N	-	Colostrum
+1470_1	0000002202	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1471_1	0000002203	negative	negative	non_pathogenic	N	-	Colostrum
+1472_1	0000002204	negative	negative	non_pathogenic	N	-	Colostrum
+1472_2	0000002205	negative	negative	non_pathogenic	N	-	Colostrum
+1473_1	0000002206	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1473_2	0000002207	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1473_3	0000002208	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1474_1	0000002209	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1475_1	0000002210	negative	negative	non_pathogenic	N	-	Colostrum
+1477_1	0000002211	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1478_1	0000002212	negative	negative	non_pathogenic	N	-	Colostrum
+1479_1	0000002213	negative	negative	non_pathogenic	N	-	Colostrum
+1480_1	0000002214	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1481_1	0000002215	negative	negative	non_pathogenic	N	-	Colostrum
+1481_2	0000002216	negative	negative	non_pathogenic	N	-	Colostrum
+1481_3	0000002217	negative	negative	non_pathogenic	N	-	Colostrum
+1482_1	0000002218	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1482_2	0000002219	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1482_3	0000002220	negative	negative	non_pathogenic	N	-	Colostrum
+1482_4	0000002221	negative	negative	non_pathogenic	N	-	Colostrum
+1483_1	0000002222	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1484_1	0000002223	negative	negative	non_pathogenic	N	-	Colostrum
+1484_2	0000002224	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	Colostrum
+1485_1	0000002225	negative	negative	non_pathogenic	N	-	Colostrum
+1486_1	0000002226	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1487_1	0000002227	negative	negative	non_pathogenic	N	-	Colostrum
+1488_1	0000002228	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	Colostrum
+1488_2	0000002229	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1489_1	0000002230	negative	negative	non_pathogenic	N	-	Colostrum
+1490_1	0000002231	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1490_2	0000002232	negative	negative	non_pathogenic	N	-	Colostrum
+1491_1	0000002233	negative	negative	non_pathogenic	N	-	Colostrum
+1491_2	0000002234	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1492_1	0000002235	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1492_2	0000002236	negative	negative	non_pathogenic	N	-	Colostrum
+1493_1	0000002237	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1494_1	0000002238	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1494_2	0000002239	negative	negative	non_pathogenic	N	-	Colostrum
+1495_1	0000002240	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1496_1	0000002241	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1497_1	0000002242	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1498_1	0000002243	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1499_1	0000002244	negative	negative	non_pathogenic	N	-	Colostrum
+1500_1	0000002245	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1501_1	0000002246	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1502_1	0000002247	negative	negative	non_pathogenic	N	-	Colostrum
+1503_1	0000002248	negative	negative	non_pathogenic	N	-	Colostrum
+1504_1	0000002249	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1505_1	0000002250	negative	negative	non_pathogenic	N	-	Colostrum
+1505_2	0000002251	negative	negative	non_pathogenic	N	-	Colostrum
+1506_1	0000002252	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1507_1	0000002253	negative	negative	non_pathogenic	N	-	Colostrum
+1507_2	0000002254	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1507_3	0000002255	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1507_4	0000002256	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1507_5	0000002257	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1507_6	0000002258	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1507_7	0000002259	negative	negative	non_pathogenic	N	-	Colostrum
+1507_8	0000002260	negative	negative	non_pathogenic	N	-	Colostrum
+1507_9	0000002261	negative	negative	non_pathogenic	N	-	Colostrum
+1507_10	0000002262	negative	negative	non_pathogenic	N	-	Colostrum
+1508_1	0000002263	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1509_1	0000002264	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1510_1	0000002265	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1511_1	0000002266	negative	negative	non_pathogenic	Y	-	Colostrum
+1512_1	0000002267	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1513_1	0000002268	negative	negative	non_pathogenic	N	-	Colostrum
+1514_1	0000002269	negative	negative	non_pathogenic	N	-	Colostrum
+1515_1	0000002270	negative	negative	non_pathogenic	N	-	Colostrum
+1515_2	0000002271	negative	negative	non_pathogenic	N	-	Colostrum
+1516_1	0000002272	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1517_1	0000002273	negative	negative	non_pathogenic	N	-	Colostrum
+1517_2	0000002274	negative	negative	non_pathogenic	N	-	Colostrum
+1517_3	0000002275	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1517_4	0000002276	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1517_5	0000002277	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1517_6	0000002278	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1517_7	0000002279	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum
+1518_1	0000002280	negative	negative	non_pathogenic	N	-	Colostrum
+1519_1	0000002281	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	Colostrum
+1519_2	0000002282	negative	negative	non_pathogenic	N	-	Colostrum
+1520_1	0000002283	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	Colostrum

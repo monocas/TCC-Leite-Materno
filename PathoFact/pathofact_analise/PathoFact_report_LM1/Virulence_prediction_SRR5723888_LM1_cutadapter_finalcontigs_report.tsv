@@ -1,0 +1,623 @@
+ORF	ORF_ID	Virulence_HMM_prediction	Virulence_classifier_prediction	Virulence_prediction	Signal_peptide	Virulence_confidence_level	group
+1_1	0000000001	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+2_1	0000000002	negative	negative	non_pathogenic	N	-	LM1
+3_1	0000000003	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+3_2	0000000004	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+5_1	0000000005	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+5_2	0000000006	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+6_1	0000000007	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+7_1	0000000008	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+8_1	0000000009	negative	negative	non_pathogenic	N	-	LM1
+9_1	0000000010	negative	negative	non_pathogenic	N	-	LM1
+10_1	0000000011	negative	negative	non_pathogenic	N	-	LM1
+11_1	0000000012	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+11_2	0000000013	negative	negative	non_pathogenic	N	-	LM1
+12_1	0000000014	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+12_2	0000000015	negative	negative	non_pathogenic	N	-	LM1
+12_3	0000000016	negative	negative	non_pathogenic	N	-	LM1
+13_1	0000000017	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+14_1	0000000018	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+14_2	0000000019	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+15_1	0000000020	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+16_1	0000000021	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+16_2	0000000022	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+16_3	0000000023	negative	negative	non_pathogenic	N	-	LM1
+17_1	0000000024	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+18_1	0000000025	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+18_2	0000000026	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+19_1	0000000027	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+19_2	0000000028	negative	negative	non_pathogenic	N	-	LM1
+20_1	0000000029	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+21_1	0000000030	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+22_1	0000000031	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+23_1	0000000032	negative	negative	non_pathogenic	N	-	LM1
+23_2	0000000033	negative	negative	non_pathogenic	N	-	LM1
+25_1	0000000034	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+25_2	0000000035	negative	negative	non_pathogenic	N	-	LM1
+26_1	0000000036	negative	negative	non_pathogenic	N	-	LM1
+27_1	0000000037	negative	negative	non_pathogenic	N	-	LM1
+27_2	0000000038	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+27_3	0000000039	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+28_1	0000000040	negative	negative	non_pathogenic	N	-	LM1
+28_2	0000000041	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+28_3	0000000042	negative	negative	non_pathogenic	N	-	LM1
+29_1	0000000043	negative	negative	non_pathogenic	N	-	LM1
+30_1	0000000044	negative	negative	non_pathogenic	N	-	LM1
+30_2	0000000045	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+30_3	0000000046	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+30_4	0000000047	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+31_1	0000000048	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+32_1	0000000049	negative	negative	non_pathogenic	N	-	LM1
+32_2	0000000050	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+32_3	0000000051	negative	negative	non_pathogenic	N	-	LM1
+32_4	0000000052	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+33_1	0000000053	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+33_2	0000000054	negative	negative	non_pathogenic	N	-	LM1
+33_3	0000000055	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+34_1	0000000056	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+35_1	0000000057	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+36_1	0000000058	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+36_2	0000000059	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+36_3	0000000060	negative	negative	non_pathogenic	N	-	LM1
+37_1	0000000061	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+38_1	0000000062	negative	negative	non_pathogenic	N	-	LM1
+39_1	0000000063	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+39_2	0000000064	negative	negative	non_pathogenic	N	-	LM1
+39_3	0000000065	negative	negative	non_pathogenic	N	-	LM1
+40_1	0000000066	negative	negative	non_pathogenic	N	-	LM1
+41_1	0000000067	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+42_1	0000000068	negative	negative	non_pathogenic	N	-	LM1
+43_1	0000000069	negative	negative	non_pathogenic	N	-	LM1
+45_1	0000000070	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+45_2	0000000071	negative	negative	non_pathogenic	N	-	LM1
+47_1	0000000072	negative	negative	non_pathogenic	N	-	LM1
+47_2	0000000073	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+48_1	0000000074	negative	negative	non_pathogenic	N	-	LM1
+48_2	0000000075	negative	negative	non_pathogenic	N	-	LM1
+48_3	0000000076	negative	negative	non_pathogenic	N	-	LM1
+48_4	0000000077	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+49_1	0000000078	negative	negative	non_pathogenic	N	-	LM1
+50_1	0000000079	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+50_2	0000000080	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+50_3	0000000081	negative	negative	non_pathogenic	N	-	LM1
+51_1	0000000082	negative	negative	non_pathogenic	N	-	LM1
+52_1	0000000083	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+53_1	0000000084	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+53_2	0000000085	negative	negative	non_pathogenic	N	-	LM1
+53_3	0000000086	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+53_4	0000000087	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+53_5	0000000088	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+54_1	0000000089	negative	negative	non_pathogenic	N	-	LM1
+54_2	0000000090	negative	negative	non_pathogenic	N	-	LM1
+54_3	0000000091	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+55_1	0000000092	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+55_2	0000000093	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+55_3	0000000094	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+57_1	0000000095	negative	negative	non_pathogenic	N	-	LM1
+57_2	0000000096	negative	negative	non_pathogenic	N	-	LM1
+57_3	0000000097	negative	negative	non_pathogenic	N	-	LM1
+57_4	0000000098	negative	negative	non_pathogenic	N	-	LM1
+58_1	0000000099	negative	negative	non_pathogenic	N	-	LM1
+58_2	0000000100	negative	negative	non_pathogenic	N	-	LM1
+58_3	0000000101	negative	negative	non_pathogenic	N	-	LM1
+58_4	0000000102	negative	negative	non_pathogenic	N	-	LM1
+59_1	0000000103	negative	negative	non_pathogenic	N	-	LM1
+60_1	0000000104	negative	negative	non_pathogenic	N	-	LM1
+60_2	0000000105	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+60_3	0000000106	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+61_1	0000000107	negative	negative	non_pathogenic	N	-	LM1
+61_2	0000000108	negative	negative	non_pathogenic	N	-	LM1
+62_1	0000000109	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+63_1	0000000110	negative	negative	non_pathogenic	N	-	LM1
+64_1	0000000111	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+65_1	0000000112	negative	negative	non_pathogenic	N	-	LM1
+66_1	0000000113	negative	negative	non_pathogenic	N	-	LM1
+66_2	0000000114	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+66_3	0000000115	negative	negative	non_pathogenic	N	-	LM1
+67_1	0000000116	negative	negative	non_pathogenic	N	-	LM1
+68_1	0000000117	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+68_2	0000000118	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+69_1	0000000119	negative	negative	non_pathogenic	N	-	LM1
+70_1	0000000120	negative	negative	non_pathogenic	N	-	LM1
+70_2	0000000121	negative	negative	non_pathogenic	N	-	LM1
+71_1	0000000122	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+71_2	0000000123	negative	negative	non_pathogenic	N	-	LM1
+72_1	0000000124	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+73_1	0000000125	negative	negative	non_pathogenic	N	-	LM1
+73_2	0000000126	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+73_3	0000000127	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+74_1	0000000128	negative	negative	non_pathogenic	N	-	LM1
+74_2	0000000129	negative	negative	non_pathogenic	N	-	LM1
+75_1	0000000130	negative	negative	non_pathogenic	N	-	LM1
+75_2	0000000131	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+75_3	0000000132	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+75_4	0000000133	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+76_1	0000000134	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+76_2	0000000135	negative	negative	non_pathogenic	N	-	LM1
+76_3	0000000136	negative	negative	non_pathogenic	N	-	LM1
+77_1	0000000137	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+78_1	0000000138	negative	negative	non_pathogenic	Y	-	LM1
+78_2	0000000139	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+78_3	0000000140	negative	negative	non_pathogenic	N	-	LM1
+79_1	0000000141	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+79_2	0000000142	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+80_1	0000000143	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+80_2	0000000144	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+81_1	0000000145	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+82_1	0000000146	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+82_2	0000000147	negative	negative	non_pathogenic	N	-	LM1
+84_1	0000000148	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+84_2	0000000149	negative	negative	non_pathogenic	N	-	LM1
+85_1	0000000150	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+86_1	0000000151	negative	negative	non_pathogenic	N	-	LM1
+86_2	0000000152	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+86_3	0000000153	negative	negative	non_pathogenic	N	-	LM1
+87_1	0000000154	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+87_2	0000000155	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+89_1	0000000156	negative	negative	non_pathogenic	N	-	LM1
+89_2	0000000157	negative	negative	non_pathogenic	N	-	LM1
+90_1	0000000158	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+91_1	0000000159	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+92_1	0000000160	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+92_2	0000000161	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+92_3	0000000162	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+93_1	0000000163	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+94_1	0000000164	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+95_1	0000000165	negative	negative	non_pathogenic	N	-	LM1
+96_1	0000000166	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+96_2	0000000167	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+97_1	0000000168	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+98_1	0000000169	negative	negative	non_pathogenic	N	-	LM1
+98_2	0000000170	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+98_3	0000000171	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+99_1	0000000172	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+101_1	0000000173	negative	negative	non_pathogenic	N	-	LM1
+102_1	0000000174	negative	negative	non_pathogenic	N	-	LM1
+102_2	0000000175	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+102_3	0000000176	negative	negative	non_pathogenic	N	-	LM1
+102_4	0000000177	negative	negative	non_pathogenic	N	-	LM1
+103_1	0000000178	negative	negative	non_pathogenic	N	-	LM1
+103_2	0000000179	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+105_1	0000000180	negative	negative	non_pathogenic	N	-	LM1
+105_2	0000000181	negative	negative	non_pathogenic	N	-	LM1
+105_3	0000000182	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+106_1	0000000183	negative	negative	non_pathogenic	N	-	LM1
+107_1	0000000184	negative	negative	non_pathogenic	N	-	LM1
+108_1	0000000185	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+108_2	0000000186	negative	negative	non_pathogenic	N	-	LM1
+108_3	0000000187	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+109_1	0000000188	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+110_1	0000000189	negative	negative	non_pathogenic	N	-	LM1
+110_2	0000000190	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+111_1	0000000191	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+111_2	0000000192	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+112_1	0000000193	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+113_1	0000000194	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+114_1	0000000195	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+115_1	0000000196	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+116_1	0000000197	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+116_2	0000000198	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+117_1	0000000199	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+117_2	0000000200	negative	negative	non_pathogenic	N	-	LM1
+118_1	0000000201	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+119_1	0000000202	negative	negative	non_pathogenic	N	-	LM1
+119_2	0000000203	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+119_3	0000000204	negative	negative	non_pathogenic	N	-	LM1
+119_4	0000000205	negative	negative	non_pathogenic	N	-	LM1
+120_1	0000000206	negative	negative	non_pathogenic	N	-	LM1
+121_1	0000000207	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+121_2	0000000208	negative	negative	non_pathogenic	N	-	LM1
+122_1	0000000209	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+122_2	0000000210	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+123_1	0000000211	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+123_2	0000000212	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+124_1	0000000213	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+124_2	0000000214	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+125_1	0000000215	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+125_2	0000000216	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+126_1	0000000217	negative	negative	non_pathogenic	N	-	LM1
+127_1	0000000218	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+127_2	0000000219	negative	negative	non_pathogenic	N	-	LM1
+128_1	0000000220	negative	negative	non_pathogenic	N	-	LM1
+129_1	0000000221	negative	negative	non_pathogenic	N	-	LM1
+129_2	0000000222	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+129_3	0000000223	negative	negative	non_pathogenic	N	-	LM1
+130_1	0000000224	negative	negative	non_pathogenic	N	-	LM1
+130_2	0000000225	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+130_3	0000000226	negative	negative	non_pathogenic	N	-	LM1
+132_1	0000000227	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+132_2	0000000228	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+133_1	0000000229	negative	negative	non_pathogenic	N	-	LM1
+133_2	0000000230	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+133_3	0000000231	negative	negative	non_pathogenic	N	-	LM1
+134_1	0000000232	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+135_1	0000000233	negative	negative	non_pathogenic	N	-	LM1
+136_1	0000000234	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+137_1	0000000235	negative	negative	non_pathogenic	N	-	LM1
+137_2	0000000236	negative	negative	non_pathogenic	N	-	LM1
+138_1	0000000237	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+139_1	0000000238	negative	negative	non_pathogenic	N	-	LM1
+140_1	0000000239	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+140_2	0000000240	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+141_1	0000000241	negative	negative	non_pathogenic	N	-	LM1
+141_2	0000000242	negative	negative	non_pathogenic	N	-	LM1
+141_3	0000000243	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+142_1	0000000244	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+142_2	0000000245	negative	negative	non_pathogenic	N	-	LM1
+143_1	0000000246	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+143_2	0000000247	negative	negative	non_pathogenic	N	-	LM1
+144_1	0000000248	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+144_2	0000000249	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+145_1	0000000250	negative	negative	non_pathogenic	N	-	LM1
+146_1	0000000251	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+147_1	0000000252	negative	negative	non_pathogenic	N	-	LM1
+147_2	0000000253	negative	negative	non_pathogenic	N	-	LM1
+148_1	0000000254	negative	negative	non_pathogenic	N	-	LM1
+148_2	0000000255	negative	negative	non_pathogenic	N	-	LM1
+149_1	0000000256	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+149_2	0000000257	negative	negative	non_pathogenic	N	-	LM1
+150_1	0000000258	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+150_2	0000000259	negative	negative	non_pathogenic	N	-	LM1
+150_3	0000000260	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+151_1	0000000261	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+152_1	0000000262	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+153_1	0000000263	negative	negative	non_pathogenic	N	-	LM1
+153_2	0000000264	negative	negative	non_pathogenic	N	-	LM1
+154_1	0000000265	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+155_1	0000000266	negative	negative	non_pathogenic	N	-	LM1
+155_2	0000000267	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+156_1	0000000268	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+157_1	0000000269	negative	negative	non_pathogenic	N	-	LM1
+158_1	0000000270	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+158_2	0000000271	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+159_1	0000000272	negative	negative	non_pathogenic	N	-	LM1
+159_2	0000000273	negative	negative	non_pathogenic	N	-	LM1
+160_1	0000000274	negative	negative	non_pathogenic	N	-	LM1
+160_2	0000000275	negative	negative	non_pathogenic	N	-	LM1
+160_3	0000000276	negative	negative	non_pathogenic	N	-	LM1
+160_4	0000000277	negative	negative	non_pathogenic	N	-	LM1
+161_1	0000000278	negative	negative	non_pathogenic	N	-	LM1
+161_2	0000000279	negative	negative	non_pathogenic	N	-	LM1
+161_3	0000000280	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+162_1	0000000281	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+162_2	0000000282	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+163_1	0000000283	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+164_1	0000000284	negative	negative	non_pathogenic	N	-	LM1
+165_1	0000000285	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+165_2	0000000286	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+166_1	0000000287	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+166_2	0000000288	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+167_1	0000000289	negative	negative	non_pathogenic	N	-	LM1
+167_2	0000000290	negative	negative	non_pathogenic	N	-	LM1
+167_3	0000000291	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+168_1	0000000292	negative	negative	non_pathogenic	N	-	LM1
+168_2	0000000293	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+168_3	0000000294	negative	negative	non_pathogenic	N	-	LM1
+168_4	0000000295	negative	negative	non_pathogenic	Y	-	LM1
+169_1	0000000296	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+169_2	0000000297	negative	negative	non_pathogenic	N	-	LM1
+170_1	0000000298	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+171_1	0000000299	negative	negative	non_pathogenic	N	-	LM1
+171_2	0000000300	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+171_3	0000000301	negative	negative	non_pathogenic	N	-	LM1
+171_4	0000000302	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+171_5	0000000303	negative	negative	non_pathogenic	N	-	LM1
+172_1	0000000304	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+172_2	0000000305	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+173_1	0000000306	negative	negative	non_pathogenic	N	-	LM1
+174_1	0000000307	negative	negative	non_pathogenic	N	-	LM1
+175_1	0000000308	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+176_1	0000000309	negative	negative	non_pathogenic	N	-	LM1
+176_2	0000000310	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+176_3	0000000311	negative	negative	non_pathogenic	N	-	LM1
+178_1	0000000312	negative	negative	non_pathogenic	N	-	LM1
+179_1	0000000313	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+180_1	0000000314	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+181_1	0000000315	negative	negative	non_pathogenic	N	-	LM1
+181_2	0000000316	negative	negative	non_pathogenic	N	-	LM1
+181_3	0000000317	negative	negative	non_pathogenic	N	-	LM1
+182_1	0000000318	negative	negative	non_pathogenic	N	-	LM1
+182_2	0000000319	negative	negative	non_pathogenic	N	-	LM1
+182_3	0000000320	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+182_4	0000000321	negative	negative	non_pathogenic	N	-	LM1
+183_1	0000000322	negative	negative	non_pathogenic	N	-	LM1
+183_2	0000000323	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+185_1	0000000324	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+185_2	0000000325	negative	negative	non_pathogenic	N	-	LM1
+185_3	0000000326	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+186_1	0000000327	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+186_2	0000000328	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+187_1	0000000329	negative	negative	non_pathogenic	N	-	LM1
+187_2	0000000330	negative	negative	non_pathogenic	N	-	LM1
+188_1	0000000331	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+189_1	0000000332	negative	negative	non_pathogenic	N	-	LM1
+190_1	0000000333	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+191_1	0000000334	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+191_2	0000000335	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+192_1	0000000336	negative	negative	non_pathogenic	N	-	LM1
+192_2	0000000337	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+193_1	0000000338	negative	negative	non_pathogenic	N	-	LM1
+193_2	0000000339	negative	negative	non_pathogenic	N	-	LM1
+194_1	0000000340	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+194_2	0000000341	negative	negative	non_pathogenic	N	-	LM1
+195_1	0000000342	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+196_1	0000000343	negative	negative	non_pathogenic	N	-	LM1
+197_1	0000000344	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+198_1	0000000345	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+198_2	0000000346	negative	negative	non_pathogenic	N	-	LM1
+198_3	0000000347	negative	negative	non_pathogenic	N	-	LM1
+199_1	0000000348	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+200_1	0000000349	negative	negative	non_pathogenic	Y	-	LM1
+200_2	0000000350	negative	negative	non_pathogenic	N	-	LM1
+201_1	0000000351	negative	negative	non_pathogenic	N	-	LM1
+201_2	0000000352	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+201_3	0000000353	negative	negative	non_pathogenic	N	-	LM1
+202_1	0000000354	negative	negative	non_pathogenic	N	-	LM1
+202_2	0000000355	negative	negative	non_pathogenic	N	-	LM1
+202_3	0000000356	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+202_4	0000000357	negative	negative	non_pathogenic	N	-	LM1
+203_1	0000000358	negative	negative	non_pathogenic	N	-	LM1
+205_1	0000000359	negative	negative	non_pathogenic	N	-	LM1
+205_2	0000000360	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+206_1	0000000361	negative	negative	non_pathogenic	N	-	LM1
+207_1	0000000362	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+207_2	0000000363	negative	negative	non_pathogenic	N	-	LM1
+207_3	0000000364	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+208_1	0000000365	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+208_2	0000000366	negative	negative	non_pathogenic	N	-	LM1
+210_1	0000000367	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+210_2	0000000368	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+210_3	0000000369	negative	negative	non_pathogenic	N	-	LM1
+211_1	0000000370	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+212_1	0000000371	negative	negative	non_pathogenic	N	-	LM1
+214_1	0000000372	negative	negative	non_pathogenic	N	-	LM1
+214_2	0000000373	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+214_3	0000000374	negative	negative	non_pathogenic	N	-	LM1
+214_4	0000000375	negative	negative	non_pathogenic	N	-	LM1
+215_1	0000000376	negative	negative	non_pathogenic	N	-	LM1
+216_1	0000000377	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+216_2	0000000378	negative	negative	non_pathogenic	N	-	LM1
+217_1	0000000379	negative	negative	non_pathogenic	N	-	LM1
+218_1	0000000380	negative	negative	non_pathogenic	N	-	LM1
+218_2	0000000381	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+219_1	0000000382	negative	negative	non_pathogenic	N	-	LM1
+219_2	0000000383	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+219_3	0000000384	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+220_1	0000000385	negative	negative	non_pathogenic	N	-	LM1
+220_2	0000000386	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+220_3	0000000387	negative	negative	non_pathogenic	N	-	LM1
+221_1	0000000388	negative	negative	non_pathogenic	N	-	LM1
+221_2	0000000389	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+222_1	0000000390	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+222_2	0000000391	negative	negative	non_pathogenic	N	-	LM1
+222_3	0000000392	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+222_4	0000000393	negative	negative	non_pathogenic	N	-	LM1
+223_1	0000000394	negative	negative	non_pathogenic	N	-	LM1
+223_2	0000000395	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+223_3	0000000396	negative	negative	non_pathogenic	N	-	LM1
+224_1	0000000397	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+224_2	0000000398	negative	negative	non_pathogenic	N	-	LM1
+225_1	0000000399	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+226_1	0000000400	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+226_2	0000000401	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+227_1	0000000402	negative	negative	non_pathogenic	N	-	LM1
+227_2	0000000403	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+230_1	0000000404	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+230_2	0000000405	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+232_1	0000000406	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+232_2	0000000407	negative	negative	non_pathogenic	N	-	LM1
+233_1	0000000408	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+233_2	0000000409	negative	negative	non_pathogenic	N	-	LM1
+234_1	0000000410	negative	negative	non_pathogenic	N	-	LM1
+234_2	0000000411	negative	negative	non_pathogenic	N	-	LM1
+235_1	0000000412	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+235_2	0000000413	negative	negative	non_pathogenic	N	-	LM1
+236_1	0000000414	negative	negative	non_pathogenic	N	-	LM1
+237_1	0000000415	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+238_1	0000000416	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+238_2	0000000417	negative	negative	non_pathogenic	N	-	LM1
+240_1	0000000418	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+241_1	0000000419	negative	negative	non_pathogenic	N	-	LM1
+241_2	0000000420	negative	negative	non_pathogenic	N	-	LM1
+241_3	0000000421	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+242_1	0000000422	negative	negative	non_pathogenic	N	-	LM1
+242_2	0000000423	negative	negative	non_pathogenic	N	-	LM1
+244_1	0000000424	negative	negative	non_pathogenic	N	-	LM1
+246_1	0000000425	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+246_2	0000000426	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+246_3	0000000427	negative	negative	non_pathogenic	N	-	LM1
+247_1	0000000428	negative	negative	non_pathogenic	N	-	LM1
+247_2	0000000429	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+247_3	0000000430	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+248_1	0000000431	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+248_2	0000000432	negative	negative	non_pathogenic	N	-	LM1
+250_1	0000000433	negative	negative	non_pathogenic	N	-	LM1
+251_1	0000000434	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+252_1	0000000435	negative	negative	non_pathogenic	N	-	LM1
+253_1	0000000436	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+255_1	0000000437	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+256_1	0000000438	negative	negative	non_pathogenic	N	-	LM1
+256_2	0000000439	negative	negative	non_pathogenic	N	-	LM1
+256_3	0000000440	negative	negative	non_pathogenic	N	-	LM1
+257_1	0000000441	negative	negative	non_pathogenic	N	-	LM1
+257_2	0000000442	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+257_3	0000000443	negative	negative	non_pathogenic	N	-	LM1
+258_1	0000000444	negative	negative	non_pathogenic	N	-	LM1
+258_2	0000000445	negative	negative	non_pathogenic	N	-	LM1
+259_1	0000000446	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+261_1	0000000447	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+261_2	0000000448	negative	negative	non_pathogenic	N	-	LM1
+262_1	0000000449	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+263_1	0000000450	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+263_2	0000000451	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+264_1	0000000452	negative	negative	non_pathogenic	N	-	LM1
+264_2	0000000453	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+265_1	0000000454	negative	negative	non_pathogenic	N	-	LM1
+266_1	0000000455	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+267_1	0000000456	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+267_2	0000000457	negative	negative	non_pathogenic	N	-	LM1
+268_1	0000000458	negative	negative	non_pathogenic	Y	-	LM1
+268_2	0000000459	negative	negative	non_pathogenic	N	-	LM1
+268_3	0000000460	negative	negative	non_pathogenic	N	-	LM1
+269_1	0000000461	negative	negative	non_pathogenic	N	-	LM1
+270_1	0000000462	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+270_2	0000000463	negative	negative	non_pathogenic	N	-	LM1
+272_1	0000000464	negative	negative	non_pathogenic	N	-	LM1
+273_1	0000000465	negative	negative	non_pathogenic	N	-	LM1
+273_2	0000000466	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+274_1	0000000467	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+275_1	0000000468	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+275_2	0000000469	negative	negative	non_pathogenic	N	-	LM1
+276_1	0000000470	negative	negative	non_pathogenic	N	-	LM1
+276_2	0000000471	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+276_3	0000000472	negative	negative	non_pathogenic	N	-	LM1
+277_1	0000000473	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+277_2	0000000474	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+278_1	0000000475	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+279_1	0000000476	negative	negative	non_pathogenic	N	-	LM1
+280_1	0000000477	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+280_2	0000000478	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+281_1	0000000479	negative	negative	non_pathogenic	N	-	LM1
+282_1	0000000480	negative	negative	non_pathogenic	N	-	LM1
+282_2	0000000481	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+282_3	0000000482	negative	negative	non_pathogenic	N	-	LM1
+283_1	0000000483	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+284_1	0000000484	negative	negative	non_pathogenic	N	-	LM1
+284_2	0000000485	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+285_1	0000000486	negative	negative	non_pathogenic	N	-	LM1
+285_2	0000000487	negative	negative	non_pathogenic	N	-	LM1
+285_3	0000000488	negative	negative	non_pathogenic	N	-	LM1
+286_1	0000000489	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+286_2	0000000490	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+287_1	0000000491	negative	negative	non_pathogenic	N	-	LM1
+287_2	0000000492	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+288_1	0000000493	negative	negative	non_pathogenic	N	-	LM1
+288_2	0000000494	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+289_1	0000000495	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+290_1	0000000496	negative	negative	non_pathogenic	N	-	LM1
+290_2	0000000497	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+290_3	0000000498	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+290_4	0000000499	negative	negative	non_pathogenic	N	-	LM1
+291_1	0000000500	negative	negative	non_pathogenic	N	-	LM1
+291_2	0000000501	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+291_3	0000000502	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+292_1	0000000503	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+292_2	0000000504	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+293_1	0000000505	negative	negative	non_pathogenic	N	-	LM1
+293_2	0000000506	negative	negative	non_pathogenic	N	-	LM1
+293_3	0000000507	negative	negative	non_pathogenic	N	-	LM1
+294_1	0000000508	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+294_2	0000000509	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+295_1	0000000510	negative	negative	non_pathogenic	N	-	LM1
+295_2	0000000511	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	LM1
+296_1	0000000512	negative	negative	non_pathogenic	N	-	LM1
+296_2	0000000513	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+296_3	0000000514	negative	negative	non_pathogenic	N	-	LM1
+297_1	0000000515	negative	negative	non_pathogenic	N	-	LM1
+297_2	0000000516	negative	negative	non_pathogenic	N	-	LM1
+297_3	0000000517	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+298_1	0000000518	negative	negative	non_pathogenic	N	-	LM1
+298_2	0000000519	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+298_3	0000000520	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+298_4	0000000521	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+299_1	0000000522	negative	negative	non_pathogenic	N	-	LM1
+300_1	0000000523	negative	negative	non_pathogenic	N	-	LM1
+300_2	0000000524	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+300_3	0000000525	negative	negative	non_pathogenic	N	-	LM1
+301_1	0000000526	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+302_1	0000000527	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+303_1	0000000528	negative	negative	non_pathogenic	N	-	LM1
+305_1	0000000529	negative	negative	non_pathogenic	N	-	LM1
+306_1	0000000530	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+307_1	0000000531	negative	negative	non_pathogenic	N	-	LM1
+307_2	0000000532	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+308_1	0000000533	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+309_1	0000000534	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+309_2	0000000535	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+311_1	0000000536	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+311_2	0000000537	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+312_1	0000000538	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+312_2	0000000539	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+312_3	0000000540	negative	negative	non_pathogenic	N	-	LM1
+313_1	0000000541	negative	negative	non_pathogenic	N	-	LM1
+313_2	0000000542	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+314_1	0000000543	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+315_1	0000000544	negative	negative	non_pathogenic	N	-	LM1
+315_2	0000000545	negative	negative	non_pathogenic	N	-	LM1
+316_1	0000000546	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+316_2	0000000547	negative	negative	non_pathogenic	N	-	LM1
+316_3	0000000548	negative	negative	non_pathogenic	N	-	LM1
+317_1	0000000549	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+317_2	0000000550	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+317_3	0000000551	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+318_1	0000000552	negative	negative	non_pathogenic	N	-	LM1
+318_2	0000000553	negative	negative	non_pathogenic	N	-	LM1
+318_3	0000000554	negative	negative	non_pathogenic	N	-	LM1
+318_4	0000000555	negative	negative	non_pathogenic	N	-	LM1
+318_5	0000000556	negative	negative	non_pathogenic	N	-	LM1
+319_1	0000000557	negative	negative	non_pathogenic	N	-	LM1
+321_1	0000000558	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	LM1
+322_1	0000000559	negative	negative	non_pathogenic	N	-	LM1
+323_1	0000000560	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+323_2	0000000561	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+324_1	0000000562	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+324_2	0000000563	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+324_3	0000000564	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+324_4	0000000565	negative	negative	non_pathogenic	N	-	LM1
+324_5	0000000566	negative	negative	non_pathogenic	N	-	LM1
+326_1	0000000567	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+327_1	0000000568	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+327_2	0000000569	negative	negative	non_pathogenic	N	-	LM1
+328_1	0000000570	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+328_2	0000000571	negative	negative	non_pathogenic	N	-	LM1
+329_1	0000000572	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+330_1	0000000573	negative	negative	non_pathogenic	N	-	LM1
+330_2	0000000574	negative	negative	non_pathogenic	N	-	LM1
+331_1	0000000575	negative	negative	non_pathogenic	N	-	LM1
+332_1	0000000576	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+333_1	0000000577	negative	negative	non_pathogenic	N	-	LM1
+333_2	0000000578	negative	negative	non_pathogenic	N	-	LM1
+334_1	0000000579	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+335_1	0000000580	negative	negative	non_pathogenic	N	-	LM1
+335_2	0000000581	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+336_1	0000000582	negative	negative	non_pathogenic	N	-	LM1
+336_2	0000000583	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+337_1	0000000584	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+337_2	0000000585	negative	negative	non_pathogenic	N	-	LM1
+337_3	0000000586	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+338_1	0000000587	negative	negative	non_pathogenic	N	-	LM1
+339_1	0000000588	negative	negative	non_pathogenic	N	-	LM1
+339_2	0000000589	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+339_3	0000000590	negative	negative	non_pathogenic	N	-	LM1
+340_1	0000000591	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+341_1	0000000592	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+342_1	0000000593	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+343_1	0000000594	negative	negative	non_pathogenic	N	-	LM1
+343_2	0000000595	negative	negative	non_pathogenic	N	-	LM1
+343_3	0000000596	negative	negative	non_pathogenic	N	-	LM1
+344_1	0000000597	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+346_1	0000000598	negative	negative	non_pathogenic	N	-	LM1
+346_2	0000000599	negative	negative	non_pathogenic	N	-	LM1
+346_3	0000000600	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+348_1	0000000601	negative	negative	non_pathogenic	N	-	LM1
+348_2	0000000602	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+348_3	0000000603	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+348_4	0000000604	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+349_1	0000000605	negative	negative	non_pathogenic	N	-	LM1
+350_1	0000000606	negative	negative	non_pathogenic	N	-	LM1
+350_2	0000000607	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+351_1	0000000608	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+352_1	0000000609	negative	negative	non_pathogenic	N	-	LM1
+352_2	0000000610	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+352_3	0000000611	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+353_1	0000000612	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	LM1
+354_1	0000000613	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+355_1	0000000614	negative	negative	non_pathogenic	N	-	LM1
+355_2	0000000615	negative	negative	non_pathogenic	N	-	LM1
+356_1	0000000616	negative	negative	non_pathogenic	N	-	LM1
+356_2	0000000617	negative	negative	non_pathogenic	N	-	LM1
+357_1	0000000618	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1
+357_2	0000000619	negative	negative	non_pathogenic	N	-	LM1
+357_3	0000000620	negative	negative	non_pathogenic	N	-	LM1
+359_1	0000000621	negative	negative	non_pathogenic	N	-	LM1
+359_2	0000000622	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	LM1

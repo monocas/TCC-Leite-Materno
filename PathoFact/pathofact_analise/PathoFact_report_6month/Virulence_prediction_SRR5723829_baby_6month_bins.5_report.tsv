@@ -1,0 +1,1600 @@
+ORF	ORF_ID	Virulence_HMM_prediction	Virulence_classifier_prediction	Virulence_prediction	Signal_peptide	Virulence_confidence_level	group
+1_1	0000000001	negative	negative	non_pathogenic	N	-	baby_6month
+1_2	0000000002	negative	negative	non_pathogenic	N	-	baby_6month
+1_3	0000000003	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+1_4	0000000004	negative	negative	non_pathogenic	N	-	baby_6month
+1_5	0000000005	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+1_6	0000000006	negative	negative	non_pathogenic	N	-	baby_6month
+2_1	0000000007	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+2_2	0000000008	negative	negative	non_pathogenic	N	-	baby_6month
+2_3	0000000009	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+2_4	0000000010	negative	negative	non_pathogenic	N	-	baby_6month
+2_5	0000000011	negative	negative	non_pathogenic	N	-	baby_6month
+2_6	0000000012	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+2_7	0000000013	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+2_8	0000000014	negative	negative	non_pathogenic	N	-	baby_6month
+2_9	0000000015	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+2_10	0000000016	negative	negative	non_pathogenic	N	-	baby_6month
+2_11	0000000017	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+2_12	0000000018	negative	negative	non_pathogenic	N	-	baby_6month
+2_13	0000000019	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+2_14	0000000020	negative	negative	non_pathogenic	N	-	baby_6month
+2_15	0000000021	negative	negative	non_pathogenic	N	-	baby_6month
+2_16	0000000022	negative	negative	non_pathogenic	N	-	baby_6month
+3_1	0000000023	negative	negative	non_pathogenic	N	-	baby_6month
+3_2	0000000024	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+3_3	0000000025	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+4_1	0000000026	negative	negative	non_pathogenic	N	-	baby_6month
+4_2	0000000027	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+4_3	0000000028	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+4_4	0000000029	negative	negative	non_pathogenic	N	-	baby_6month
+4_5	0000000030	negative	negative	non_pathogenic	N	-	baby_6month
+5_1	0000000031	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+5_2	0000000032	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+5_3	0000000033	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+5_4	0000000034	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+5_5	0000000035	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+5_6	0000000036	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+6_1	0000000037	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+6_2	0000000038	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+6_3	0000000039	negative	negative	non_pathogenic	N	-	baby_6month
+6_4	0000000040	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+6_5	0000000041	negative	negative	non_pathogenic	N	-	baby_6month
+6_6	0000000042	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+6_7	0000000043	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+6_8	0000000044	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+6_9	0000000045	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+6_10	0000000046	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+7_1	0000000047	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+7_2	0000000048	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+7_3	0000000049	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+7_4	0000000050	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+8_1	0000000051	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+8_2	0000000052	negative	negative	non_pathogenic	N	-	baby_6month
+8_3	0000000053	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+8_4	0000000054	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+8_5	0000000055	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+9_1	0000000056	negative	negative	non_pathogenic	N	-	baby_6month
+9_2	0000000057	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+9_3	0000000058	negative	negative	non_pathogenic	N	-	baby_6month
+9_4	0000000059	negative	negative	non_pathogenic	N	-	baby_6month
+10_1	0000000060	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+10_2	0000000061	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+10_3	0000000062	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+10_4	0000000063	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+10_5	0000000064	negative	negative	non_pathogenic	N	-	baby_6month
+11_1	0000000065	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+11_2	0000000066	negative	negative	non_pathogenic	N	-	baby_6month
+11_3	0000000067	negative	negative	non_pathogenic	N	-	baby_6month
+11_4	0000000068	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+11_5	0000000069	negative	negative	non_pathogenic	N	-	baby_6month
+11_6	0000000070	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+11_7	0000000071	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+11_8	0000000072	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+11_9	0000000073	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+12_1	0000000074	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+12_2	0000000075	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+12_3	0000000076	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+12_4	0000000077	negative	negative	non_pathogenic	N	-	baby_6month
+12_5	0000000078	negative	negative	non_pathogenic	N	-	baby_6month
+12_6	0000000079	negative	negative	non_pathogenic	N	-	baby_6month
+12_7	0000000080	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+12_8	0000000081	negative	negative	non_pathogenic	N	-	baby_6month
+12_9	0000000082	negative	negative	non_pathogenic	N	-	baby_6month
+12_10	0000000083	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+12_11	0000000084	negative	negative	non_pathogenic	N	-	baby_6month
+12_12	0000000085	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+13_1	0000000086	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+13_2	0000000087	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+13_3	0000000088	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+13_4	0000000089	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+13_5	0000000090	negative	negative	non_pathogenic	N	-	baby_6month
+13_6	0000000091	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+13_7	0000000092	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+13_8	0000000093	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+13_9	0000000094	negative	negative	non_pathogenic	N	-	baby_6month
+14_1	0000000095	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+14_2	0000000096	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+14_3	0000000097	negative	negative	non_pathogenic	N	-	baby_6month
+14_4	0000000098	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+14_5	0000000099	negative	negative	non_pathogenic	N	-	baby_6month
+14_6	0000000100	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+14_7	0000000101	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+14_8	0000000102	negative	negative	non_pathogenic	N	-	baby_6month
+14_9	0000000103	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+15_1	0000000104	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+15_2	0000000105	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+16_1	0000000106	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+16_2	0000000107	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+16_3	0000000108	negative	negative	non_pathogenic	N	-	baby_6month
+16_4	0000000109	negative	negative	non_pathogenic	N	-	baby_6month
+16_5	0000000110	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+16_6	0000000111	negative	negative	non_pathogenic	N	-	baby_6month
+16_7	0000000112	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+17_1	0000000113	negative	negative	non_pathogenic	N	-	baby_6month
+17_2	0000000114	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+17_3	0000000115	negative	negative	non_pathogenic	N	-	baby_6month
+17_4	0000000116	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+17_5	0000000117	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+17_6	0000000118	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+18_1	0000000119	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+18_2	0000000120	negative	negative	non_pathogenic	N	-	baby_6month
+18_3	0000000121	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+18_4	0000000122	negative	negative	non_pathogenic	N	-	baby_6month
+18_5	0000000123	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+18_6	0000000124	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+18_7	0000000125	negative	negative	non_pathogenic	N	-	baby_6month
+18_8	0000000126	negative	negative	non_pathogenic	N	-	baby_6month
+18_9	0000000127	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+18_10	0000000128	negative	negative	non_pathogenic	N	-	baby_6month
+18_11	0000000129	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+18_12	0000000130	negative	negative	non_pathogenic	N	-	baby_6month
+18_13	0000000131	negative	negative	non_pathogenic	N	-	baby_6month
+18_14	0000000132	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+18_15	0000000133	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+18_16	0000000134	negative	negative	non_pathogenic	N	-	baby_6month
+18_17	0000000135	negative	negative	non_pathogenic	N	-	baby_6month
+18_18	0000000136	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+18_19	0000000137	negative	negative	non_pathogenic	N	-	baby_6month
+18_20	0000000138	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+18_21	0000000139	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+18_22	0000000140	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+18_23	0000000141	negative	negative	non_pathogenic	N	-	baby_6month
+18_24	0000000142	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+19_1	0000000143	negative	negative	non_pathogenic	N	-	baby_6month
+19_2	0000000144	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+19_3	0000000145	negative	negative	non_pathogenic	N	-	baby_6month
+19_4	0000000146	negative	negative	non_pathogenic	N	-	baby_6month
+19_5	0000000147	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+19_6	0000000148	negative	negative	non_pathogenic	N	-	baby_6month
+20_1	0000000149	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+20_2	0000000150	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+21_1	0000000151	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+21_2	0000000152	negative	negative	non_pathogenic	N	-	baby_6month
+21_3	0000000153	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+22_1	0000000154	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+22_2	0000000155	negative	negative	non_pathogenic	N	-	baby_6month
+22_3	0000000156	negative	negative	non_pathogenic	N	-	baby_6month
+22_4	0000000157	negative	negative	non_pathogenic	N	-	baby_6month
+22_5	0000000158	negative	negative	non_pathogenic	N	-	baby_6month
+22_6	0000000159	negative	negative	non_pathogenic	N	-	baby_6month
+23_1	0000000160	negative	negative	non_pathogenic	N	-	baby_6month
+23_2	0000000161	negative	negative	non_pathogenic	N	-	baby_6month
+23_3	0000000162	negative	negative	non_pathogenic	N	-	baby_6month
+23_4	0000000163	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+23_5	0000000164	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+24_1	0000000165	negative	negative	non_pathogenic	N	-	baby_6month
+24_2	0000000166	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+24_3	0000000167	negative	negative	non_pathogenic	N	-	baby_6month
+24_4	0000000168	negative	negative	non_pathogenic	N	-	baby_6month
+24_5	0000000169	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+24_6	0000000170	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+25_1	0000000171	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+25_2	0000000172	negative	negative	non_pathogenic	N	-	baby_6month
+25_3	0000000173	negative	negative	non_pathogenic	N	-	baby_6month
+25_4	0000000174	negative	negative	non_pathogenic	N	-	baby_6month
+25_5	0000000175	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+25_6	0000000176	negative	negative	non_pathogenic	Y	-	baby_6month
+26_1	0000000177	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+27_1	0000000178	negative	negative	non_pathogenic	N	-	baby_6month
+27_2	0000000179	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+27_3	0000000180	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+27_4	0000000181	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+27_5	0000000182	negative	negative	non_pathogenic	N	-	baby_6month
+27_6	0000000183	negative	negative	non_pathogenic	N	-	baby_6month
+27_7	0000000184	negative	negative	non_pathogenic	N	-	baby_6month
+27_8	0000000185	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+27_9	0000000186	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_1	0000000187	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_2	0000000188	negative	negative	non_pathogenic	N	-	baby_6month
+28_3	0000000189	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_4	0000000190	negative	negative	non_pathogenic	N	-	baby_6month
+28_5	0000000191	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_6	0000000192	negative	negative	non_pathogenic	N	-	baby_6month
+28_7	0000000193	negative	negative	non_pathogenic	N	-	baby_6month
+28_8	0000000194	negative	negative	non_pathogenic	Y	-	baby_6month
+28_9	0000000195	negative	negative	non_pathogenic	N	-	baby_6month
+28_10	0000000196	negative	negative	non_pathogenic	N	-	baby_6month
+28_11	0000000197	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+28_12	0000000198	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_13	0000000199	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_14	0000000200	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_15	0000000201	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_16	0000000202	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_17	0000000203	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_18	0000000204	negative	negative	non_pathogenic	N	-	baby_6month
+28_19	0000000205	negative	negative	non_pathogenic	N	-	baby_6month
+28_20	0000000206	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_21	0000000207	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_22	0000000208	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+28_23	0000000209	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_24	0000000210	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_25	0000000211	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+28_26	0000000212	negative	negative	non_pathogenic	N	-	baby_6month
+28_27	0000000213	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+28_28	0000000214	negative	negative	non_pathogenic	N	-	baby_6month
+28_29	0000000215	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+28_30	0000000216	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+29_1	0000000217	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+29_2	0000000218	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+29_3	0000000219	negative	negative	non_pathogenic	N	-	baby_6month
+29_4	0000000220	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+29_5	0000000221	negative	negative	non_pathogenic	N	-	baby_6month
+29_6	0000000222	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+29_7	0000000223	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+29_8	0000000224	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+29_9	0000000225	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+29_10	0000000226	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+29_11	0000000227	negative	negative	non_pathogenic	N	-	baby_6month
+30_1	0000000228	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_2	0000000229	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_3	0000000230	negative	negative	non_pathogenic	N	-	baby_6month
+30_4	0000000231	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_5	0000000232	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_6	0000000233	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_7	0000000234	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_8	0000000235	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_9	0000000236	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_10	0000000237	negative	negative	non_pathogenic	N	-	baby_6month
+30_11	0000000238	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+30_12	0000000239	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+30_13	0000000240	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_14	0000000241	negative	negative	non_pathogenic	N	-	baby_6month
+30_15	0000000242	negative	negative	non_pathogenic	N	-	baby_6month
+30_16	0000000243	negative	negative	non_pathogenic	N	-	baby_6month
+30_17	0000000244	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+30_18	0000000245	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+30_19	0000000246	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_20	0000000247	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_21	0000000248	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_22	0000000249	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+30_23	0000000250	negative	negative	non_pathogenic	N	-	baby_6month
+31_1	0000000251	negative	negative	non_pathogenic	N	-	baby_6month
+31_2	0000000252	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+31_3	0000000253	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+31_4	0000000254	negative	negative	non_pathogenic	N	-	baby_6month
+31_5	0000000255	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+31_6	0000000256	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+31_7	0000000257	negative	negative	non_pathogenic	N	-	baby_6month
+32_1	0000000258	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+32_2	0000000259	negative	negative	non_pathogenic	N	-	baby_6month
+32_3	0000000260	negative	negative	non_pathogenic	N	-	baby_6month
+32_4	0000000261	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+32_5	0000000262	negative	negative	non_pathogenic	N	-	baby_6month
+32_6	0000000263	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+33_1	0000000264	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+33_2	0000000265	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+33_3	0000000266	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+33_4	0000000267	negative	negative	non_pathogenic	N	-	baby_6month
+33_5	0000000268	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+34_1	0000000269	negative	negative	non_pathogenic	N	-	baby_6month
+34_2	0000000270	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+34_3	0000000271	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+34_4	0000000272	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+34_5	0000000273	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+34_6	0000000274	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+35_1	0000000275	negative	negative	non_pathogenic	N	-	baby_6month
+35_2	0000000276	negative	negative	non_pathogenic	N	-	baby_6month
+35_3	0000000277	negative	negative	non_pathogenic	N	-	baby_6month
+35_4	0000000278	negative	negative	non_pathogenic	N	-	baby_6month
+35_5	0000000279	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+35_6	0000000280	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+35_7	0000000281	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+36_1	0000000282	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+36_2	0000000283	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+36_3	0000000284	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+36_4	0000000285	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+36_5	0000000286	negative	negative	non_pathogenic	N	-	baby_6month
+36_6	0000000287	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+36_7	0000000288	negative	negative	non_pathogenic	N	-	baby_6month
+36_8	0000000289	negative	negative	non_pathogenic	N	-	baby_6month
+36_9	0000000290	negative	negative	non_pathogenic	N	-	baby_6month
+37_1	0000000291	negative	negative	non_pathogenic	N	-	baby_6month
+37_2	0000000292	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_3	0000000293	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+37_4	0000000294	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_5	0000000295	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_6	0000000296	negative	negative	non_pathogenic	N	-	baby_6month
+37_7	0000000297	negative	negative	non_pathogenic	N	-	baby_6month
+37_8	0000000298	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_9	0000000299	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_10	0000000300	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_11	0000000301	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_12	0000000302	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_13	0000000303	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_14	0000000304	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+37_15	0000000305	negative	negative	non_pathogenic	N	-	baby_6month
+38_1	0000000306	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+38_2	0000000307	negative	negative	non_pathogenic	N	-	baby_6month
+38_3	0000000308	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+38_4	0000000309	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+38_5	0000000310	negative	negative	non_pathogenic	N	-	baby_6month
+38_6	0000000311	negative	negative	non_pathogenic	N	-	baby_6month
+38_7	0000000312	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+38_8	0000000313	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+39_1	0000000314	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+39_2	0000000315	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+39_3	0000000316	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+39_4	0000000317	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+39_5	0000000318	negative	negative	non_pathogenic	N	-	baby_6month
+39_6	0000000319	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+40_1	0000000320	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+40_2	0000000321	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+40_3	0000000322	negative	negative	non_pathogenic	N	-	baby_6month
+41_1	0000000323	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+41_2	0000000324	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_3	0000000325	negative	negative	non_pathogenic	N	-	baby_6month
+41_4	0000000326	negative	negative	non_pathogenic	N	-	baby_6month
+41_5	0000000327	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_6	0000000328	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+41_7	0000000329	negative	negative	non_pathogenic	N	-	baby_6month
+41_8	0000000330	negative	negative	non_pathogenic	N	-	baby_6month
+41_9	0000000331	negative	negative	non_pathogenic	N	-	baby_6month
+41_10	0000000332	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+41_11	0000000333	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+41_12	0000000334	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_13	0000000335	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+41_14	0000000336	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_15	0000000337	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_16	0000000338	negative	negative	non_pathogenic	N	-	baby_6month
+41_17	0000000339	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_18	0000000340	negative	negative	non_pathogenic	N	-	baby_6month
+41_19	0000000341	negative	negative	non_pathogenic	N	-	baby_6month
+41_20	0000000342	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_21	0000000343	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_22	0000000344	negative	negative	non_pathogenic	N	-	baby_6month
+41_23	0000000345	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_24	0000000346	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_25	0000000347	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_26	0000000348	negative	negative	non_pathogenic	N	-	baby_6month
+41_27	0000000349	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+41_28	0000000350	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_29	0000000351	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+41_30	0000000352	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_31	0000000353	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_32	0000000354	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+41_33	0000000355	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+41_34	0000000356	negative	negative	non_pathogenic	N	-	baby_6month
+41_35	0000000357	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+42_1	0000000358	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+42_2	0000000359	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+42_3	0000000360	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+42_4	0000000361	negative	negative	non_pathogenic	N	-	baby_6month
+42_5	0000000362	negative	negative	non_pathogenic	N	-	baby_6month
+42_6	0000000363	negative	negative	non_pathogenic	N	-	baby_6month
+42_7	0000000364	negative	negative	non_pathogenic	N	-	baby_6month
+43_1	0000000365	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+43_2	0000000366	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+43_3	0000000367	negative	negative	non_pathogenic	N	-	baby_6month
+43_4	0000000368	negative	negative	non_pathogenic	N	-	baby_6month
+43_5	0000000369	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+43_6	0000000370	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+43_7	0000000371	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+43_8	0000000372	negative	negative	non_pathogenic	N	-	baby_6month
+43_9	0000000373	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+43_10	0000000374	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+43_11	0000000375	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+43_12	0000000376	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+43_13	0000000377	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+43_14	0000000378	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+43_15	0000000379	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+43_16	0000000380	negative	negative	non_pathogenic	N	-	baby_6month
+43_17	0000000381	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+43_18	0000000382	negative	negative	non_pathogenic	N	-	baby_6month
+43_19	0000000383	negative	negative	non_pathogenic	N	-	baby_6month
+43_20	0000000384	negative	negative	non_pathogenic	N	-	baby_6month
+44_1	0000000385	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+44_2	0000000386	negative	negative	non_pathogenic	N	-	baby_6month
+44_3	0000000387	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+45_1	0000000388	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+45_2	0000000389	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+45_3	0000000390	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_1	0000000391	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+46_2	0000000392	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_3	0000000393	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_4	0000000394	negative	negative	non_pathogenic	N	-	baby_6month
+46_5	0000000395	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_6	0000000396	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_7	0000000397	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_8	0000000398	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_9	0000000399	negative	negative	non_pathogenic	N	-	baby_6month
+46_10	0000000400	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+46_11	0000000401	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_12	0000000402	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+46_13	0000000403	negative	negative	non_pathogenic	N	-	baby_6month
+46_14	0000000404	negative	negative	non_pathogenic	N	-	baby_6month
+46_15	0000000405	negative	negative	non_pathogenic	N	-	baby_6month
+46_16	0000000406	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_17	0000000407	negative	negative	non_pathogenic	N	-	baby_6month
+46_18	0000000408	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+46_19	0000000409	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+47_1	0000000410	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+47_2	0000000411	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+47_3	0000000412	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+48_1	0000000413	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+48_2	0000000414	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+48_3	0000000415	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+48_4	0000000416	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+48_5	0000000417	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+48_6	0000000418	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+48_7	0000000419	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+48_8	0000000420	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+48_9	0000000421	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+48_10	0000000422	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+48_11	0000000423	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+48_12	0000000424	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+49_1	0000000425	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+49_2	0000000426	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+49_3	0000000427	negative	negative	non_pathogenic	N	-	baby_6month
+49_4	0000000428	negative	negative	non_pathogenic	N	-	baby_6month
+49_5	0000000429	negative	negative	non_pathogenic	N	-	baby_6month
+49_6	0000000430	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+49_7	0000000431	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+49_8	0000000432	negative	negative	non_pathogenic	N	-	baby_6month
+49_9	0000000433	negative	negative	non_pathogenic	N	-	baby_6month
+49_10	0000000434	negative	negative	non_pathogenic	N	-	baby_6month
+49_11	0000000435	negative	negative	non_pathogenic	N	-	baby_6month
+49_12	0000000436	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+50_1	0000000437	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+50_2	0000000438	negative	negative	non_pathogenic	N	-	baby_6month
+50_3	0000000439	negative	negative	non_pathogenic	N	-	baby_6month
+50_4	0000000440	negative	negative	non_pathogenic	N	-	baby_6month
+50_5	0000000441	negative	negative	non_pathogenic	N	-	baby_6month
+50_6	0000000442	negative	negative	non_pathogenic	N	-	baby_6month
+51_1	0000000443	negative	negative	non_pathogenic	N	-	baby_6month
+51_2	0000000444	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+51_3	0000000445	negative	negative	non_pathogenic	N	-	baby_6month
+51_4	0000000446	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+51_5	0000000447	negative	negative	non_pathogenic	N	-	baby_6month
+51_6	0000000448	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+51_7	0000000449	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+51_8	0000000450	negative	negative	non_pathogenic	N	-	baby_6month
+52_1	0000000451	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+52_2	0000000452	negative	negative	non_pathogenic	N	-	baby_6month
+52_3	0000000453	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+53_1	0000000454	negative	negative	non_pathogenic	N	-	baby_6month
+53_2	0000000455	negative	negative	non_pathogenic	N	-	baby_6month
+53_3	0000000456	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+53_4	0000000457	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+53_5	0000000458	negative	negative	non_pathogenic	N	-	baby_6month
+53_6	0000000459	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+53_7	0000000460	negative	negative	non_pathogenic	N	-	baby_6month
+53_8	0000000461	negative	negative	non_pathogenic	N	-	baby_6month
+53_9	0000000462	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+53_10	0000000463	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+53_11	0000000464	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+54_1	0000000465	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+54_2	0000000466	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+54_3	0000000467	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+54_4	0000000468	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+54_5	0000000469	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+54_6	0000000470	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+54_7	0000000471	negative	negative	non_pathogenic	N	-	baby_6month
+54_8	0000000472	negative	negative	non_pathogenic	N	-	baby_6month
+54_9	0000000473	negative	negative	non_pathogenic	N	-	baby_6month
+54_10	0000000474	negative	negative	non_pathogenic	N	-	baby_6month
+54_11	0000000475	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+54_12	0000000476	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+54_13	0000000477	negative	negative	non_pathogenic	N	-	baby_6month
+55_1	0000000478	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+55_2	0000000479	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+55_3	0000000480	negative	negative	non_pathogenic	N	-	baby_6month
+55_4	0000000481	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+55_5	0000000482	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+55_6	0000000483	negative	negative	non_pathogenic	N	-	baby_6month
+55_7	0000000484	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+55_8	0000000485	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+56_1	0000000486	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+56_2	0000000487	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+56_3	0000000488	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+56_4	0000000489	negative	negative	non_pathogenic	N	-	baby_6month
+56_5	0000000490	negative	negative	non_pathogenic	N	-	baby_6month
+56_6	0000000491	negative	negative	non_pathogenic	N	-	baby_6month
+56_7	0000000492	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+56_8	0000000493	negative	negative	non_pathogenic	N	-	baby_6month
+56_9	0000000494	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+56_10	0000000495	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+57_1	0000000496	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+57_2	0000000497	negative	negative	non_pathogenic	N	-	baby_6month
+57_3	0000000498	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+57_4	0000000499	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+57_5	0000000500	negative	negative	non_pathogenic	N	-	baby_6month
+57_6	0000000501	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+57_7	0000000502	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+57_8	0000000503	negative	negative	non_pathogenic	N	-	baby_6month
+57_9	0000000504	negative	negative	non_pathogenic	N	-	baby_6month
+57_10	0000000505	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+57_11	0000000506	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+57_12	0000000507	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+58_1	0000000508	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+58_2	0000000509	negative	negative	non_pathogenic	N	-	baby_6month
+58_3	0000000510	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+58_4	0000000511	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+59_1	0000000512	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+59_2	0000000513	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+59_3	0000000514	negative	negative	non_pathogenic	N	-	baby_6month
+59_4	0000000515	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+59_5	0000000516	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+59_6	0000000517	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+59_7	0000000518	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+59_8	0000000519	negative	negative	non_pathogenic	N	-	baby_6month
+59_9	0000000520	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+60_1	0000000521	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+60_2	0000000522	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+61_1	0000000523	negative	negative	non_pathogenic	Y	-	baby_6month
+61_2	0000000524	negative	negative	non_pathogenic	N	-	baby_6month
+61_3	0000000525	negative	negative	non_pathogenic	N	-	baby_6month
+61_4	0000000526	negative	negative	non_pathogenic	N	-	baby_6month
+61_5	0000000527	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+61_6	0000000528	negative	negative	non_pathogenic	N	-	baby_6month
+61_7	0000000529	negative	negative	non_pathogenic	N	-	baby_6month
+61_8	0000000530	negative	negative	non_pathogenic	N	-	baby_6month
+61_9	0000000531	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+61_10	0000000532	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+61_11	0000000533	negative	negative	non_pathogenic	N	-	baby_6month
+61_12	0000000534	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+61_13	0000000535	negative	negative	non_pathogenic	N	-	baby_6month
+61_14	0000000536	negative	negative	non_pathogenic	N	-	baby_6month
+61_15	0000000537	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+61_16	0000000538	negative	negative	non_pathogenic	N	-	baby_6month
+61_17	0000000539	negative	negative	non_pathogenic	N	-	baby_6month
+61_18	0000000540	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+61_19	0000000541	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+61_20	0000000542	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+61_21	0000000543	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+61_22	0000000544	negative	negative	non_pathogenic	N	-	baby_6month
+61_23	0000000545	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+62_1	0000000546	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+62_2	0000000547	negative	negative	non_pathogenic	N	-	baby_6month
+62_3	0000000548	negative	negative	non_pathogenic	N	-	baby_6month
+62_4	0000000549	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+62_5	0000000550	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+62_6	0000000551	negative	negative	non_pathogenic	N	-	baby_6month
+62_7	0000000552	negative	negative	non_pathogenic	N	-	baby_6month
+62_8	0000000553	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+62_9	0000000554	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+63_1	0000000555	negative	negative	non_pathogenic	N	-	baby_6month
+63_2	0000000556	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+63_3	0000000557	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+63_4	0000000558	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+63_5	0000000559	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+63_6	0000000560	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+63_7	0000000561	negative	negative	non_pathogenic	Y	-	baby_6month
+64_1	0000000562	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+64_2	0000000563	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+64_3	0000000564	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+64_4	0000000565	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+64_5	0000000566	negative	negative	non_pathogenic	N	-	baby_6month
+64_6	0000000567	negative	negative	non_pathogenic	N	-	baby_6month
+64_7	0000000568	negative	negative	non_pathogenic	N	-	baby_6month
+65_1	0000000569	negative	negative	non_pathogenic	N	-	baby_6month
+65_2	0000000570	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+65_3	0000000571	negative	negative	non_pathogenic	N	-	baby_6month
+65_4	0000000572	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+65_5	0000000573	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+65_6	0000000574	negative	negative	non_pathogenic	Y	-	baby_6month
+65_7	0000000575	negative	negative	non_pathogenic	N	-	baby_6month
+65_8	0000000576	negative	negative	non_pathogenic	N	-	baby_6month
+65_9	0000000577	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+65_10	0000000578	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+65_11	0000000579	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+65_12	0000000580	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+66_1	0000000581	negative	negative	non_pathogenic	N	-	baby_6month
+66_2	0000000582	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+66_3	0000000583	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+66_4	0000000584	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+67_1	0000000585	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+67_2	0000000586	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+67_3	0000000587	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+67_4	0000000588	negative	negative	non_pathogenic	N	-	baby_6month
+68_1	0000000589	negative	negative	non_pathogenic	N	-	baby_6month
+68_2	0000000590	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+68_3	0000000591	negative	negative	non_pathogenic	N	-	baby_6month
+68_4	0000000592	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+68_5	0000000593	negative	negative	non_pathogenic	N	-	baby_6month
+68_6	0000000594	negative	negative	non_pathogenic	N	-	baby_6month
+69_1	0000000595	negative	negative	non_pathogenic	N	-	baby_6month
+69_2	0000000596	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+69_3	0000000597	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+69_4	0000000598	negative	negative	non_pathogenic	N	-	baby_6month
+69_5	0000000599	negative	negative	non_pathogenic	N	-	baby_6month
+69_6	0000000600	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+70_1	0000000601	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+70_2	0000000602	negative	negative	non_pathogenic	N	-	baby_6month
+70_3	0000000603	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+70_4	0000000604	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+70_5	0000000605	negative	negative	non_pathogenic	N	-	baby_6month
+70_6	0000000606	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+70_7	0000000607	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+71_1	0000000608	negative	negative	non_pathogenic	N	-	baby_6month
+71_2	0000000609	negative	negative	non_pathogenic	N	-	baby_6month
+71_3	0000000610	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+71_4	0000000611	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+71_5	0000000612	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+71_6	0000000613	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+71_7	0000000614	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+72_1	0000000615	negative	negative	non_pathogenic	N	-	baby_6month
+72_2	0000000616	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+73_1	0000000617	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+73_2	0000000618	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+73_3	0000000619	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+73_4	0000000620	negative	negative	non_pathogenic	N	-	baby_6month
+74_1	0000000621	negative	negative	non_pathogenic	N	-	baby_6month
+74_2	0000000622	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+74_3	0000000623	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+74_4	0000000624	negative	negative	non_pathogenic	N	-	baby_6month
+74_5	0000000625	negative	negative	non_pathogenic	N	-	baby_6month
+75_1	0000000626	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+75_2	0000000627	negative	negative	non_pathogenic	N	-	baby_6month
+75_3	0000000628	negative	negative	non_pathogenic	N	-	baby_6month
+76_1	0000000629	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+76_2	0000000630	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+76_3	0000000631	negative	negative	non_pathogenic	Y	-	baby_6month
+77_1	0000000632	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+77_2	0000000633	negative	negative	non_pathogenic	N	-	baby_6month
+77_3	0000000634	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+77_4	0000000635	negative	negative	non_pathogenic	N	-	baby_6month
+78_1	0000000636	negative	negative	non_pathogenic	N	-	baby_6month
+78_2	0000000637	negative	negative	non_pathogenic	N	-	baby_6month
+78_3	0000000638	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+79_1	0000000639	negative	negative	non_pathogenic	N	-	baby_6month
+79_2	0000000640	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+79_3	0000000641	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+79_4	0000000642	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+79_5	0000000643	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+79_6	0000000644	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+79_7	0000000645	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+79_8	0000000646	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+79_9	0000000647	negative	negative	non_pathogenic	N	-	baby_6month
+80_1	0000000648	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+80_2	0000000649	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+80_3	0000000650	negative	negative	non_pathogenic	N	-	baby_6month
+80_4	0000000651	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+80_5	0000000652	negative	negative	non_pathogenic	N	-	baby_6month
+80_6	0000000653	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+81_1	0000000654	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+81_2	0000000655	negative	negative	non_pathogenic	N	-	baby_6month
+81_3	0000000656	negative	negative	non_pathogenic	N	-	baby_6month
+81_4	0000000657	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+81_5	0000000658	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+81_6	0000000659	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+81_7	0000000660	negative	negative	non_pathogenic	N	-	baby_6month
+81_8	0000000661	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+81_9	0000000662	negative	negative	non_pathogenic	N	-	baby_6month
+81_10	0000000663	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+81_11	0000000664	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+81_12	0000000665	negative	negative	non_pathogenic	N	-	baby_6month
+81_13	0000000666	negative	negative	non_pathogenic	N	-	baby_6month
+82_1	0000000667	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+82_2	0000000668	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+82_3	0000000669	negative	negative	non_pathogenic	N	-	baby_6month
+82_4	0000000670	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+82_5	0000000671	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_6	0000000672	negative	negative	non_pathogenic	N	-	baby_6month
+82_7	0000000673	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_8	0000000674	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_9	0000000675	negative	negative	non_pathogenic	N	-	baby_6month
+82_10	0000000676	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_11	0000000677	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_12	0000000678	negative	negative	non_pathogenic	Y	-	baby_6month
+82_13	0000000679	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_14	0000000680	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+82_15	0000000681	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+82_16	0000000682	negative	negative	non_pathogenic	N	-	baby_6month
+82_17	0000000683	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_18	0000000684	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+82_19	0000000685	negative	negative	non_pathogenic	N	-	baby_6month
+82_20	0000000686	negative	negative	non_pathogenic	N	-	baby_6month
+82_21	0000000687	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_22	0000000688	negative	negative	non_pathogenic	N	-	baby_6month
+82_23	0000000689	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+82_24	0000000690	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_25	0000000691	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_26	0000000692	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+82_27	0000000693	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+82_28	0000000694	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+83_1	0000000695	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+83_2	0000000696	negative	negative	non_pathogenic	N	-	baby_6month
+83_3	0000000697	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+83_4	0000000698	negative	negative	non_pathogenic	N	-	baby_6month
+83_5	0000000699	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+83_6	0000000700	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+83_7	0000000701	negative	negative	non_pathogenic	N	-	baby_6month
+84_1	0000000702	negative	negative	non_pathogenic	N	-	baby_6month
+84_2	0000000703	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+84_3	0000000704	negative	negative	non_pathogenic	N	-	baby_6month
+84_4	0000000705	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+84_5	0000000706	negative	negative	non_pathogenic	N	-	baby_6month
+84_6	0000000707	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+84_7	0000000708	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+84_8	0000000709	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+85_1	0000000710	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_2	0000000711	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_3	0000000712	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_4	0000000713	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_5	0000000714	negative	negative	non_pathogenic	N	-	baby_6month
+85_6	0000000715	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_7	0000000716	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_8	0000000717	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_9	0000000718	negative	negative	non_pathogenic	N	-	baby_6month
+85_10	0000000719	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_11	0000000720	negative	negative	non_pathogenic	N	-	baby_6month
+85_12	0000000721	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_13	0000000722	negative	negative	non_pathogenic	N	-	baby_6month
+85_14	0000000723	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_15	0000000724	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_16	0000000725	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_17	0000000726	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_18	0000000727	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+85_19	0000000728	negative	negative	non_pathogenic	N	-	baby_6month
+86_1	0000000729	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+86_2	0000000730	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+86_3	0000000731	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+86_4	0000000732	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+86_5	0000000733	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+86_6	0000000734	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+86_7	0000000735	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+87_1	0000000736	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+87_2	0000000737	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+87_3	0000000738	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+88_1	0000000739	negative	negative	non_pathogenic	N	-	baby_6month
+88_2	0000000740	negative	negative	non_pathogenic	N	-	baby_6month
+88_3	0000000741	negative	negative	non_pathogenic	N	-	baby_6month
+88_4	0000000742	negative	negative	non_pathogenic	N	-	baby_6month
+88_5	0000000743	negative	negative	non_pathogenic	N	-	baby_6month
+88_6	0000000744	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+88_7	0000000745	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+88_8	0000000746	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+88_9	0000000747	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+89_1	0000000748	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+89_2	0000000749	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+89_3	0000000750	negative	negative	non_pathogenic	N	-	baby_6month
+89_4	0000000751	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+89_5	0000000752	negative	negative	non_pathogenic	N	-	baby_6month
+89_6	0000000753	negative	negative	non_pathogenic	N	-	baby_6month
+89_7	0000000754	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+89_8	0000000755	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+89_9	0000000756	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+89_10	0000000757	negative	negative	non_pathogenic	N	-	baby_6month
+89_11	0000000758	negative	negative	non_pathogenic	N	-	baby_6month
+90_1	0000000759	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+90_2	0000000760	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+90_3	0000000761	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+90_4	0000000762	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+91_1	0000000763	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+91_2	0000000764	negative	negative	non_pathogenic	N	-	baby_6month
+91_3	0000000765	negative	negative	non_pathogenic	N	-	baby_6month
+91_4	0000000766	negative	negative	non_pathogenic	N	-	baby_6month
+91_5	0000000767	negative	negative	non_pathogenic	N	-	baby_6month
+91_6	0000000768	negative	negative	non_pathogenic	N	-	baby_6month
+91_7	0000000769	negative	negative	non_pathogenic	N	-	baby_6month
+91_8	0000000770	negative	negative	non_pathogenic	N	-	baby_6month
+91_9	0000000771	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+91_10	0000000772	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+91_11	0000000773	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+91_12	0000000774	negative	negative	non_pathogenic	N	-	baby_6month
+92_1	0000000775	negative	negative	non_pathogenic	N	-	baby_6month
+92_2	0000000776	negative	negative	non_pathogenic	N	-	baby_6month
+92_3	0000000777	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+92_4	0000000778	negative	negative	non_pathogenic	N	-	baby_6month
+92_5	0000000779	negative	negative	non_pathogenic	N	-	baby_6month
+92_6	0000000780	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+92_7	0000000781	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+93_1	0000000782	negative	negative	non_pathogenic	N	-	baby_6month
+93_2	0000000783	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+93_3	0000000784	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+93_4	0000000785	negative	negative	non_pathogenic	N	-	baby_6month
+93_5	0000000786	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+93_6	0000000787	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+93_7	0000000788	negative	negative	non_pathogenic	N	-	baby_6month
+93_8	0000000789	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+94_1	0000000790	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+94_2	0000000791	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+94_3	0000000792	negative	negative	non_pathogenic	N	-	baby_6month
+94_4	0000000793	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+94_5	0000000794	negative	negative	non_pathogenic	N	-	baby_6month
+95_1	0000000795	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+95_2	0000000796	negative	negative	non_pathogenic	N	-	baby_6month
+95_3	0000000797	negative	negative	non_pathogenic	N	-	baby_6month
+95_4	0000000798	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+95_5	0000000799	negative	negative	non_pathogenic	N	-	baby_6month
+95_6	0000000800	negative	negative	non_pathogenic	N	-	baby_6month
+95_7	0000000801	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+95_8	0000000802	negative	negative	non_pathogenic	N	-	baby_6month
+95_9	0000000803	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+95_10	0000000804	negative	negative	non_pathogenic	N	-	baby_6month
+95_11	0000000805	negative	negative	non_pathogenic	N	-	baby_6month
+95_12	0000000806	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+95_13	0000000807	negative	negative	non_pathogenic	N	-	baby_6month
+95_14	0000000808	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+95_15	0000000809	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+95_16	0000000810	negative	negative	non_pathogenic	N	-	baby_6month
+95_17	0000000811	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+95_18	0000000812	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+95_19	0000000813	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+95_20	0000000814	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+95_21	0000000815	negative	negative	non_pathogenic	N	-	baby_6month
+95_22	0000000816	negative	negative	non_pathogenic	N	-	baby_6month
+95_23	0000000817	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+95_24	0000000818	negative	negative	non_pathogenic	N	-	baby_6month
+95_25	0000000819	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+95_26	0000000820	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+96_1	0000000821	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+96_2	0000000822	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+96_3	0000000823	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+96_4	0000000824	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+96_5	0000000825	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+96_6	0000000826	negative	negative	non_pathogenic	N	-	baby_6month
+96_7	0000000827	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+96_8	0000000828	negative	negative	non_pathogenic	N	-	baby_6month
+96_9	0000000829	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+96_10	0000000830	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+96_11	0000000831	negative	negative	non_pathogenic	N	-	baby_6month
+96_12	0000000832	negative	negative	non_pathogenic	N	-	baby_6month
+96_13	0000000833	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+96_14	0000000834	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+96_15	0000000835	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+97_1	0000000836	negative	negative	non_pathogenic	N	-	baby_6month
+97_2	0000000837	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+97_3	0000000838	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+97_4	0000000839	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+97_5	0000000840	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+97_6	0000000841	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+98_1	0000000842	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+98_2	0000000843	negative	negative	non_pathogenic	N	-	baby_6month
+98_3	0000000844	negative	negative	non_pathogenic	N	-	baby_6month
+98_4	0000000845	negative	negative	non_pathogenic	N	-	baby_6month
+98_5	0000000846	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+98_6	0000000847	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+99_1	0000000848	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+99_2	0000000849	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+100_1	0000000850	negative	negative	non_pathogenic	N	-	baby_6month
+100_2	0000000851	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+100_3	0000000852	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+100_4	0000000853	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+100_5	0000000854	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+100_6	0000000855	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+100_7	0000000856	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+100_8	0000000857	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+100_9	0000000858	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+100_10	0000000859	negative	negative	non_pathogenic	N	-	baby_6month
+100_11	0000000860	negative	negative	non_pathogenic	N	-	baby_6month
+101_1	0000000861	negative	negative	non_pathogenic	N	-	baby_6month
+101_2	0000000862	negative	negative	non_pathogenic	N	-	baby_6month
+101_3	0000000863	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+101_4	0000000864	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+102_1	0000000865	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+102_2	0000000866	negative	negative	non_pathogenic	N	-	baby_6month
+102_3	0000000867	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+102_4	0000000868	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+102_5	0000000869	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+102_6	0000000870	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+103_1	0000000871	negative	negative	non_pathogenic	N	-	baby_6month
+103_2	0000000872	negative	negative	non_pathogenic	N	-	baby_6month
+103_3	0000000873	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+103_4	0000000874	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+104_1	0000000875	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+104_2	0000000876	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+104_3	0000000877	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+104_4	0000000878	negative	negative	non_pathogenic	N	-	baby_6month
+104_5	0000000879	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+104_6	0000000880	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+104_7	0000000881	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+104_8	0000000882	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+104_9	0000000883	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+104_10	0000000884	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+105_1	0000000885	negative	negative	non_pathogenic	N	-	baby_6month
+105_2	0000000886	negative	negative	non_pathogenic	N	-	baby_6month
+105_3	0000000887	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+105_4	0000000888	negative	negative	non_pathogenic	N	-	baby_6month
+105_5	0000000889	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+105_6	0000000890	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+105_7	0000000891	negative	negative	non_pathogenic	N	-	baby_6month
+106_1	0000000892	negative	negative	non_pathogenic	N	-	baby_6month
+106_2	0000000893	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+106_3	0000000894	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+106_4	0000000895	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+106_5	0000000896	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+106_6	0000000897	negative	negative	non_pathogenic	N	-	baby_6month
+106_7	0000000898	negative	negative	non_pathogenic	N	-	baby_6month
+106_8	0000000899	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+106_9	0000000900	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+106_10	0000000901	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+106_11	0000000902	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+106_12	0000000903	negative	negative	non_pathogenic	N	-	baby_6month
+106_13	0000000904	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+106_14	0000000905	negative	negative	non_pathogenic	N	-	baby_6month
+106_15	0000000906	negative	negative	non_pathogenic	N	-	baby_6month
+106_16	0000000907	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+106_17	0000000908	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+106_18	0000000909	negative	negative	non_pathogenic	N	-	baby_6month
+106_19	0000000910	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+106_20	0000000911	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+106_21	0000000912	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+106_22	0000000913	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+106_23	0000000914	negative	negative	non_pathogenic	N	-	baby_6month
+106_24	0000000915	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+106_25	0000000916	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+107_1	0000000917	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+107_2	0000000918	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+107_3	0000000919	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+107_4	0000000920	negative	negative	non_pathogenic	N	-	baby_6month
+107_5	0000000921	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+108_1	0000000922	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+108_2	0000000923	negative	negative	non_pathogenic	N	-	baby_6month
+108_3	0000000924	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+108_4	0000000925	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+108_5	0000000926	negative	negative	non_pathogenic	N	-	baby_6month
+108_6	0000000927	negative	negative	non_pathogenic	N	-	baby_6month
+108_7	0000000928	negative	negative	non_pathogenic	N	-	baby_6month
+108_8	0000000929	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+108_9	0000000930	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+109_1	0000000931	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+109_2	0000000932	negative	negative	non_pathogenic	N	-	baby_6month
+109_3	0000000933	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+109_4	0000000934	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+110_1	0000000935	negative	negative	non_pathogenic	N	-	baby_6month
+110_2	0000000936	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+110_3	0000000937	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+110_4	0000000938	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+110_5	0000000939	negative	negative	non_pathogenic	N	-	baby_6month
+110_6	0000000940	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+110_7	0000000941	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+110_8	0000000942	negative	negative	non_pathogenic	N	-	baby_6month
+110_9	0000000943	negative	negative	non_pathogenic	N	-	baby_6month
+110_10	0000000944	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+111_1	0000000945	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+111_2	0000000946	negative	negative	non_pathogenic	N	-	baby_6month
+111_3	0000000947	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+112_1	0000000948	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+112_2	0000000949	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+112_3	0000000950	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+113_1	0000000951	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+113_2	0000000952	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+113_3	0000000953	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+113_4	0000000954	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+114_1	0000000955	negative	negative	non_pathogenic	N	-	baby_6month
+114_2	0000000956	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+114_3	0000000957	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+114_4	0000000958	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+115_1	0000000959	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+115_2	0000000960	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+115_3	0000000961	negative	negative	non_pathogenic	N	-	baby_6month
+115_4	0000000962	negative	negative	non_pathogenic	N	-	baby_6month
+115_5	0000000963	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+115_6	0000000964	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+115_7	0000000965	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+115_8	0000000966	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+115_9	0000000967	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+116_1	0000000968	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+116_2	0000000969	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+116_3	0000000970	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+117_1	0000000971	negative	negative	non_pathogenic	N	-	baby_6month
+117_2	0000000972	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+117_3	0000000973	negative	negative	non_pathogenic	N	-	baby_6month
+117_4	0000000974	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+117_5	0000000975	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+117_6	0000000976	negative	negative	non_pathogenic	N	-	baby_6month
+117_7	0000000977	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+118_1	0000000978	negative	negative	non_pathogenic	N	-	baby_6month
+118_2	0000000979	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+118_3	0000000980	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+119_1	0000000981	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+119_2	0000000982	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+119_3	0000000983	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+119_4	0000000984	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+119_5	0000000985	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+120_1	0000000986	negative	negative	non_pathogenic	N	-	baby_6month
+120_2	0000000987	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+120_3	0000000988	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+120_4	0000000989	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+120_5	0000000990	negative	negative	non_pathogenic	N	-	baby_6month
+120_6	0000000991	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+121_1	0000000992	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+121_2	0000000993	negative	negative	non_pathogenic	N	-	baby_6month
+121_3	0000000994	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+121_4	0000000995	negative	negative	non_pathogenic	N	-	baby_6month
+121_5	0000000996	negative	negative	non_pathogenic	N	-	baby_6month
+121_6	0000000997	negative	negative	non_pathogenic	N	-	baby_6month
+121_7	0000000998	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+121_8	0000000999	negative	negative	non_pathogenic	N	-	baby_6month
+121_9	0000001000	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+121_10	0000001001	negative	negative	non_pathogenic	N	-	baby_6month
+122_1	0000001002	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+122_2	0000001003	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+122_3	0000001004	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+122_4	0000001005	negative	negative	non_pathogenic	N	-	baby_6month
+122_5	0000001006	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+122_6	0000001007	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+122_7	0000001008	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+122_8	0000001009	negative	negative	non_pathogenic	N	-	baby_6month
+122_9	0000001010	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+123_1	0000001011	negative	negative	non_pathogenic	N	-	baby_6month
+123_2	0000001012	negative	negative	non_pathogenic	N	-	baby_6month
+123_3	0000001013	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+123_4	0000001014	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+123_5	0000001015	negative	negative	non_pathogenic	N	-	baby_6month
+123_6	0000001016	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+124_1	0000001017	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+124_2	0000001018	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+124_3	0000001019	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+124_4	0000001020	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+124_5	0000001021	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+124_6	0000001022	negative	negative	non_pathogenic	N	-	baby_6month
+124_7	0000001023	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+124_8	0000001024	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+124_9	0000001025	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+124_10	0000001026	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+124_11	0000001027	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+124_12	0000001028	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+125_1	0000001029	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+125_2	0000001030	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+125_3	0000001031	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+126_1	0000001032	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+126_2	0000001033	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+126_3	0000001034	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+126_4	0000001035	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+126_5	0000001036	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+126_6	0000001037	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+127_1	0000001038	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+127_2	0000001039	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+128_1	0000001040	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+128_2	0000001041	negative	negative	non_pathogenic	N	-	baby_6month
+128_3	0000001042	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+128_4	0000001043	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+128_5	0000001044	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+128_6	0000001045	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+128_7	0000001046	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+128_8	0000001047	negative	negative	non_pathogenic	N	-	baby_6month
+128_9	0000001048	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+129_1	0000001049	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+129_2	0000001050	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+129_3	0000001051	negative	negative	non_pathogenic	N	-	baby_6month
+129_4	0000001052	negative	negative	non_pathogenic	N	-	baby_6month
+129_5	0000001053	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+129_6	0000001054	negative	negative	non_pathogenic	N	-	baby_6month
+129_7	0000001055	negative	negative	non_pathogenic	N	-	baby_6month
+130_1	0000001056	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+130_2	0000001057	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_3	0000001058	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_4	0000001059	negative	negative	non_pathogenic	N	-	baby_6month
+130_5	0000001060	negative	negative	non_pathogenic	N	-	baby_6month
+130_6	0000001061	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+130_7	0000001062	negative	negative	non_pathogenic	N	-	baby_6month
+130_8	0000001063	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_9	0000001064	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_10	0000001065	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_11	0000001066	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_12	0000001067	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_13	0000001068	negative	negative	non_pathogenic	N	-	baby_6month
+130_14	0000001069	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_15	0000001070	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_16	0000001071	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_17	0000001072	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+130_18	0000001073	negative	negative	non_pathogenic	N	-	baby_6month
+130_19	0000001074	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+131_1	0000001075	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+131_2	0000001076	negative	negative	non_pathogenic	N	-	baby_6month
+131_3	0000001077	negative	negative	non_pathogenic	N	-	baby_6month
+131_4	0000001078	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+131_5	0000001079	negative	negative	non_pathogenic	N	-	baby_6month
+131_6	0000001080	negative	negative	non_pathogenic	N	-	baby_6month
+131_7	0000001081	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+131_8	0000001082	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+131_9	0000001083	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+131_10	0000001084	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+132_1	0000001085	negative	negative	non_pathogenic	N	-	baby_6month
+132_2	0000001086	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+132_3	0000001087	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+133_1	0000001088	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+133_2	0000001089	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+133_3	0000001090	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+133_4	0000001091	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+133_5	0000001092	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+133_6	0000001093	negative	negative	non_pathogenic	Y	-	baby_6month
+133_7	0000001094	negative	negative	non_pathogenic	N	-	baby_6month
+133_8	0000001095	negative	negative	non_pathogenic	N	-	baby_6month
+134_1	0000001096	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_2	0000001097	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_3	0000001098	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_4	0000001099	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_5	0000001100	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+134_6	0000001101	negative	negative	non_pathogenic	N	-	baby_6month
+134_7	0000001102	negative	negative	non_pathogenic	N	-	baby_6month
+134_8	0000001103	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_9	0000001104	negative	negative	non_pathogenic	N	-	baby_6month
+134_10	0000001105	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_11	0000001106	negative	negative	non_pathogenic	N	-	baby_6month
+134_12	0000001107	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+134_13	0000001108	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+134_14	0000001109	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_15	0000001110	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_16	0000001111	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+134_17	0000001112	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_18	0000001113	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+134_19	0000001114	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+134_20	0000001115	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+135_1	0000001116	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+135_2	0000001117	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+135_3	0000001118	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+135_4	0000001119	negative	negative	non_pathogenic	N	-	baby_6month
+135_5	0000001120	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+135_6	0000001121	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+135_7	0000001122	negative	negative	non_pathogenic	N	-	baby_6month
+135_8	0000001123	negative	negative	non_pathogenic	N	-	baby_6month
+135_9	0000001124	negative	negative	non_pathogenic	N	-	baby_6month
+135_10	0000001125	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+135_11	0000001126	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+135_12	0000001127	negative	negative	non_pathogenic	N	-	baby_6month
+136_1	0000001128	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+136_2	0000001129	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+136_3	0000001130	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+136_4	0000001131	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+136_5	0000001132	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+136_6	0000001133	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+136_7	0000001134	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+136_8	0000001135	negative	negative	non_pathogenic	N	-	baby_6month
+136_9	0000001136	negative	negative	non_pathogenic	N	-	baby_6month
+136_10	0000001137	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+136_11	0000001138	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+136_12	0000001139	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+137_1	0000001140	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+137_2	0000001141	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+137_3	0000001142	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+137_4	0000001143	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_1	0000001144	negative	negative	non_pathogenic	N	-	baby_6month
+138_2	0000001145	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_3	0000001146	negative	negative	non_pathogenic	N	-	baby_6month
+138_4	0000001147	negative	negative	non_pathogenic	N	-	baby_6month
+138_5	0000001148	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_6	0000001149	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_7	0000001150	negative	negative	non_pathogenic	N	-	baby_6month
+138_8	0000001151	negative	negative	non_pathogenic	N	-	baby_6month
+138_9	0000001152	negative	negative	non_pathogenic	N	-	baby_6month
+138_10	0000001153	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_11	0000001154	negative	negative	non_pathogenic	N	-	baby_6month
+138_12	0000001155	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_13	0000001156	negative	negative	non_pathogenic	N	-	baby_6month
+138_14	0000001157	negative	negative	non_pathogenic	N	-	baby_6month
+138_15	0000001158	negative	negative	non_pathogenic	N	-	baby_6month
+138_16	0000001159	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+138_17	0000001160	negative	negative	non_pathogenic	N	-	baby_6month
+138_18	0000001161	negative	negative	non_pathogenic	N	-	baby_6month
+138_19	0000001162	negative	negative	non_pathogenic	N	-	baby_6month
+138_20	0000001163	negative	negative	non_pathogenic	N	-	baby_6month
+138_21	0000001164	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_22	0000001165	negative	negative	non_pathogenic	N	-	baby_6month
+138_23	0000001166	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_24	0000001167	negative	negative	non_pathogenic	N	-	baby_6month
+138_25	0000001168	negative	negative	non_pathogenic	N	-	baby_6month
+138_26	0000001169	negative	negative	non_pathogenic	N	-	baby_6month
+138_27	0000001170	negative	negative	non_pathogenic	N	-	baby_6month
+138_28	0000001171	negative	negative	non_pathogenic	N	-	baby_6month
+138_29	0000001172	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_30	0000001173	negative	negative	non_pathogenic	N	-	baby_6month
+138_31	0000001174	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_32	0000001175	negative	negative	non_pathogenic	N	-	baby_6month
+138_33	0000001176	negative	negative	non_pathogenic	N	-	baby_6month
+138_34	0000001177	negative	negative	non_pathogenic	N	-	baby_6month
+138_35	0000001178	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+138_36	0000001179	negative	negative	non_pathogenic	N	-	baby_6month
+138_37	0000001180	negative	negative	non_pathogenic	N	-	baby_6month
+138_38	0000001181	negative	negative	non_pathogenic	N	-	baby_6month
+139_1	0000001182	negative	negative	non_pathogenic	N	-	baby_6month
+139_2	0000001183	negative	negative	non_pathogenic	N	-	baby_6month
+139_3	0000001184	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+140_1	0000001185	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+140_2	0000001186	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+140_3	0000001187	negative	negative	non_pathogenic	N	-	baby_6month
+140_4	0000001188	negative	negative	non_pathogenic	N	-	baby_6month
+140_5	0000001189	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+140_6	0000001190	negative	negative	non_pathogenic	N	-	baby_6month
+140_7	0000001191	negative	negative	non_pathogenic	N	-	baby_6month
+140_8	0000001192	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+140_9	0000001193	negative	negative	non_pathogenic	N	-	baby_6month
+140_10	0000001194	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+140_11	0000001195	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+140_12	0000001196	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+140_13	0000001197	negative	negative	non_pathogenic	N	-	baby_6month
+140_14	0000001198	negative	negative	non_pathogenic	N	-	baby_6month
+140_15	0000001199	negative	negative	non_pathogenic	N	-	baby_6month
+140_16	0000001200	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+140_17	0000001201	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+141_1	0000001202	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+141_2	0000001203	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+141_3	0000001204	negative	negative	non_pathogenic	N	-	baby_6month
+141_4	0000001205	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+141_5	0000001206	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+141_6	0000001207	negative	negative	non_pathogenic	N	-	baby_6month
+141_7	0000001208	negative	negative	non_pathogenic	N	-	baby_6month
+141_8	0000001209	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+141_9	0000001210	negative	negative	non_pathogenic	N	-	baby_6month
+141_10	0000001211	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+141_11	0000001212	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+141_12	0000001213	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+141_13	0000001214	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+142_1	0000001215	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+142_2	0000001216	negative	negative	non_pathogenic	Y	-	baby_6month
+142_3	0000001217	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+142_4	0000001218	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+143_1	0000001219	negative	negative	non_pathogenic	N	-	baby_6month
+143_2	0000001220	negative	negative	non_pathogenic	N	-	baby_6month
+144_1	0000001221	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+144_2	0000001222	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+144_3	0000001223	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+144_4	0000001224	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+144_5	0000001225	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+144_6	0000001226	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+144_7	0000001227	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+144_8	0000001228	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+144_9	0000001229	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+144_10	0000001230	negative	negative	non_pathogenic	N	-	baby_6month
+144_11	0000001231	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+144_12	0000001232	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+144_13	0000001233	negative	negative	non_pathogenic	N	-	baby_6month
+144_14	0000001234	negative	negative	non_pathogenic	N	-	baby_6month
+144_15	0000001235	negative	negative	non_pathogenic	N	-	baby_6month
+144_16	0000001236	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+144_17	0000001237	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+144_18	0000001238	negative	negative	non_pathogenic	N	-	baby_6month
+144_19	0000001239	negative	negative	non_pathogenic	N	-	baby_6month
+144_20	0000001240	negative	negative	non_pathogenic	N	-	baby_6month
+144_21	0000001241	negative	negative	non_pathogenic	N	-	baby_6month
+144_22	0000001242	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+144_23	0000001243	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+144_24	0000001244	negative	negative	non_pathogenic	N	-	baby_6month
+144_25	0000001245	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+144_26	0000001246	negative	negative	non_pathogenic	N	-	baby_6month
+144_27	0000001247	negative	negative	non_pathogenic	N	-	baby_6month
+144_28	0000001248	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+144_29	0000001249	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+144_30	0000001250	negative	negative	non_pathogenic	N	-	baby_6month
+144_31	0000001251	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+144_32	0000001252	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+145_1	0000001253	negative	negative	non_pathogenic	N	-	baby_6month
+145_2	0000001254	negative	negative	non_pathogenic	N	-	baby_6month
+145_3	0000001255	negative	negative	non_pathogenic	N	-	baby_6month
+145_4	0000001256	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+145_5	0000001257	negative	negative	non_pathogenic	N	-	baby_6month
+145_6	0000001258	negative	negative	non_pathogenic	N	-	baby_6month
+145_7	0000001259	negative	negative	non_pathogenic	N	-	baby_6month
+145_8	0000001260	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+145_9	0000001261	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+145_10	0000001262	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+145_11	0000001263	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+145_12	0000001264	negative	negative	non_pathogenic	N	-	baby_6month
+146_1	0000001265	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+146_2	0000001266	negative	negative	non_pathogenic	N	-	baby_6month
+146_3	0000001267	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+146_4	0000001268	negative	negative	non_pathogenic	N	-	baby_6month
+146_5	0000001269	negative	negative	non_pathogenic	N	-	baby_6month
+146_6	0000001270	negative	negative	non_pathogenic	N	-	baby_6month
+146_7	0000001271	negative	negative	non_pathogenic	N	-	baby_6month
+146_8	0000001272	negative	negative	non_pathogenic	N	-	baby_6month
+146_9	0000001273	negative	negative	non_pathogenic	N	-	baby_6month
+146_10	0000001274	negative	negative	non_pathogenic	N	-	baby_6month
+146_11	0000001275	negative	negative	non_pathogenic	N	-	baby_6month
+146_12	0000001276	negative	negative	non_pathogenic	N	-	baby_6month
+146_13	0000001277	negative	negative	non_pathogenic	N	-	baby_6month
+146_14	0000001278	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+146_15	0000001279	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+146_16	0000001280	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+146_17	0000001281	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+146_18	0000001282	negative	negative	non_pathogenic	N	-	baby_6month
+146_19	0000001283	negative	negative	non_pathogenic	N	-	baby_6month
+146_20	0000001284	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+146_21	0000001285	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+147_1	0000001286	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+147_2	0000001287	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+147_3	0000001288	negative	negative	non_pathogenic	N	-	baby_6month
+147_4	0000001289	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+147_5	0000001290	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+147_6	0000001291	negative	negative	non_pathogenic	N	-	baby_6month
+148_1	0000001292	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+148_2	0000001293	negative	negative	non_pathogenic	N	-	baby_6month
+148_3	0000001294	negative	negative	non_pathogenic	N	-	baby_6month
+148_4	0000001295	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+148_5	0000001296	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+148_6	0000001297	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+148_7	0000001298	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+148_8	0000001299	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+148_9	0000001300	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+148_10	0000001301	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+148_11	0000001302	negative	negative	non_pathogenic	N	-	baby_6month
+148_12	0000001303	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+148_13	0000001304	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+148_14	0000001305	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+149_1	0000001306	negative	negative	non_pathogenic	N	-	baby_6month
+149_2	0000001307	negative	negative	non_pathogenic	N	-	baby_6month
+149_3	0000001308	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+149_4	0000001309	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+149_5	0000001310	negative	negative	non_pathogenic	N	-	baby_6month
+149_6	0000001311	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+149_7	0000001312	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+149_8	0000001313	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+149_9	0000001314	negative	negative	non_pathogenic	N	-	baby_6month
+149_10	0000001315	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+149_11	0000001316	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+149_12	0000001317	negative	negative	non_pathogenic	N	-	baby_6month
+149_13	0000001318	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+149_14	0000001319	negative	negative	non_pathogenic	N	-	baby_6month
+150_1	0000001320	negative	negative	non_pathogenic	N	-	baby_6month
+150_2	0000001321	negative	negative	non_pathogenic	N	-	baby_6month
+150_3	0000001322	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+150_4	0000001323	negative	negative	non_pathogenic	N	-	baby_6month
+150_5	0000001324	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+150_6	0000001325	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+150_7	0000001326	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+150_8	0000001327	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+150_9	0000001328	negative	negative	non_pathogenic	N	-	baby_6month
+150_10	0000001329	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+151_1	0000001330	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+151_2	0000001331	negative	negative	non_pathogenic	N	-	baby_6month
+151_3	0000001332	negative	negative	non_pathogenic	N	-	baby_6month
+151_4	0000001333	negative	negative	non_pathogenic	N	-	baby_6month
+151_5	0000001334	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+151_6	0000001335	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+151_7	0000001336	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+151_8	0000001337	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+151_9	0000001338	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+151_10	0000001339	negative	negative	non_pathogenic	N	-	baby_6month
+151_11	0000001340	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+151_12	0000001341	negative	negative	non_pathogenic	N	-	baby_6month
+151_13	0000001342	negative	negative	non_pathogenic	N	-	baby_6month
+151_14	0000001343	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+151_15	0000001344	negative	negative	non_pathogenic	N	-	baby_6month
+151_16	0000001345	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+151_17	0000001346	negative	negative	non_pathogenic	N	-	baby_6month
+151_18	0000001347	negative	negative	non_pathogenic	N	-	baby_6month
+151_19	0000001348	negative	negative	non_pathogenic	N	-	baby_6month
+151_20	0000001349	negative	negative	non_pathogenic	N	-	baby_6month
+151_21	0000001350	negative	negative	non_pathogenic	N	-	baby_6month
+151_22	0000001351	negative	negative	non_pathogenic	N	-	baby_6month
+151_23	0000001352	negative	negative	non_pathogenic	N	-	baby_6month
+151_24	0000001353	negative	negative	non_pathogenic	N	-	baby_6month
+151_25	0000001354	negative	negative	non_pathogenic	N	-	baby_6month
+151_26	0000001355	negative	negative	non_pathogenic	N	-	baby_6month
+151_27	0000001356	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+152_1	0000001357	negative	negative	non_pathogenic	N	-	baby_6month
+152_2	0000001358	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+152_3	0000001359	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+152_4	0000001360	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+152_5	0000001361	negative	negative	non_pathogenic	N	-	baby_6month
+152_6	0000001362	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+152_7	0000001363	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+152_8	0000001364	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+152_9	0000001365	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+153_1	0000001366	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+153_2	0000001367	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+153_3	0000001368	negative	negative	non_pathogenic	N	-	baby_6month
+153_4	0000001369	negative	negative	non_pathogenic	N	-	baby_6month
+153_5	0000001370	negative	negative	non_pathogenic	N	-	baby_6month
+153_6	0000001371	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+153_7	0000001372	negative	negative	non_pathogenic	N	-	baby_6month
+153_8	0000001373	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+153_9	0000001374	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+153_10	0000001375	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+153_11	0000001376	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+153_12	0000001377	negative	negative	non_pathogenic	N	-	baby_6month
+153_13	0000001378	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+153_14	0000001379	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+154_1	0000001380	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+154_2	0000001381	negative	negative	non_pathogenic	N	-	baby_6month
+154_3	0000001382	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+154_4	0000001383	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+154_5	0000001384	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+155_1	0000001385	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_2	0000001386	negative	negative	non_pathogenic	N	-	baby_6month
+155_3	0000001387	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_4	0000001388	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_5	0000001389	negative	negative	non_pathogenic	N	-	baby_6month
+155_6	0000001390	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_7	0000001391	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_8	0000001392	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_9	0000001393	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_10	0000001394	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_11	0000001395	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+155_12	0000001396	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_13	0000001397	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+155_14	0000001398	negative	negative	non_pathogenic	N	-	baby_6month
+155_15	0000001399	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_16	0000001400	negative	negative	non_pathogenic	N	-	baby_6month
+155_17	0000001401	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_18	0000001402	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_19	0000001403	negative	negative	non_pathogenic	N	-	baby_6month
+155_20	0000001404	negative	negative	non_pathogenic	N	-	baby_6month
+155_21	0000001405	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_22	0000001406	negative	negative	non_pathogenic	N	-	baby_6month
+155_23	0000001407	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_24	0000001408	negative	negative	non_pathogenic	N	-	baby_6month
+155_25	0000001409	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_26	0000001410	negative	negative	non_pathogenic	N	-	baby_6month
+155_27	0000001411	negative	negative	non_pathogenic	N	-	baby_6month
+155_28	0000001412	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+155_29	0000001413	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+155_30	0000001414	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+155_31	0000001415	negative	negative	non_pathogenic	N	-	baby_6month
+155_32	0000001416	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+156_1	0000001417	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+156_2	0000001418	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+156_3	0000001419	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+156_4	0000001420	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+156_5	0000001421	negative	negative	non_pathogenic	N	-	baby_6month
+156_6	0000001422	negative	negative	non_pathogenic	N	-	baby_6month
+156_7	0000001423	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+156_8	0000001424	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+156_9	0000001425	negative	negative	non_pathogenic	N	-	baby_6month
+156_10	0000001426	negative	negative	non_pathogenic	N	-	baby_6month
+156_11	0000001427	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+156_12	0000001428	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+156_13	0000001429	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+156_14	0000001430	negative	negative	non_pathogenic	Y	-	baby_6month
+156_15	0000001431	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+157_1	0000001432	negative	negative	non_pathogenic	Y	-	baby_6month
+157_2	0000001433	negative	negative	non_pathogenic	N	-	baby_6month
+157_3	0000001434	negative	negative	non_pathogenic	N	-	baby_6month
+157_4	0000001435	negative	negative	non_pathogenic	N	-	baby_6month
+157_5	0000001436	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+157_6	0000001437	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+157_7	0000001438	negative	negative	non_pathogenic	N	-	baby_6month
+157_8	0000001439	negative	negative	non_pathogenic	N	-	baby_6month
+157_9	0000001440	negative	negative	non_pathogenic	N	-	baby_6month
+157_10	0000001441	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+157_11	0000001442	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+158_1	0000001443	negative	negative	non_pathogenic	N	-	baby_6month
+158_2	0000001444	negative	negative	non_pathogenic	N	-	baby_6month
+158_3	0000001445	negative	negative	non_pathogenic	N	-	baby_6month
+158_4	0000001446	negative	negative	non_pathogenic	N	-	baby_6month
+158_5	0000001447	negative	negative	non_pathogenic	N	-	baby_6month
+158_6	0000001448	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_1	0000001449	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_2	0000001450	negative	negative	non_pathogenic	N	-	baby_6month
+159_3	0000001451	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_4	0000001452	negative	negative	non_pathogenic	N	-	baby_6month
+159_5	0000001453	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_6	0000001454	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_7	0000001455	negative	negative	non_pathogenic	N	-	baby_6month
+159_8	0000001456	negative	negative	non_pathogenic	N	-	baby_6month
+159_9	0000001457	negative	negative	non_pathogenic	N	-	baby_6month
+159_10	0000001458	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_11	0000001459	negative	negative	non_pathogenic	N	-	baby_6month
+159_12	0000001460	negative	negative	non_pathogenic	N	-	baby_6month
+159_13	0000001461	negative	negative	non_pathogenic	Y	-	baby_6month
+159_14	0000001462	negative	negative	non_pathogenic	N	-	baby_6month
+159_15	0000001463	negative	negative	non_pathogenic	N	-	baby_6month
+159_16	0000001464	negative	negative	non_pathogenic	N	-	baby_6month
+159_17	0000001465	negative	negative	non_pathogenic	N	-	baby_6month
+159_18	0000001466	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_19	0000001467	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_20	0000001468	negative	negative	non_pathogenic	N	-	baby_6month
+159_21	0000001469	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_22	0000001470	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_23	0000001471	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_24	0000001472	negative	negative	non_pathogenic	N	-	baby_6month
+159_25	0000001473	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_26	0000001474	negative	negative	non_pathogenic	N	-	baby_6month
+159_27	0000001475	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_28	0000001476	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_29	0000001477	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_30	0000001478	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+159_31	0000001479	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+160_1	0000001480	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+160_2	0000001481	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+160_3	0000001482	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+160_4	0000001483	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+160_5	0000001484	negative	negative	non_pathogenic	N	-	baby_6month
+160_6	0000001485	negative	negative	non_pathogenic	N	-	baby_6month
+160_7	0000001486	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+160_8	0000001487	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+160_9	0000001488	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+160_10	0000001489	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+160_11	0000001490	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+160_12	0000001491	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+160_13	0000001492	negative	negative	non_pathogenic	N	-	baby_6month
+160_14	0000001493	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+161_1	0000001494	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+161_2	0000001495	negative	negative	non_pathogenic	N	-	baby_6month
+161_3	0000001496	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+161_4	0000001497	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+161_5	0000001498	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+161_6	0000001499	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+161_7	0000001500	negative	negative	non_pathogenic	N	-	baby_6month
+162_1	0000001501	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_2	0000001502	negative	negative	non_pathogenic	N	-	baby_6month
+162_3	0000001503	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_4	0000001504	negative	negative	non_pathogenic	N	-	baby_6month
+162_5	0000001505	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_6	0000001506	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_7	0000001507	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_8	0000001508	negative	negative	non_pathogenic	N	-	baby_6month
+162_9	0000001509	negative	negative	non_pathogenic	N	-	baby_6month
+162_10	0000001510	negative	negative	non_pathogenic	N	-	baby_6month
+162_11	0000001511	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_12	0000001512	negative	negative	non_pathogenic	N	-	baby_6month
+162_13	0000001513	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_14	0000001514	negative	negative	non_pathogenic	N	-	baby_6month
+162_15	0000001515	pathogenic	negative	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+162_16	0000001516	negative	negative	non_pathogenic	N	-	baby_6month
+162_17	0000001517	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+162_18	0000001518	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_19	0000001519	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_20	0000001520	negative	negative	non_pathogenic	N	-	baby_6month
+162_21	0000001521	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+162_22	0000001522	negative	negative	non_pathogenic	N	-	baby_6month
+162_23	0000001523	negative	negative	non_pathogenic	N	-	baby_6month
+163_1	0000001524	negative	negative	non_pathogenic	N	-	baby_6month
+163_2	0000001525	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+163_3	0000001526	negative	negative	non_pathogenic	N	-	baby_6month
+163_4	0000001527	negative	negative	non_pathogenic	N	-	baby_6month
+163_5	0000001528	negative	negative	non_pathogenic	N	-	baby_6month
+163_6	0000001529	negative	negative	non_pathogenic	N	-	baby_6month
+164_1	0000001530	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+164_2	0000001531	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+164_3	0000001532	negative	negative	non_pathogenic	N	-	baby_6month
+165_1	0000001533	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+165_2	0000001534	negative	negative	non_pathogenic	N	-	baby_6month
+165_3	0000001535	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+165_4	0000001536	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+165_5	0000001537	negative	negative	non_pathogenic	N	-	baby_6month
+165_6	0000001538	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+165_7	0000001539	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+165_8	0000001540	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+165_9	0000001541	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+165_10	0000001542	negative	negative	non_pathogenic	N	-	baby_6month
+166_1	0000001543	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+166_2	0000001544	negative	negative	non_pathogenic	N	-	baby_6month
+166_3	0000001545	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+166_4	0000001546	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+166_5	0000001547	negative	negative	non_pathogenic	N	-	baby_6month
+166_6	0000001548	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+166_7	0000001549	negative	negative	non_pathogenic	N	-	baby_6month
+166_8	0000001550	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+166_9	0000001551	negative	negative	non_pathogenic	N	-	baby_6month
+166_10	0000001552	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+166_11	0000001553	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+166_12	0000001554	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+166_13	0000001555	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+166_14	0000001556	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+166_15	0000001557	negative	negative	non_pathogenic	N	-	baby_6month
+166_16	0000001558	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+166_17	0000001559	negative	negative	non_pathogenic	N	-	baby_6month
+167_1	0000001560	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor	baby_6month
+167_2	0000001561	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+167_3	0000001562	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+167_4	0000001563	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+167_5	0000001564	negative	negative	non_pathogenic	N	-	baby_6month
+167_6	0000001565	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+167_7	0000001566	negative	negative	non_pathogenic	N	-	baby_6month
+167_8	0000001567	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+167_9	0000001568	negative	negative	non_pathogenic	N	-	baby_6month
+167_10	0000001569	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+167_11	0000001570	negative	negative	non_pathogenic	N	-	baby_6month
+167_12	0000001571	negative	negative	non_pathogenic	N	-	baby_6month
+167_13	0000001572	negative	negative	non_pathogenic	N	-	baby_6month
+167_14	0000001573	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+167_15	0000001574	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+167_16	0000001575	negative	negative	non_pathogenic	N	-	baby_6month
+167_17	0000001576	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+168_1	0000001577	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+168_2	0000001578	negative	negative	non_pathogenic	N	-	baby_6month
+168_3	0000001579	negative	negative	non_pathogenic	N	-	baby_6month
+169_1	0000001580	negative	negative	non_pathogenic	N	-	baby_6month
+169_2	0000001581	negative	negative	non_pathogenic	N	-	baby_6month
+169_3	0000001582	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+169_4	0000001583	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+169_5	0000001584	negative	negative	non_pathogenic	Y	-	baby_6month
+169_6	0000001585	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor	baby_6month
+169_7	0000001586	negative	negative	non_pathogenic	Y	-	baby_6month
+169_8	0000001587	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+169_9	0000001588	negative	negative	non_pathogenic	N	-	baby_6month
+169_10	0000001589	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+169_11	0000001590	negative	negative	non_pathogenic	N	-	baby_6month
+169_12	0000001591	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+170_1	0000001592	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+170_2	0000001593	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor	baby_6month
+170_3	0000001594	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+170_4	0000001595	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+170_5	0000001596	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+170_6	0000001597	negative	negative	non_pathogenic	N	-	baby_6month
+170_7	0000001598	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
+170_8	0000001599	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor	baby_6month
