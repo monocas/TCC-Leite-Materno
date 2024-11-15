@@ -1,0 +1,36 @@
+ORF	ORF_ID	Virulence_HMM_prediction	Virulence_classifier_prediction	Virulence_prediction	Signal_peptide	Virulence_confidence_level
+1_1	0000000001	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor
+1_2	0000000002	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor
+1_3	0000000003	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor
+1_4	0000000004	negative	negative	non_pathogenic	N	-
+1_5	0000000005	negative	negative	non_pathogenic	N	-
+1_6	0000000006	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor
+1_7	0000000007	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor
+1_8	0000000008	negative	negative	non_pathogenic	N	-
+1_9	0000000009	negative	negative	non_pathogenic	N	-
+1_10	0000000010	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor
+1_11	0000000011	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor
+1_12	0000000012	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor
+1_13	0000000013	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor
+1_14	0000000014	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor
+1_15	0000000015	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor
+1_16	0000000016	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor
+1_17	0000000017	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor
+1_18	0000000018	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor
+1_19	0000000019	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor
+1_20	0000000020	negative	negative	non_pathogenic	N	-
+1_21	0000000021	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor
+1_22	0000000022	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor
+1_23	0000000023	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor
+1_24	0000000024	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor
+1_25	0000000025	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor
+1_26	0000000026	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor
+1_27	0000000027	pathogenic	pathogenic	pathogenic	N	2: Non-secreted Virulence factor
+1_28	0000000028	negative	pathogenic	unclassified	Y	3: Potential Secreted Virulence factor
+1_29	0000000029	negative	pathogenic	unclassified	N	4: Potential Non-secreted Virulence factor
+1_30	0000000030	pathogenic	pathogenic	pathogenic	Y	1: Secreted Virulence factor
+1_31	0000000031	negative	negative	non_pathogenic	N	-
+1_32	0000000032	negative	negative	non_pathogenic	N	-
+1_33	0000000033	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor
+1_34	0000000034	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor
+1_35	0000000035	pathogenic	negative	unclassified	N	4: Potential Non-secreted Virulence factor
