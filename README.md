@@ -1,6 +1,9 @@
 <h1 align="center"> ANÁLISE DOS FATORES DE VIRULÊNCIA ADVINDOS DE CLUSTERS GÊNICOS BIOSSINTÉTICOS DA MICROBIOTA DO LEITE HUMANO E SUA INFLUÊNCIA NA SAÚDE MATERNA E NEONATAL </h1>
 Este repositório de GitHub é dedicado ao trabalho de conclusão de curso do Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência, faculdade parte do Centro Nacional de Pesquisa em Energia e Materiais (CNPEM). Desse modo, abaixo temos uma explicação do trabalho e os responsáveis:
 
+![image](https://github.com/user-attachments/assets/d9436792-0e52-49b6-8579-a902cbd9e27e)
+
+
 ## Bem-vindo!
 
 
