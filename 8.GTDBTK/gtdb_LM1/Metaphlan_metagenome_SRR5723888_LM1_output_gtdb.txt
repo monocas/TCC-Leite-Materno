@@ -1,9 +1,0 @@
-#mpa_vJun23_CHOCOPhlAnSGB_202403
-#clade_name	relative_abundance
-d__Bacteria	100.0
-d__Bacteria;p__Proteobacteria	100.0
-d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria	100.0
-d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales	100.0
-d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae	100.0
-d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria	100.0
-d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria;s__Neisseria subflava_C	100.0
