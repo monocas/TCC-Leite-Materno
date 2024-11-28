@@ -21,8 +21,7 @@ Este repositório de GitHub é dedicado ao trabalho de conclusão de curso do Ba
 - [Sarah Peixoto Rodrigues Freire](https://github.com/Sarah-Freire) (colaboradora)
 - [Eduarda Veiga Carvalho](https://github.com/veigaeduarda) (colaboradora)
 
-O objetivo geral deste projeto foi identificar, em escala genômica e via análises in silico, os fatores de virulência presentes em BGCs existentes na microbiota do leite humano e no intestino de recém-nascidos, compreendendo como este conjunto de fatores é correlacionado com os ambientes socioeconômicos em que as mulheres estão inseridas.
-
+Esse estudo permitiu com que o leite humano fosse estudado a partir de diferentes óticas: biológica, antropológica, computacional e social, correlacionando todas elas para ter resultados condizentes com a realidade de cada mulher. Além disso, o projeto contribuiu para a formação profissional e pessoal das alunas que conceberam a ideia e a executaram, permitindo troca de saberes entre pesquisadores, alunos e profissionais na área da saúde e indústria, essenciais para pleno desenvolvimento do trabalho.
  Desse modo, abaixo temos uma explicação do trabalho:
 
 ![image](https://github.com/user-attachments/assets/d9436792-0e52-49b6-8579-a902cbd9e27e)
