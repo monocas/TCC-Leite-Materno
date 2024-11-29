@@ -44,7 +44,7 @@ Desse modo, as seguintes pastas compõem esse repositório:
 - [9.Metaphlan](https://github.com/monocas/TCC-Leite-Materno/tree/main/9.Metaphlan): Identificação taxonômica apartir de dados de sequenciamento bruto, shotgun, filtrados apenas utilizando as ferramentas de pré-processamento.
 - [Antismash/bgc_analise](https://github.com/monocas/TCC-Leite-Materno/tree/main/Antismash/bgc_analise): Identificação de Clusters Gênicos Biossintéticos (BGCs).
 - [PathoFact](https://github.com/monocas/TCC-Leite-Materno/tree/main/PathoFact): Predição dos fatores de virulência.
-- [Tamanho_contigs](https://github.com/monocas/TCC-Leite-Materno/tree/main/Tamanho_contigs): Avaliação estatística do tamanho de contigs, arquivo de saída do MegaHit
+- [Tamanho_contigs](https://github.com/monocas/TCC-Leite-Materno/tree/main/Tamanho_contigs): Avaliação estatística do tamanho de contigs, arquivo de saída do MegaHit.
 - [_NextFlow](https://github.com/monocas/TCC-Leite-Materno/tree/main/_NextFlow): Ferramenta utilizada para a criação de um pipeline para automatização de workflow.
 - [LICENSE](https://github.com/monocas/TCC-Leite-Materno/blob/main/LICENSE): Contém a licença a que este trabalho está submetida.
 - [README.md](https://github.com/monocas/TCC-Leite-Materno/blob/main/README.md): Presente arquivo, introdução e guia de nevegação do repositório.
