@@ -22,7 +22,7 @@ Este repositório de GitHub é dedicado ao trabalho de conclusão de curso do Ba
 - [Eduarda Veiga Carvalho](https://github.com/veigaeduarda) (colaboradora)
 
 Esse estudo permitiu com que o leite humano fosse estudado a partir de diferentes óticas: biológica, antropológica, computacional e social, correlacionando todas elas para ter resultados condizentes com a realidade de cada mulher. Além disso, o projeto contribuiu para a formação profissional e pessoal das alunas que conceberam a ideia e a executaram, permitindo troca de saberes entre pesquisadores, alunos e profissionais na área da saúde e indústria, essenciais para pleno desenvolvimento do trabalho.
- Desse modo, abaixo temos uma explicação do trabalho:
+ Desse modo, abaixo temos uma explicação do trabalho.
 
 ![image](https://github.com/user-attachments/assets/d9436792-0e52-49b6-8579-a902cbd9e27e)
 
@@ -31,23 +31,23 @@ Esse estudo permitiu com que o leite humano fosse estudado a partir de diferente
 <p align="justify"> Guia para navegar nesse Git; </p>
 
 Desse modo, as seguintes pastas compõem esse repositório:
-- [0.Data_Input](https://github.com/monocas/TCC-Leite-Materno/tree/main/0.Data_Input): É uma tabela excel que possibilita encontrar os alimentos e seus dados de calorias e densidade nutricional
-- [1.1.FastQC](https://github.com/monocas/TCC-Leite-Materno/tree/main/1.1.FastQC): É uma tabela excel, onde podemos encontrar os alimentos e seus dados de calorias, proteínas, lipídios, carboidratos e fibra alimentar
-- [1.2.MultiQC](https://github.com/monocas/TCC-Leite-Materno/tree/main/1.2.MultiQC): Notebook o qual utiliza o arquivo excel "Alimentos.xlsx" e altera os seus dados para produzir os dados de densidade nutricional e gerar o arquivo excel "Alimentos - Calorias.xlsx".
-- [2.Trimmomatics](https://github.com/monocas/TCC-Leite-Materno/tree/main/2.Trimmomatics): Apresenta a licença usada no repositório
-- [3.Bowtie](https://github.com/monocas/TCC-Leite-Materno/tree/main/3.Bowtie): Arquivo python a qual armazenam todas as funções utilizadas no decorrer do trabalho.
-- [4.Samtools](https://github.com/monocas/TCC-Leite-Materno/tree/main/4.Samtools): É o notebook onde o trabalho foi desenvolvido.
-- [5.MegaHit](https://github.com/monocas/TCC-Leite-Materno/tree/main/5.MegaHit): Notebook o qual utiliza o arquivo excel "Alimentos.xlsx" e altera os seus dados para produzir os dados de densidade nutricional e gerar o arquivo excel "Alimentos - Calorias.xlsx".
-- [6.MetaBat2](https://github.com/monocas/TCC-Leite-Materno/tree/main/6.MetaBat2): Apresenta a licença usada no repositório
-- [7.Checkm](https://github.com/monocas/TCC-Leite-Materno/tree/main/7.Checkm): Arquivo python a qual armazenam todas as funções utilizadas no decorrer do trabalho.
-- [8.GTDBTK](https://github.com/monocas/TCC-Leite-Materno/tree/main/8.GTDBTK): É o notebook onde o trabalho foi desenvolvido.
-- [9.Metaphlan](https://github.com/monocas/TCC-Leite-Materno/tree/main/9.Metaphlan): Arquivo python a qual armazenam todas as funções utilizadas no decorrer do trabalho.
-- [Antismash/bgc_analise](https://github.com/monocas/TCC-Leite-Materno/tree/main/Antismash/bgc_analise): É o notebook onde o trabalho foi desenvolvido.
-- [PathoFact](https://github.com/monocas/TCC-Leite-Materno/tree/main/PathoFact): Notebook o qual utiliza o arquivo excel "Alimentos.xlsx" e altera os seus dados para produzir os dados de densidade nutricional e gerar o arquivo excel "Alimentos - Calorias.xlsx".
-- [Tamanho_contigs](https://github.com/monocas/TCC-Leite-Materno/tree/main/Tamanho_contigs): Apresenta a licença usada no repositório
-- [_NextFlow](https://github.com/monocas/TCC-Leite-Materno/tree/main/_NextFlow): Arquivo python a qual armazenam todas as funções utilizadas no decorrer do trabalho.
-- [LICENSE](https://github.com/monocas/TCC-Leite-Materno/blob/main/LICENSE): É o notebook onde o trabalho foi desenvolvido.
-- [README.md](https://github.com/monocas/TCC-Leite-Materno/blob/main/README.md): É o notebook onde o trabalho foi desenvolvido.
+- [0.Data_Input](https://github.com/monocas/TCC-Leite-Materno/tree/main/0.Data_Input): Dados utilizados no projeto.
+- [1.1.FastQC](https://github.com/monocas/TCC-Leite-Materno/tree/main/1.1.FastQC): Arquivo gerado pelo software FASTQC que realiza o controle de qualidade inicial das sequências.
+- [1.2.MultiQC](https://github.com/monocas/TCC-Leite-Materno/tree/main/1.2.MultiQC): Resultado gerado pelo software MultiQC que escaneia os resultados dos relatórios de controle de qualidade do FastQC.
+- [2.Trimmomatics](https://github.com/monocas/TCC-Leite-Materno/tree/main/2.Trimmomatics): Remoção de adaptadores moleculares e bases com baixa qualidade de sequenciamento.
+- [3.Bowtie](https://github.com/monocas/TCC-Leite-Materno/tree/main/3.Bowtie): Execução da etapa final do pré-processamento dos dados metagenômicos, responsável pela remoção de informações genéticas correspondentes ao hospedeiro da amostra, permitindo a análise dos genomas restantes, bacterianos.
+- [4.Samtools](https://github.com/monocas/TCC-Leite-Materno/tree/main/4.Samtools): Conversão de arquivos do formato SAM (Sequence Alignment Map) para FASTQ.
+- [5.MegaHit](https://github.com/monocas/TCC-Leite-Materno/tree/main/5.MegaHit): Formação dos contigs.
+- [6.MetaBat2](https://github.com/monocas/TCC-Leite-Materno/tree/main/6.MetaBat2): Montagem dos genomas juntando contigs em bins.
+- [7.Checkm](https://github.com/monocas/TCC-Leite-Materno/tree/main/7.Checkm): Avaliação da qualidade da reconstrução do genoma.
+- [8.GTDBTK](https://github.com/monocas/TCC-Leite-Materno/tree/main/8.GTDBTK): Genome Taxonomy Database Toolkit. Identificação dos genomas bacterianos presentes. 
+- [9.Metaphlan](https://github.com/monocas/TCC-Leite-Materno/tree/main/9.Metaphlan): Identificação taxonômica apartir de dados de sequenciamento bruto, shotgun, filtrados apenas utilizando as ferramentas de pré-processamento.
+- [Antismash/bgc_analise](https://github.com/monocas/TCC-Leite-Materno/tree/main/Antismash/bgc_analise): Identificação de Clusters Gênicos Biossintéticos (BGCs).
+- [PathoFact](https://github.com/monocas/TCC-Leite-Materno/tree/main/PathoFact): Predição dos fatores de virulência.
+- [Tamanho_contigs](https://github.com/monocas/TCC-Leite-Materno/tree/main/Tamanho_contigs): ----
+- [_NextFlow](https://github.com/monocas/TCC-Leite-Materno/tree/main/_NextFlow): Ferramenta utilizada para a criação de um pipeline para automatização de workflow.
+- [LICENSE](https://github.com/monocas/TCC-Leite-Materno/blob/main/LICENSE): Contém a licença a que este trabalho está submetida.
+- [README.md](https://github.com/monocas/TCC-Leite-Materno/blob/main/README.md): Presente arquivo, introdução e guia de nevegação do repositório.
 
 
 
